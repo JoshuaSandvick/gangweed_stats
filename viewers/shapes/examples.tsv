@@ -1,0 +1,101 @@
+side	rank	shape	band	source	time	attacking_team
+attack	1	first man on the ball (<1000); second man tight (<1000 behind); last man in their third; narrow (<3500); nobody past the ball	champion-2	f7fa4c3c-5664-401a-8e15-5e9975e5c690	418.50	0
+attack	1	first man on the ball (<1000); second man tight (<1000 behind); last man in their third; narrow (<3500); nobody past the ball	champion-1	921a1a93-a1d9-48e8-b453-f6f109687085	324.00	0
+attack	1	first man on the ball (<1000); second man tight (<1000 behind); last man in their third; narrow (<3500); nobody past the ball	champion-2	92aa0aed-b75e-47e3-966b-b5e592eebbf4	275.50	0
+attack	1	first man on the ball (<1000); second man tight (<1000 behind); last man in their third; narrow (<3500); nobody past the ball	champion-3	9ceb4555-0f84-4afe-bbdc-a22e46fd3a53	18.50	0
+attack	1	first man on the ball (<1000); second man tight (<1000 behind); last man in their third; narrow (<3500); nobody past the ball	supersonic-legend	cd2c5d33-422a-4d11-b6ca-9d827c5d26fe	337.00	0
+attack	2	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their third; narrow (<3500); nobody past the ball	champion-2	68b1fadd-2589-4f34-ba08-585e97a536e9	107.50	1
+attack	2	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their third; narrow (<3500); nobody past the ball	grand-champion-2	65fca2f7-0315-4312-904a-554a1a75f5a5	258.50	0
+attack	2	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their third; narrow (<3500); nobody past the ball	grand-champion-1	3ed1610b-4eb5-441d-bdf8-98a7b48d3754	237.50	0
+attack	2	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their third; narrow (<3500); nobody past the ball	grand-champion-2	5e4c6288-8005-40fb-adef-fb81105d1dcc	335.50	0
+attack	2	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their third; narrow (<3500); nobody past the ball	grand-champion-3	6df7ccda-5201-42f1-8f78-1b1d046ac941	229.50	0
+attack	3	first man on the ball (<1000); second man far (2500+ behind); last man in their half; narrow (<3500); nobody past the ball	champion-1	3d384dd7-0fa4-4554-a70a-e6695e6bd75d	241.50	0
+attack	3	first man on the ball (<1000); second man far (2500+ behind); last man in their half; narrow (<3500); nobody past the ball	grand-champion-2	122039fb-10e1-4df3-bb14-a69edbf1c9ed	327.00	0
+attack	3	first man on the ball (<1000); second man far (2500+ behind); last man in their half; narrow (<3500); nobody past the ball	grand-champion-3	c89bbff4-4728-47df-b8ab-b523cd65ce84	287.00	0
+attack	3	first man on the ball (<1000); second man far (2500+ behind); last man in their half; narrow (<3500); nobody past the ball	grand-champion-1	4543cc72-c4b4-4721-a938-d92716177ca0	278.00	1
+attack	3	first man on the ball (<1000); second man far (2500+ behind); last man in their half; narrow (<3500); nobody past the ball	champion-1	24c227f3-3fd6-4dff-9d97-6ce6dcce84f0	64.00	1
+attack	4	first man on the ball (<1000); second man tight (<1000 behind); last man in our half; narrow (<3500); nobody past the ball	champion-3	c3483e27-713f-465b-acf1-8503c865467d	279.50	0
+attack	4	first man on the ball (<1000); second man tight (<1000 behind); last man in our half; narrow (<3500); nobody past the ball	grand-champion-2	cc8c4241-cc39-4912-aef6-e0c1a675597b	54.00	0
+attack	4	first man on the ball (<1000); second man tight (<1000 behind); last man in our half; narrow (<3500); nobody past the ball	champion-1	25abe472-4d67-44a2-b924-1b5948625a90	13.50	0
+attack	4	first man on the ball (<1000); second man tight (<1000 behind); last man in our half; narrow (<3500); nobody past the ball	champion-3	0f50d720-27df-445f-89f9-5d4c6b59017c	109.50	0
+attack	4	first man on the ball (<1000); second man tight (<1000 behind); last man in our half; narrow (<3500); nobody past the ball	grand-champion-1	c7067703-cd89-420d-93dd-1d7feb9b83a9	254.50	1
+attack	5	first man on the ball (<1000); second man tight (<1000 behind); last man in their half; narrow (<3500); nobody past the ball	champion-1	ed29756c-1b2d-409c-9b99-0b00eac4fb91	27.50	0
+attack	5	first man on the ball (<1000); second man tight (<1000 behind); last man in their half; narrow (<3500); nobody past the ball	grand-champion-3	792f6668-419d-432d-9fe0-abe0cdb329e9	167.00	0
+attack	5	first man on the ball (<1000); second man tight (<1000 behind); last man in their half; narrow (<3500); nobody past the ball	champion-3	11f829d9-2cf6-4ec4-9be0-36c99302e263	390.50	0
+attack	5	first man on the ball (<1000); second man tight (<1000 behind); last man in their half; narrow (<3500); nobody past the ball	champion-2	e2caf325-8937-4e1f-9ad5-ea77d6008035	250.00	1
+attack	5	first man on the ball (<1000); second man tight (<1000 behind); last man in their half; narrow (<3500); nobody past the ball	grand-champion-1	b4457ca1-37f5-4ae6-87bc-89426b99d86d	344.00	1
+attack	6	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their half; narrow (<3500); nobody past the ball	grand-champion-2	acd467a7-1985-41dc-b047-542d3f7d139f	332.50	1
+attack	6	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their half; narrow (<3500); nobody past the ball	grand-champion-3	0a8a6d23-ea2d-4b37-918d-e5b1ec1ac020	145.00	1
+attack	6	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their half; narrow (<3500); nobody past the ball	champion-2	19e97f99-b6e6-425c-bf06-a7aa0c8f5aa1	207.50	1
+attack	6	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their half; narrow (<3500); nobody past the ball	champion-2	8048cde1-9094-4f45-8ca4-80c39029fcdb	13.00	1
+attack	6	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their half; narrow (<3500); nobody past the ball	champion-3	97014dbe-7ba7-44e8-9db9-31d0ade7c1c5	180.00	0
+attack	7	first man on the ball (<1000); second man mid (1000-2500 behind); last man in our half; narrow (<3500); nobody past the ball	grand-champion-3	241570d9-b551-4830-97e4-14da76f03313	50.50	0
+attack	7	first man on the ball (<1000); second man mid (1000-2500 behind); last man in our half; narrow (<3500); nobody past the ball	grand-champion-1	79d6de93-f151-4e68-ba99-8f80b16dc612	171.50	1
+attack	7	first man on the ball (<1000); second man mid (1000-2500 behind); last man in our half; narrow (<3500); nobody past the ball	grand-champion-2	eef49c57-7d05-46ab-9b5a-be0e85498f70	38.00	0
+attack	7	first man on the ball (<1000); second man mid (1000-2500 behind); last man in our half; narrow (<3500); nobody past the ball	champion-1	b5ea6222-557b-4a0f-824c-db45b040c1e1	115.00	0
+attack	7	first man on the ball (<1000); second man mid (1000-2500 behind); last man in our half; narrow (<3500); nobody past the ball	champion-3	96cd5eff-60d2-4a54-a695-eadecfb0f26f	146.00	0
+attack	8	first man on the ball (<1000); second man tight (<1000 behind); last man in their third; narrow (<3500); someone past the ball	champion-3	86980055-132c-4606-941d-439a875a11ef	263.00	0
+attack	8	first man on the ball (<1000); second man tight (<1000 behind); last man in their third; narrow (<3500); someone past the ball	grand-champion-1	94f40401-86de-4c05-98b9-862298358215	295.00	0
+attack	8	first man on the ball (<1000); second man tight (<1000 behind); last man in their third; narrow (<3500); someone past the ball	grand-champion-2	d9579bdd-5119-4f03-86bd-77dd010ab165	268.00	1
+attack	8	first man on the ball (<1000); second man tight (<1000 behind); last man in their third; narrow (<3500); someone past the ball	grand-champion-3	26820483-e16d-48d5-a798-001b28539757	316.50	0
+attack	8	first man on the ball (<1000); second man tight (<1000 behind); last man in their third; narrow (<3500); someone past the ball	supersonic-legend	a14488ce-8841-4e01-a494-ac2983e36b32	298.00	1
+attack	9	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their third; narrow (<3500); someone past the ball	grand-champion-3	e05f3100-5b11-4fab-909c-48de431c265f	294.50	1
+attack	9	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their third; narrow (<3500); someone past the ball	grand-champion-2	e316bf99-4fe8-402e-99b7-090ca2534e41	312.50	0
+attack	9	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their third; narrow (<3500); someone past the ball	champion-3	1aa8d568-9893-4899-8eeb-e253fa6cfa41	99.50	1
+attack	9	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their third; narrow (<3500); someone past the ball	supersonic-legend	4de1b5f7-9ace-456a-b1ed-55943d87c94d	223.50	1
+attack	9	first man on the ball (<1000); second man mid (1000-2500 behind); last man in their third; narrow (<3500); someone past the ball	champion-1	0ecafcc3-2181-4af3-9266-561d775886a4	314.50	0
+attack	10	first man on the ball (<1000); second man far (2500+ behind); last man in our half; narrow (<3500); nobody past the ball	champion-2	9f775e08-3abd-4730-98c8-ee382d55eff4	224.00	0
+attack	10	first man on the ball (<1000); second man far (2500+ behind); last man in our half; narrow (<3500); nobody past the ball	grand-champion-2	46f34914-e5c6-4d9d-bcf6-bc700e289322	296.50	1
+attack	10	first man on the ball (<1000); second man far (2500+ behind); last man in our half; narrow (<3500); nobody past the ball	champion-3	961f56ba-119d-4d41-8d6a-76378fb501e9	53.00	0
+attack	10	first man on the ball (<1000); second man far (2500+ behind); last man in our half; narrow (<3500); nobody past the ball	champion-1	b09e0d05-33f9-43dd-bde8-98056921768a	72.00	1
+attack	10	first man on the ball (<1000); second man far (2500+ behind); last man in our half; narrow (<3500); nobody past the ball	champion-1	f8f707f5-df77-4069-a343-edb855ae285c	333.50	1
+defense	1	first defender on the ball (<1000); 3 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	grand-champion-1	383a82ab-4cd1-4168-9091-5e72e96a48d1	155.50	0
+defense	1	first defender on the ball (<1000); 3 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	supersonic-legend	cd2c5d33-422a-4d11-b6ca-9d827c5d26fe	87.50	1
+defense	1	first defender on the ball (<1000); 3 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	champion-2	a9f665f7-aab9-4fbb-bdff-d968f89e4a50	65.50	1
+defense	1	first defender on the ball (<1000); 3 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	champion-1	d6166ea8-9076-4d2a-a5c0-465e53bcdd05	171.00	1
+defense	1	first defender on the ball (<1000); 3 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	champion-3	feb1d645-fb45-45ae-ba8a-9cc4ca7ebab3	51.50	1
+defense	2	first defender on the ball (<1000); 3 goal-side; last defender in front of goal (500-2000); wide (3500+); nobody parked at the post	grand-champion-2	6ce19ff8-a3fb-4c2e-a128-7413af3b4d87	15.50	1
+defense	2	first defender on the ball (<1000); 3 goal-side; last defender in front of goal (500-2000); wide (3500+); nobody parked at the post	champion-1	54dc8820-b70d-4de3-8561-30bf9d05ca19	41.50	1
+defense	2	first defender on the ball (<1000); 3 goal-side; last defender in front of goal (500-2000); wide (3500+); nobody parked at the post	champion-1	86832673-2d3a-40f3-a1fc-c5242c04d956	45.50	0
+defense	2	first defender on the ball (<1000); 3 goal-side; last defender in front of goal (500-2000); wide (3500+); nobody parked at the post	grand-champion-1	c7067703-cd89-420d-93dd-1d7feb9b83a9	62.00	0
+defense	2	first defender on the ball (<1000); 3 goal-side; last defender in front of goal (500-2000); wide (3500+); nobody parked at the post	champion-1	0931d1d5-b04c-4cdb-b445-48a308e16aab	171.50	1
+defense	3	first defender on the ball (<1000); 3 goal-side; last defender in the net (<500); wide (3500+); nobody parked at the post	grand-champion-3	9bb90935-3649-42a6-ae98-6336ed874833	208.00	1
+defense	3	first defender on the ball (<1000); 3 goal-side; last defender in the net (<500); wide (3500+); nobody parked at the post	grand-champion-1	5acd6825-e1d2-4d33-beb5-345f31a6832d	28.50	1
+defense	3	first defender on the ball (<1000); 3 goal-side; last defender in the net (<500); wide (3500+); nobody parked at the post	champion-1	25abe472-4d67-44a2-b924-1b5948625a90	201.50	0
+defense	3	first defender on the ball (<1000); 3 goal-side; last defender in the net (<500); wide (3500+); nobody parked at the post	grand-champion-3	f7b06a56-edb7-4d58-bb77-c101d0278330	92.50	1
+defense	3	first defender on the ball (<1000); 3 goal-side; last defender in the net (<500); wide (3500+); nobody parked at the post	grand-champion-2	fe07ab64-2f09-4ceb-b85d-89e1e85cf75d	22.50	0
+defense	4	first defender on the ball (<1000); 2 goal-side; last defender out (2000+); narrow (<3500); nobody parked at the post	grand-champion-1	98af065b-afdb-4f4f-961b-a0adac2546e4	37.00	1
+defense	4	first defender on the ball (<1000); 2 goal-side; last defender out (2000+); narrow (<3500); nobody parked at the post	champion-1	586cb9c5-5429-447d-a724-47d88e069023	21.50	0
+defense	4	first defender on the ball (<1000); 2 goal-side; last defender out (2000+); narrow (<3500); nobody parked at the post	grand-champion-1	679864d2-9311-4b45-bf0e-ba01e86bb377	161.00	1
+defense	4	first defender on the ball (<1000); 2 goal-side; last defender out (2000+); narrow (<3500); nobody parked at the post	champion-1	d0b2d01a-12e1-4564-9637-6afed8e7f0ec	176.00	1
+defense	4	first defender on the ball (<1000); 2 goal-side; last defender out (2000+); narrow (<3500); nobody parked at the post	champion-2	ec84bff8-07d0-47ad-a156-28c5db84d70f	121.50	0
+defense	5	first defender on the ball (<1000); 3 goal-side; last defender in the net (<500); narrow (<3500); nobody parked at the post	champion-1	008be2f1-af9a-44e2-a5ec-b872a1b75863	23.00	1
+defense	5	first defender on the ball (<1000); 3 goal-side; last defender in the net (<500); narrow (<3500); nobody parked at the post	grand-champion-1	dcc24574-0db1-4dc7-b0b0-43b8a0e895d6	70.00	1
+defense	5	first defender on the ball (<1000); 3 goal-side; last defender in the net (<500); narrow (<3500); nobody parked at the post	grand-champion-2	8320a493-0864-46b1-90b3-3408ee355005	30.50	0
+defense	5	first defender on the ball (<1000); 3 goal-side; last defender in the net (<500); narrow (<3500); nobody parked at the post	champion-1	208fff2c-bc4a-4579-9c4a-692d917b7d1b	96.50	0
+defense	5	first defender on the ball (<1000); 3 goal-side; last defender in the net (<500); narrow (<3500); nobody parked at the post	grand-champion-2	babb8425-e37e-4f9c-ac22-b6c082aaef17	85.00	0
+defense	6	first defender on the ball (<1000); 2 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	grand-champion-1	055c2fd9-e81e-4358-90a3-8fd4d44de7a7	17.50	0
+defense	6	first defender on the ball (<1000); 2 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	grand-champion-2	393aa9d4-9f0a-47b5-9f71-6e78a086cdf9	115.50	1
+defense	6	first defender on the ball (<1000); 2 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	supersonic-legend	3568d7d5-d55a-406b-be3e-d0682f1c2aaa	163.50	0
+defense	6	first defender on the ball (<1000); 2 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	grand-champion-1	a546487c-0016-4395-8248-3ed19a3dcf19	39.50	1
+defense	6	first defender on the ball (<1000); 2 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	champion-2	33f7b148-4e3c-4210-ba52-a17f4a204792	152.00	1
+defense	7	first defender on the ball (<1000); 2 goal-side; last defender in front of goal (500-2000); wide (3500+); nobody parked at the post	champion-3	18e7bc63-fd17-4f1b-9586-e897e72caea3	87.00	1
+defense	7	first defender on the ball (<1000); 2 goal-side; last defender in front of goal (500-2000); wide (3500+); nobody parked at the post	grand-champion-1	f55a9896-1093-4827-ba62-eb37f54e1fb5	31.50	0
+defense	7	first defender on the ball (<1000); 2 goal-side; last defender in front of goal (500-2000); wide (3500+); nobody parked at the post	champion-3	373d0662-d7c3-4fab-89b6-23322cc7e353	12.00	1
+defense	7	first defender on the ball (<1000); 2 goal-side; last defender in front of goal (500-2000); wide (3500+); nobody parked at the post	grand-champion-1	6b8ac5f6-5102-4c8d-a5e3-c060f5e69c92	60.00	0
+defense	7	first defender on the ball (<1000); 2 goal-side; last defender in front of goal (500-2000); wide (3500+); nobody parked at the post	grand-champion-2	e1a41447-61b5-4439-9cbf-185ddad033a3	30.50	0
+defense	8	first defender close (1000-2000); 3 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	champion-1	553705a5-ff36-4806-b47b-5b8390108460	211.00	0
+defense	8	first defender close (1000-2000); 3 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	champion-3	d43c69ea-1f05-4799-9267-0572d7cdb5d8	226.00	1
+defense	8	first defender close (1000-2000); 3 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	champion-1	a01ea935-f6dd-4bab-812e-bd21d0fe6b9f	271.50	0
+defense	8	first defender close (1000-2000); 3 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	champion-2	d4c65b1e-ce5c-4f3b-90e8-6194cefdfaf8	111.00	1
+defense	8	first defender close (1000-2000); 3 goal-side; last defender in front of goal (500-2000); narrow (<3500); nobody parked at the post	champion-3	ae263667-0c53-4947-af1c-2465392db554	100.50	0
+defense	9	first defender on the ball (<1000); 2 goal-side; last defender in the net (<500); wide (3500+); nobody parked at the post	grand-champion-1	b50ad2e4-66bf-420a-b53b-4b1439806678	92.00	1
+defense	9	first defender on the ball (<1000); 2 goal-side; last defender in the net (<500); wide (3500+); nobody parked at the post	champion-3	e8f80097-e4bb-44bc-a270-54139e763c66	171.50	0
+defense	9	first defender on the ball (<1000); 2 goal-side; last defender in the net (<500); wide (3500+); nobody parked at the post	grand-champion-1	263e89dc-aa53-4cb0-9e0d-6b55f508f8e1	28.50	1
+defense	9	first defender on the ball (<1000); 2 goal-side; last defender in the net (<500); wide (3500+); nobody parked at the post	grand-champion-2	f77cf2b3-0638-4b0e-991c-6a52f3e418a0	195.00	1
+defense	9	first defender on the ball (<1000); 2 goal-side; last defender in the net (<500); wide (3500+); nobody parked at the post	champion-2	3a61adc1-13f3-4596-8db4-710eea9dd059	181.00	1
+defense	10	first defender on the ball (<1000); 1 goal-side; last defender out (2000+); wide (3500+); nobody parked at the post	grand-champion-3	26820483-e16d-48d5-a798-001b28539757	15.50	1
+defense	10	first defender on the ball (<1000); 1 goal-side; last defender out (2000+); wide (3500+); nobody parked at the post	grand-champion-1	3a91e215-e2c8-43f5-a5dc-ae459fa6eaa9	243.50	0
+defense	10	first defender on the ball (<1000); 1 goal-side; last defender out (2000+); wide (3500+); nobody parked at the post	grand-champion-2	6c397c22-2666-44cf-9e9b-3b083a501f0d	297.50	0
+defense	10	first defender on the ball (<1000); 1 goal-side; last defender out (2000+); wide (3500+); nobody parked at the post	champion-3	2fa5f94e-592b-47bd-b34d-b642c0553ee1	43.50	1
+defense	10	first defender on the ball (<1000); 1 goal-side; last defender out (2000+); wide (3500+); nobody parked at the post	champion-1	bef3c1a2-d4db-4c40-be1f-e96e41d0a4d7	189.00	0
