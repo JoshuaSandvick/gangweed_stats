@@ -1,0 +1,25 @@
+pair	goal	step_s	replay	time	band	source	source_time	mirrored	distance_uu	offsets	same_situation	note
+01-34d0699a	1	0	C0C6D2BC43BB2830A8B3AD8257D37502.replay	555.50	champion-2	34d0699a-ff62-4b43-894b-8aa73b4c137d	67.50	yes	872	nobody at the front post		
+01-dce344d8	1	0	C0C6D2BC43BB2830A8B3AD8257D37502.replay	555.50	champion-3	dce344d8-4c9e-4691-9160-a3bd79b53b60	37.50	yes	887	nobody at the front post		
+01-eac3288e	1	0	C0C6D2BC43BB2830A8B3AD8257D37502.replay	555.50	grand-champion-3	eac3288e-c689-4034-b997-fba8f634bbdc	22.50	yes	926	nobody at the front post		
+02-183c45ca	2	0	127612B946C44C623BE06C8EEF823314.replay	359.00	champion-2	183c45ca-5730-4286-8684-a074dcd58e63	331.00	no	726	nobody at the front post		
+02-b23f680d	2	0	127612B946C44C623BE06C8EEF823314.replay	359.00	champion-1	b23f680d-2e83-4594-aaa0-62041f7fb412	333.00	no	806	a defender at the front post, moving (1557 uu/s)		
+02-a57ec062	2	0	127612B946C44C623BE06C8EEF823314.replay	359.00	champion-2	a57ec062-4184-4726-97ce-f5fbd4fc42f7	185.50	no	845	a defender parked at the front post (246 uu/s)		
+03-f8b12a30	3	0	779936DE495F7649994166A2835B1B5D.replay	47.00	grand-champion-3	f8b12a30-8535-47cb-b246-34278fa4183e	156.50	yes	644	nobody at the front post		
+03-d296fa1c	3	0	779936DE495F7649994166A2835B1B5D.replay	47.00	champion-3	d296fa1c-04ee-4a1a-84aa-d302acdee309	149.50	no	694	a defender at the front post, moving (754 uu/s)		
+03-3f1862cb	3	0	779936DE495F7649994166A2835B1B5D.replay	47.00	grand-champion-1	3f1862cb-95d2-4244-bf9f-16cedb9ad60c	97.00	no	733	a defender at the front post, moving (1458 uu/s)		
+04-0ecafcc3	4	0	D034DA5811F1C2BC8A290CABE8FBC013.replay	207.00	champion-1	0ecafcc3-2181-4af3-9266-561d775886a4	63.00	yes	685	nobody at the front post		
+04-7da32d8e	4	0	D034DA5811F1C2BC8A290CABE8FBC013.replay	207.00	grand-champion-2	7da32d8e-65e2-4ab7-8b91-32d657e2b9a2	95.50	no	709	nobody at the front post		
+04-b6a10d8f	4	0	D034DA5811F1C2BC8A290CABE8FBC013.replay	207.00	champion-2	b6a10d8f-5d46-4427-834d-2a427f1ca751	170.00	no	720	nobody at the front post		
+05-d8d4a4c6	5	0	A242238B4C7D2DDE39C5F091476E5AA0.replay	265.50	grand-champion-1	d8d4a4c6-186a-40c4-875c-45e0d01d96cc	141.50	no	632	nobody at the front post		
+05-59634249	5	0	A242238B4C7D2DDE39C5F091476E5AA0.replay	265.50	champion-2	59634249-8a0b-4639-8154-f5571380ff7c	310.00	yes	653	nobody at the front post		
+05-679cacf5	5	0	A242238B4C7D2DDE39C5F091476E5AA0.replay	265.50	champion-1	679cacf5-d6a2-45a6-a090-a07ece98f153	349.00	no	689	nobody at the front post		
+06-f7637c26	6	0	C0C6D2BC43BB2830A8B3AD8257D37502.replay	638.00	champion-2	f7637c26-0900-414d-884d-7ea288b9011a	77.50	yes	533	nobody at the front post		
+06-fd8f9ea1	6	0	C0C6D2BC43BB2830A8B3AD8257D37502.replay	638.00	grand-champion-2	fd8f9ea1-9f00-4851-988f-d292dced584c	91.50	no	558	a defender at the front post, moving (899 uu/s)		
+06-d1d389c6	6	0	C0C6D2BC43BB2830A8B3AD8257D37502.replay	638.00	grand-champion-1	d1d389c6-7502-4944-ac90-05a248b8a49e	76.00	yes	561	nobody at the front post		
+07-77f9caae	7	0	127612B946C44C623BE06C8EEF823314.replay	307.00	champion-3	77f9caae-8d7d-466f-917f-ca33f46cef9b	223.00	yes	646	a defender at the front post, moving (1304 uu/s)		
+07-b7f97b9b	7	0	127612B946C44C623BE06C8EEF823314.replay	307.00	champion-1	b7f97b9b-82c6-4397-862d-a88721a110be	308.50	no	674	nobody at the front post		
+07-402a3a18	7	0	127612B946C44C623BE06C8EEF823314.replay	307.00	champion-2	402a3a18-9178-4dbc-8e61-b87c3b401fd8	134.50	yes	718	a defender at the front post, moving (1168 uu/s)		
+08-6ea68fda	8	0	B550A61545757E49F72635B51AB6CB9B.replay	460.00	grand-champion-2	6ea68fda-0ba3-43be-932c-7e68655906ac	356.00	no	724	a defender at the front post, moving (981 uu/s)		
+08-d952f6f0	8	0	B550A61545757E49F72635B51AB6CB9B.replay	460.00	champion-2	d952f6f0-69ac-442f-97b0-c75f16b6811b	97.00	no	773	nobody at the front post		
+08-ba8ec9ba	8	0	B550A61545757E49F72635B51AB6CB9B.replay	460.00	grand-champion-1	ba8ec9ba-7133-467e-9051-24626145b798	44.00	no	789	a defender at the front post, moving (682 uu/s)		
