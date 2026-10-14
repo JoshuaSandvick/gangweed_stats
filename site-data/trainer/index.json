@@ -1,0 +1,1 @@
+{"version":1,"sets":[{"id":"parked","title":"Parked at the front post","status":"computed","count":8,"path":"site-data/trainer/parked.json"},{"id":"dead-zone","title":"Dead-zone retreats","status":"computed","count":12,"path":"site-data/trainer/dead-zone.json"},{"id":"conceded","title":"Goals against","status":"computed","count":22,"path":"site-data/trainer/conceded.json"}]}
