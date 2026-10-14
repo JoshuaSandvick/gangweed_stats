@@ -1,7 +1,7 @@
 {
  "viewer": "dead-zone",
  "reviewer": "Josh",
- "updated": "2026-10-14T17:17:24.332Z",
+ "updated": "2026-10-14T17:17:53.784Z",
  "verdicts": {
   "moment:ef683412b479": {
    "accurate": "no",
@@ -28,7 +28,8 @@
    "accurate": "no"
   },
   "moment:70df653c7404": {
-   "accurate": "no"
+   "accurate": "no",
+   "note": "Ideally here, Mike gets a higher touch up the wall and controls it, and Jake and I rotate up field for a pass. However, Mike gets a bad touch, and Jake's retreat is critical here to defense."
   }
  }
 }
