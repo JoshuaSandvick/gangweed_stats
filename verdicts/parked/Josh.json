@@ -1,7 +1,7 @@
 {
  "viewer": "parked",
  "reviewer": "Josh",
- "updated": "2026-10-14T16:27:43.542Z",
+ "updated": "2026-10-14T16:27:52.290Z",
  "verdicts": {
   "moment:7b7dea248cb4": {
    "accurate": "no",
@@ -43,6 +43,9 @@
   "moment:5fca905669b7": {
    "accurate": "yes",
    "note": "We are all clustered and have no momentum in front of the goal here. We are extremely vulnerable."
+  },
+  "moment:806dce346619": {
+   "accurate": "yes"
   }
  }
 }
