@@ -16,6 +16,6 @@ Every goal we conceded, walked back and set beside teams of Champion 1 and above
 
 | Session | Viewer | Tables |
 |---|---|---|
-| 2026-10-07 | [step through](https://joshuasandvick.github.io/gangweed_stats/situations/2026-10-07/viewer.html) | [read](situations/2026-10-07/conceded.md) |
+| 2026-10-07 | [step through](https://joshuasandvick.github.io/gangweed_stats/#/viewer/situations-2026-10-07) | [read](situations/2026-10-07/conceded.md) |
 
 The [team review app](https://joshuasandvick.github.io/gangweed_stats/) is the live site.
