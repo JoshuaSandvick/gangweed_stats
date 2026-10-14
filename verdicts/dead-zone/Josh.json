@@ -1,7 +1,7 @@
 {
  "viewer": "dead-zone",
  "reviewer": "Josh",
- "updated": "2026-10-14T17:17:53.784Z",
+ "updated": "2026-10-14T17:19:43.979Z",
  "verdicts": {
   "moment:ef683412b479": {
    "accurate": "no",
@@ -30,6 +30,10 @@
   "moment:70df653c7404": {
    "accurate": "no",
    "note": "Ideally here, Mike gets a higher touch up the wall and controls it, and Jake and I rotate up field for a pass. However, Mike gets a bad touch, and Jake's retreat is critical here to defense."
+  },
+  "moment:27f0aa719826": {
+   "accurate": "no",
+   "note": "Josh definitely needed to retreat here as he is the only one with momentum going that way and the other team has full control."
   }
  }
 }
