@@ -1,7 +1,7 @@
 {
  "viewer": "dead-zone",
  "reviewer": "Josh",
- "updated": "2026-10-14T16:15:40.307Z",
+ "updated": "2026-10-14T16:17:37.800Z",
  "verdicts": {
   "moment:ef683412b479": {
    "accurate": "no",
@@ -14,6 +14,10 @@
   "moment:325c1dc0aa73": {
    "note": "With the way the ball is travelling and where jake and I are, mike definitely needs to get into a defensive position",
    "accurate": "no"
+  },
+  "moment:1c9438c0ab15": {
+   "accurate": "yes",
+   "note": "Here, Jake should have cut back upfield to look for either a 50 from me or a bad touch from the opponent. Instead, he drives right to where Mike is going."
   }
  }
 }
