@@ -1,7 +1,7 @@
 {
  "viewer": "plays-three-man-chain",
  "reviewer": "Josh",
- "updated": "2026-10-14T16:53:15.339Z",
+ "updated": "2026-10-14T16:53:22.128Z",
  "verdicts": {
   "moment:5f0929d5021f": {
    "accurate": "yes"
@@ -15,7 +15,7 @@
   },
   "moment:b02b0cd65dd9": {
    "accurate": "no",
-   "note": "The problem here is that the 1st man's touch doesn't put the ball in a threatening place where he either scores or follows up his touch for a score"
+   "note": "The problem here is that the 1st man's touch doesn't put the ball in a threatening place where he either scores or follows up his touch for a score."
   }
  }
 }
