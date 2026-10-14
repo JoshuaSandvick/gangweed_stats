@@ -1,0 +1,24 @@
+{
+ "viewer": "situations-2026-10-07",
+ "reviewer": "Josh",
+ "updated": "2026-10-14T16:58:52.291Z",
+ "verdicts": {
+  "moment:e2deda90afc2": {
+   "accurate": "yes"
+  },
+  "285EAEAF45FD24AC311524925A4C7812.replay|39.30|921a1a93-a1d9-48e8-b453-f6f109687085|115.00": {
+   "same_situation": "yes",
+   "note": ""
+  },
+  "moment:fefb1b1e8981": {
+   "accurate": "yes"
+  },
+  "285EAEAF45FD24AC311524925A4C7812.replay|39.30|2269fa7b-521f-4131-a321-f4fc76dea6ba|130.00": {
+   "same_situation": "yes",
+   "note": ""
+  },
+  "moment:12e5c571ef42": {
+   "accurate": "yes"
+  }
+ }
+}
