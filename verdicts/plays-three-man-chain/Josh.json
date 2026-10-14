@@ -1,14 +1,14 @@
 {
  "viewer": "plays-three-man-chain",
  "reviewer": "Josh",
- "updated": "2026-10-14T16:50:02.391Z",
+ "updated": "2026-10-14T16:50:18.103Z",
  "verdicts": {
   "moment:5f0929d5021f": {
    "accurate": "yes"
   },
   "moment:7bf210a258be": {
-   "accurate": "unclear",
-   "note": "This one is less valid as it is not an intentional pass from the third man to second man. "
+   "accurate": "no",
+   "note": "This one is less valid as it is not an intentional pass from the third man to second man. def 2 definitely could have gotten to that ball before the second man"
   }
  }
 }
