@@ -1,7 +1,7 @@
 {
  "viewer": "dead-zone",
  "reviewer": "Josh",
- "updated": "2026-10-14T16:15:26.933Z",
+ "updated": "2026-10-14T16:15:40.307Z",
  "verdicts": {
   "moment:ef683412b479": {
    "accurate": "no",
@@ -12,7 +12,8 @@
    "note": "The play is definitely going to go to our side, I need to prepare for defense"
   },
   "moment:325c1dc0aa73": {
-   "note": "With the way the ball is travelling, mike definitely needs to get into a defensive position"
+   "note": "With the way the ball is travelling and where jake and I are, mike definitely needs to get into a defensive position",
+   "accurate": "no"
   }
  }
 }
