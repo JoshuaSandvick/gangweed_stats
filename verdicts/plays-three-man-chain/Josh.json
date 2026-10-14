@@ -1,7 +1,7 @@
 {
  "viewer": "plays-three-man-chain",
  "reviewer": "Josh",
- "updated": "2026-10-14T16:55:56.608Z",
+ "updated": "2026-10-14T16:56:18.976Z",
  "verdicts": {
   "moment:5f0929d5021f": {
    "accurate": "yes"
@@ -21,7 +21,8 @@
    "accurate": "yes"
   },
   "moment:39992b4a2b2b": {
-   "accurate": "no"
+   "accurate": "no",
+   "note": "The problem here is that the 2nd man's touch is far away from the 1st man, hitting it much closer to def 2 than "
   }
  }
 }
