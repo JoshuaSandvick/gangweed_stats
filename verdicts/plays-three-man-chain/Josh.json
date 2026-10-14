@@ -1,7 +1,7 @@
 {
  "viewer": "plays-three-man-chain",
  "reviewer": "Josh",
- "updated": "2026-10-14T16:54:18.756Z",
+ "updated": "2026-10-14T16:55:01.266Z",
  "verdicts": {
   "moment:5f0929d5021f": {
    "accurate": "yes"
@@ -16,6 +16,9 @@
   "moment:b02b0cd65dd9": {
    "accurate": "unclear",
    "note": "It's not a terrible example, but the problem is that the play develops too slowly so the defense can handle it just fine. At the end, 1st man ends up in a 50/50 with the last defender."
+  },
+  "moment:acc785a718f8": {
+   "accurate": "yes"
   }
  }
 }
