@@ -1,7 +1,7 @@
 {
  "viewer": "parked",
  "reviewer": "Josh",
- "updated": "2026-10-14T16:27:56.114Z",
+ "updated": "2026-10-14T16:29:01.641Z",
  "verdicts": {
   "moment:7b7dea248cb4": {
    "accurate": "no",
@@ -45,7 +45,15 @@
    "note": "We are all clustered and have no momentum in front of the goal here. We are extremely vulnerable."
   },
   "moment:806dce346619": {
-   "accurate": "no"
+   "accurate": "no",
+   "note": "Learning from the other replay, Mike is playing a good spot here. Jake should have challenged the ball hard to force a bad touch and let Mike save."
+  },
+  "C0C6D2BC43BB2830A8B3AD8257D37502.replay|638.00|fd8f9ea1-9f00-4851-988f-d292dced584c|91.50": {
+   "same_situation": "yes",
+   "note": "Learned a lot about how to defend this situation here"
+  },
+  "moment:cf1b2fb8ed63": {
+   "accurate": "yes"
   }
  }
 }
