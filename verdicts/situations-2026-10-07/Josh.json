@@ -1,7 +1,7 @@
 {
  "viewer": "situations-2026-10-07",
  "reviewer": "Josh",
- "updated": "2026-10-14T17:01:50.260Z",
+ "updated": "2026-10-14T17:02:45.636Z",
  "verdicts": {
   "moment:e2deda90afc2": {
    "accurate": "yes"
@@ -29,7 +29,7 @@
   },
   "moment:eb239f1e7178": {
    "accurate": "yes",
-   "note": "The two problems here were that Jake took a "
+   "note": "The two problems here were that Jake took a bad 50 and Josh should have seen what angles Jake was covering and tried to cover near post"
   }
  }
 }
