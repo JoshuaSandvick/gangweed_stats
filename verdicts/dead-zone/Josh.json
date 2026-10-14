@@ -1,7 +1,7 @@
 {
  "viewer": "dead-zone",
  "reviewer": "Josh",
- "updated": "2026-10-14T16:17:37.800Z",
+ "updated": "2026-10-14T16:20:58.816Z",
  "verdicts": {
   "moment:ef683412b479": {
    "accurate": "no",
@@ -18,6 +18,10 @@
   "moment:1c9438c0ab15": {
    "accurate": "yes",
    "note": "Here, Jake should have cut back upfield to look for either a 50 from me or a bad touch from the opponent. Instead, he drives right to where Mike is going."
+  },
+  "moment:c2a2988b80e5": {
+   "accurate": "yes",
+   "note": "Here, Mike needed to get back into the play quicker rather than rotating back first, and then Josh should have rotated shorter and been ready mid"
   }
  }
 }
