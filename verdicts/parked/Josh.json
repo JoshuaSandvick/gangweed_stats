@@ -1,7 +1,7 @@
 {
  "viewer": "parked",
  "reviewer": "Josh",
- "updated": "2026-10-14T16:26:57.441Z",
+ "updated": "2026-10-14T16:27:43.542Z",
  "verdicts": {
   "moment:7b7dea248cb4": {
    "accurate": "no",
@@ -39,6 +39,10 @@
   "D034DA5811F1C2BC8A290CABE8FBC013.replay|207.00|7da32d8e-65e2-4ab7-8b91-32d657e2b9a2|95.50": {
    "same_situation": "yes",
    "note": "I felt that we could learn a lot about how to defend this situation from this replay"
+  },
+  "moment:5fca905669b7": {
+   "accurate": "yes",
+   "note": "We are all clustered and have no momentum in front of the goal here. We are extremely vulnerable."
   }
  }
 }
