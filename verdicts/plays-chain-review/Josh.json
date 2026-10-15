@@ -1,7 +1,7 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:38:45.955Z",
+ "updated": "2026-10-15T19:39:05.305Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
@@ -27,7 +27,8 @@
    "note": "Yes clean, but def 1 had a very good recovery after 1st's touch got around him and blocked 2nd man from further follow up"
   },
   "moment:2046bdcb66d3": {
-   "accurate": "yes"
+   "accurate": "yes",
+   "note": "Clean, but not very threatening"
   }
  }
 }
