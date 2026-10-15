@@ -1,14 +1,14 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:23:41.128Z",
+ "updated": "2026-10-15T19:23:55.899Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
   },
   "moment:8e6e16167142": {
    "accurate": "no",
-   "note": "For 3rd man's pass, 2nd man could not beat def 1"
+   "note": "For 3rd man's pass, 2nd man could not beat def 1, but 1st man could beat def 1, so def 1 didn't go for the touch. "
   }
  }
 }
