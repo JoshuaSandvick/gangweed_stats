@@ -1,14 +1,14 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:25:14.902Z",
+ "updated": "2026-10-15T19:25:33.206Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
   },
   "moment:8e6e16167142": {
    "accurate": "no",
-   "note": "For 3rd man's pass, 2nd man could not beat def 1, but 1st man could beat def 1 and kind of did a fake, so def 1 didn't go for the touch. For 2nd man's hit, it wasn't a pass towards anyone at all, and both  "
+   "note": "For 3rd man's pass, 2nd man could not beat def 1, but 1st man could beat def 1 and kind of did a fake, so def 1 didn't go for the touch. For 2nd man's hit, it wasn't a pass towards anyone at all, and both  def3 and def 1 could have hit it before 1st man"
   }
  }
 }
