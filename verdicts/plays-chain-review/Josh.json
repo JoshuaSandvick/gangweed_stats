@@ -1,7 +1,7 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:43:38.401Z",
+ "updated": "2026-10-15T19:44:27.332Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
@@ -44,6 +44,10 @@
   "moment:b58f863a64e8": {
    "accurate": "yes",
    "note": "Clean chain, and would have worked out much better if Josh would have stayed closer to the play and then hit a double tap for a goal"
+  },
+  "moment:80318d2a4c75": {
+   "accurate": "yes",
+   "note": "Clean chain, but 2nd's touch wasn't to a useful area. Could have been a real threat if it went more midfield for "
   }
  }
 }
