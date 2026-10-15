@@ -1,7 +1,7 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:37:42.235Z",
+ "updated": "2026-10-15T19:37:49.597Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
@@ -24,7 +24,7 @@
   },
   "moment:584175f436f0": {
    "accurate": "yes",
-   "note": "Yes clean, but "
+   "note": "Yes clean, but def 1 had a very good recovery after "
   }
  }
 }
