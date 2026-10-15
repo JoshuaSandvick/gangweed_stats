@@ -1,7 +1,7 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:33:00.047Z",
+ "updated": "2026-10-15T19:35:09.000Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
@@ -17,6 +17,9 @@
   "moment:86bc35d84a9a": {
    "accurate": "yes",
    "note": "The 3rd man to 2nd man link up was clean. The 1st man could have definitively gotten to the ball first, but didn't turn the right way to do so"
+  },
+  "moment:86c1638fab33": {
+   "accurate": "yes"
   }
  }
 }
