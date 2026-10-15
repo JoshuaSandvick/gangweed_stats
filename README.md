@@ -4,6 +4,7 @@ One page per session, newest first. Each is measured from the replays, not writt
 
 | Session | Record | Report |
 |---|---|---|
+| 2026-10-14 | 11 games · 8W-3L · 26 goals for, 25 against | [app](https://joshuasandvick.github.io/gangweed_stats/#/session/2026-10-14) · [read](sessions/2026-10-14.md) |
 | 2026-10-07 | 9 games · 7W-2L · 38 goals for, 22 against | [app](https://joshuasandvick.github.io/gangweed_stats/#/session/2026-10-07) · [read](sessions/2026-10-07.md) |
 | 2026-10-03 | 9 games · 4W-5L · 28 goals for, 27 against | [app](https://joshuasandvick.github.io/gangweed_stats/#/session/2026-10-03) · [read](sessions/2026-10-03.md) |
 | 2026-09-30 | 7 games · 1W-6L · 13 goals for, 22 against | [app](https://joshuasandvick.github.io/gangweed_stats/#/session/2026-09-30) · [read](sessions/2026-09-30.md) |
