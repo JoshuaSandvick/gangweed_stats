@@ -1,7 +1,7 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:25:33.206Z",
+ "updated": "2026-10-15T19:27:53.917Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
@@ -9,6 +9,10 @@
   "moment:8e6e16167142": {
    "accurate": "no",
    "note": "For 3rd man's pass, 2nd man could not beat def 1, but 1st man could beat def 1 and kind of did a fake, so def 1 didn't go for the touch. For 2nd man's hit, it wasn't a pass towards anyone at all, and both  def3 and def 1 could have hit it before 1st man"
+  },
+  "moment:1922d3031f7b": {
+   "accurate": "yes",
+   "note": "This was an extremely clean implementation of the 3-2-1 chain, and even extended it where the 1st man "
   }
  }
 }
