@@ -1,7 +1,7 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:39:05.305Z",
+ "updated": "2026-10-15T19:39:53.358Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
@@ -28,7 +28,7 @@
   },
   "moment:2046bdcb66d3": {
    "accurate": "yes",
-   "note": "Clean, but not very threatening"
+   "note": "Clean, but not very threatening. 2nd man probably needed a better touch"
   }
  }
 }
