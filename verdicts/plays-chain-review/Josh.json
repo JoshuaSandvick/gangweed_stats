@@ -1,7 +1,7 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:47:05.779Z",
+ "updated": "2026-10-15T19:47:22.594Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
@@ -59,7 +59,7 @@
   },
   "moment:09cfdf4b714c": {
    "accurate": "unclear",
-   "note": "It's hard to know if 3rd man's touch"
+   "note": "It's hard to know if 3rd man's touch could have been touched by an opponent, as he was basically 50/50 was two opponents at his touch"
   }
  }
 }
