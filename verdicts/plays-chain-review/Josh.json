@@ -1,7 +1,7 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:45:36.304Z",
+ "updated": "2026-10-15T19:46:15.267Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
@@ -54,7 +54,8 @@
    "note": "Clean chain, very real threat. Could likely have been a goal if 1st man hit it better"
   },
   "moment:20a811ff68a9": {
-   "accurate": "yes"
+   "accurate": "yes",
+   "note": "Extremely clean, likely the best example our team has of this play"
   }
  }
 }
