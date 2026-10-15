@@ -1,10 +1,14 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:08:37.307Z",
+ "updated": "2026-10-15T19:23:41.128Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
+  },
+  "moment:8e6e16167142": {
+   "accurate": "no",
+   "note": "For 3rd man's pass, 2nd man could not beat def 1"
   }
  }
 }
