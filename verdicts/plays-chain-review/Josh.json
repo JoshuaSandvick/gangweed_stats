@@ -1,7 +1,7 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:36:32.364Z",
+ "updated": "2026-10-15T19:37:37.937Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
@@ -21,6 +21,10 @@
   "moment:86c1638fab33": {
    "accurate": "yes",
    "note": "The 3rd-2nd pass was clean. I think that 2nd man was trying to do a soft touch and collect the ball themselves rather than a pass, but they got bumped by def 3. Def 3 maybe could have gotten to the ball first, but had to focus on their bump, and thus 1st man had a clean  take at it and could pass to 2nd man again."
+  },
+  "moment:584175f436f0": {
+   "accurate": "yes",
+   "note": "Yes clean, but"
   }
  }
 }
