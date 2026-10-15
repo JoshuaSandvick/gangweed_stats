@@ -1,7 +1,7 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:35:09.000Z",
+ "updated": "2026-10-15T19:35:41.589Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
@@ -19,7 +19,8 @@
    "note": "The 3rd man to 2nd man link up was clean. The 1st man could have definitively gotten to the ball first, but didn't turn the right way to do so"
   },
   "moment:86c1638fab33": {
-   "accurate": "yes"
+   "accurate": "yes",
+   "note": "The 3rd-2nd pass was clean. I think that 2nd man was trying to do a soft touch and collect the ball themselves rather than a pass, but they got bumped."
   }
  }
 }
