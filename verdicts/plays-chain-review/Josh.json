@@ -1,7 +1,7 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:46:15.267Z",
+ "updated": "2026-10-15T19:47:05.779Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
@@ -56,6 +56,10 @@
   "moment:20a811ff68a9": {
    "accurate": "yes",
    "note": "Extremely clean, likely the best example our team has of this play"
+  },
+  "moment:09cfdf4b714c": {
+   "accurate": "unclear",
+   "note": "It's hard to know if 3rd man's touch"
   }
  }
 }
