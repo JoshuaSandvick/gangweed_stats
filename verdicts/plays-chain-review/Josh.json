@@ -1,7 +1,7 @@
 {
  "viewer": "plays-chain-review",
  "reviewer": "Josh",
- "updated": "2026-10-15T19:29:22.277Z",
+ "updated": "2026-10-15T19:32:50.281Z",
  "verdicts": {
   "moment:fafbad033a32": {
    "accurate": ""
@@ -13,6 +13,10 @@
   "moment:1922d3031f7b": {
    "accurate": "yes",
    "note": "This was an extremely clean implementation of the 3-2-1 chain, and even extended it where the 1st man passed back to the 3rd man who then passed back to the 1st man for a goal. The speed of those 4 passes and shot was great. This should be a gold standard to follow."
+  },
+  "moment:86bc35d84a9a": {
+   "accurate": "yes",
+   "note": "The 3rd man to 2nd man link up was clean. The 1st man could have definitel"
   }
  }
 }
