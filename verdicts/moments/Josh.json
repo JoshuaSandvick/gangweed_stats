@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-17T05:19:39.391Z",
+ "updated": "2026-10-17T05:19:51.096Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -66,7 +66,7 @@
   },
   "moment:c288cc0ad012": {
    "accurate": "yes",
-   "note": "Another kickoff half flip scenario "
+   "note": "Another kickoff half flip scenario"
   },
   "moment:dceffcec8eec": {
    "accurate": "yes",
