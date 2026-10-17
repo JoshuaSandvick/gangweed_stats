@@ -957,6 +957,13 @@ async function ensurePlaysIndex() {
 }
 function validatePlayCard(card) {
   const sides = ['champion', 'ours'];
+  if (card && card.version === 2) {
+    // The strong plays' cards (RLC-265): one card per play, the same measures for both sides.
+    if (!card.champion || !card.ours || !Array.isArray(card.bands) || !Array.isArray(card.touches) || card.touches.length !== 3) {
+      throw Error('The play card has an unexpected format.');
+    }
+    return card;
+  }
   if (!card || card.version !== 1 || !card.card1 || !card.card2 ||
       !sides.every(side => card.card1[side] && card.card2[side]) ||
       !Array.isArray(card.card1.touches) || card.card1.touches.length !== 3 ||
@@ -1136,6 +1143,166 @@ function ourPlayMoments(data, host) {
   group.append(list);
   host.append(group);
 }
+// The strong plays (RLC-265): one generic card per play. Every number comes from the card's data and carries
+// its sample size (team-games, plays, scored); nothing is computed or typed here.
+function playCi(low, high, digits) {
+  if (low === null || low === undefined || high === null || high === undefined) return '';
+  return ' (' + fixed(low, digits) + '–' + fixed(high, digits) + ')';
+}
+function strongRow(cells) {
+  const row = element('tr');
+  cells.forEach(text => row.append(element('td', '', text)));
+  return row;
+}
+function strongZoneGrid(touch) {
+  const cell = 46, left = 8, top = 22, size = 3 * cell + 16;
+  const svg = document.createElementNS(SVG_NS, 'svg');
+  svg.setAttribute('viewBox', '0 0 ' + size + ' ' + (size + 10));
+  svg.setAttribute('role', 'img');
+  svg.setAttribute('aria-label', 'Where the ' + touch.label + ' touch is taken in plays that scored, by ball zone');
+  const counts = new Map(touch.zones);
+  const depths = ['their third', 'middle', 'own third'];
+  const lanes = ['left', 'centre', 'right'];
+  depths.forEach((depth, row) => lanes.forEach((lane, column) => {
+    const n = counts.get(depth + ', ' + lane) || 0;
+    const share = touch.measured ? n / touch.measured : 0;
+    const x = left + column * cell, y = top + row * cell;
+    const rect = document.createElementNS(SVG_NS, 'rect');
+    rect.setAttribute('x', x); rect.setAttribute('y', y);
+    rect.setAttribute('width', cell - 2); rect.setAttribute('height', cell - 2);
+    rect.setAttribute('fill', '#38bdf8'); rect.setAttribute('fill-opacity', String(0.06 + 0.8 * share));
+    rect.setAttribute('stroke', '#334155');
+    svg.append(rect);
+    const label = document.createElementNS(SVG_NS, 'text');
+    label.setAttribute('x', x + (cell - 2) / 2); label.setAttribute('y', y + (cell - 2) / 2 + 4);
+    label.setAttribute('text-anchor', 'middle'); label.setAttribute('font-size', '11');
+    label.setAttribute('fill', '#f8fafc');
+    label.textContent = touch.measured ? Math.round(100 * share) + '%' : '–';
+    svg.append(label);
+  }));
+  const top_text = document.createElementNS(SVG_NS, 'text');
+  top_text.setAttribute('x', size / 2); top_text.setAttribute('y', 12); top_text.setAttribute('text-anchor', 'middle');
+  top_text.setAttribute('font-size', '9'); top_text.setAttribute('fill', '#94a3b8');
+  top_text.textContent = 'their goal';
+  svg.append(top_text);
+  const bottom_text = document.createElementNS(SVG_NS, 'text');
+  bottom_text.setAttribute('x', size / 2); bottom_text.setAttribute('y', size + 8); bottom_text.setAttribute('text-anchor', 'middle');
+  bottom_text.setAttribute('font-size', '9'); bottom_text.setAttribute('fill', '#94a3b8');
+  bottom_text.textContent = 'our goal';
+  svg.append(bottom_text);
+  return svg;
+}
+function strongPlayView(card, entry) {
+  const champ = card.champion, ours = card.ours;
+  $('play-description').append(element('p', '', 'The pattern: ' + card.name + ' (the team\'s words: ' + card.phrase + '). ' +
+    'Each entry is the last three touches before the team gets into a top attacking shape, named by role at the entry. ' +
+    'Champion 1+ play, not yet a team habit.'));
+  const effect = $('play-effect');
+  effect.append(element('h3', '', 'How often, and how often it scores'));
+  effect.append(playTable(['Measure', 'Champion 1+', 'Ours'], [
+    statRow('Team-games', String(champ.team_games), String(ours.team_games)),
+    statRow('Plays per team-game', fixed(champ.per_team_game, 3) + playCi(champ.per_team_game_low, champ.per_team_game_high, 3),
+      fixed(ours.per_team_game, 3)),
+    statRow('Plays (completed)', champ.plays + ' (' + champ.completed + ')', ours.plays + ' (' + ours.completed + ')'),
+    statRow('Scored: a goal within ' + card.goal_within + ' s of the last touch',
+      champ.scored + ' of ' + champ.plays + ' (' + pct(champ.scored_rate) + ', ' + pct(champ.scored_low) + '–' + pct(champ.scored_high) + ')',
+      ours.scored + ' of ' + ours.plays + ' (' + pct(ours.scored_rate) + ')'),
+    statRow('Base: every Champion 1+ entry with a lead-in touch', champ.base_goals + ' of ' + champ.base_entries + ' (' + pct(champ.base_rate) + ')', '–'),
+    statRow('Lift against the base (approx. 95%)', fixed(champ.lift, 2) + playCi(champ.lift_low, champ.lift_high, 2), '–'),
+  ]));
+  effect.append(element('h3', '', 'By rank band'));
+  effect.append(playTable(['Rank band', 'Team-games', 'Plays', 'Plays per team-game (approx. 95%)', 'Scored'],
+    card.bands.filter(row => row.team_games > 0).map(row => strongRow([
+      row.band, String(row.team_games), String(row.plays),
+      fixed(row.per_team_game, 3) + playCi(row.per_team_game_low, row.per_team_game_high, 3),
+      row.scored + ' of ' + row.plays + (row.plays ? ' (' + pct(row.scored_rate) + ')' : ''),
+    ]))));
+  const total = card.touches[0].measured;
+  $('play-diagram-note').textContent = 'Where each touch is taken in Champion 1+ plays that scored: the share of the ball\'s zone at that touch. ' +
+    'Top is their goal. ' + (total ? 'Each panel is ' + total + ' measured plays.' : 'No play that scored has a measured touch.');
+  const host = $('play-diagram');
+  host.replaceChildren();
+  card.touches.forEach(touch => {
+    const cell = element('figure', 'play-touch');
+    cell.append(strongZoneGrid(touch));
+    cell.append(element('figcaption', 'muted', touch.touch + '. ' + touch.label + ' · n = ' + touch.measured));
+    host.append(cell);
+  });
+  const examples = $('play-examples');
+  if (!entry.examples) {
+    examples.append(element('div', 'empty', 'No examples are published for this play yet.'));
+  } else {
+    examples.append(element('p', '', 'Step through completed plays in the replay viewer: up to three Champion 1+ plays (goals first; cars named by slot only) ' +
+      'and up to two of ours. The touches are marked in order on the timeline.'));
+    const link = element('a', '', 'Open the examples');
+    link.href = '#/viewer/' + encodeURIComponent(entry.examples);
+    examples.append(link);
+  }
+}
+// The defensive plays (RLC-266, phase 2): the same card shape, with the defending team's two outcomes, a clean
+// clear and a goal against, each with its base and lift. Every number comes from the card's data.
+function defenseShareText(block, total) {
+  if (!total) return block.count + ' of 0';
+  const interval = block.low === null || block.low === undefined ? '' : ', ' + pct(block.low) + '–' + pct(block.high);
+  return block.count + ' of ' + total + ' (' + pct(block.count / total) + interval + ')';
+}
+function defenseLiftText(block) {
+  if (block.lift === null || block.lift === undefined) return '–';
+  return fixed(block.lift, 2) + playCi(block.lift_low, block.lift_high, 2);
+}
+function defenseBaseText(block) {
+  if (block.base_rate === null || block.base_rate === undefined) return '–';
+  return block.base_count + ' of ' + block.base_entries + ' (' + pct(block.base_rate) + ')';
+}
+function defensePlayView(card, entry) {
+  const champ = card.champion, ours = card.ours, clear = champ.clear, goal = champ.goal;
+  $('play-description').append(element('p', '', 'The pattern: ' + card.name + ' (' + card.phrase + '). ' +
+    'Each entry is the defending team\'s last three touches before it gets into a top defensive shape, named by role at the entry. ' +
+    'Both outcomes are counted from the entry. Champion 1+ play; associations, not causes.'));
+  const effect = $('play-effect');
+  effect.append(element('h3', '', 'How often, and how often it ends in a clean clear or a goal against'));
+  effect.append(playTable(['Measure', 'Champion 1+', 'Ours'], [
+    statRow('Team-games', String(champ.team_games), String(ours.team_games)),
+    statRow('Plays per team-game', fixed(champ.per_team_game, 3) + playCi(champ.per_team_game_low, champ.per_team_game_high, 3),
+      fixed(ours.per_team_game, 3)),
+    statRow('Plays (completed)', champ.plays + ' (' + champ.completed + ')', ours.plays + ' (' + ours.completed + ')'),
+    statRow('Clean clear within ' + card.clear_within + ' s of the entry', defenseShareText(clear, champ.plays), defenseShareText({count: ours.cleared}, ours.plays)),
+    statRow('Base: every Champion 1+ entry with a lead-in touch (clean clear)', defenseBaseText(clear), '–'),
+    statRow('Lift for a clean clear (approx. 95%)', defenseLiftText(clear), '–'),
+    statRow('Goal against within ' + card.goal_within + ' s of the entry', defenseShareText(goal, champ.plays), defenseShareText({count: ours.conceded}, ours.plays)),
+    statRow('Base: every Champion 1+ entry with a lead-in touch (goal against)', defenseBaseText(goal), '–'),
+    statRow('Lift for a goal against (approx. 95%)', defenseLiftText(goal), '–'),
+  ]));
+  effect.append(element('h3', '', 'By rank band'));
+  effect.append(playTable(['Rank band', 'Team-games', 'Plays', 'Plays per team-game (approx. 95%)', 'Clean clears', 'Goals against'],
+    card.bands.filter(row => row.team_games > 0).map(row => strongRow([
+      row.band, String(row.team_games), String(row.plays),
+      fixed(row.per_team_game, 3) + playCi(row.per_team_game_low, row.per_team_game_high, 3),
+      row.cleared + ' of ' + row.plays, row.conceded + ' of ' + row.plays,
+    ]))));
+  const total = card.touches[0].measured;
+  $('play-diagram-note').textContent = 'Where each touch is taken in Champion 1+ plays, all plays: the share of the ball\'s zone at that touch, ' +
+    'in the defending team\'s frame. Top is the attackers\' goal; bottom is our own goal. ' +
+    (total ? 'Each panel is ' + total + ' measured plays.' : 'No play has a measured touch.');
+  const host = $('play-diagram');
+  host.replaceChildren();
+  card.touches.forEach(touch => {
+    const cell = element('figure', 'play-touch');
+    cell.append(strongZoneGrid(touch));
+    cell.append(element('figcaption', 'muted', touch.touch + '. ' + touch.label + ' · n = ' + touch.measured));
+    host.append(cell);
+  });
+  const examples = $('play-examples');
+  if (!entry.examples) {
+    examples.append(element('div', 'empty', 'No examples are published for this play yet.'));
+  } else {
+    examples.append(element('p', '', 'Step through completed plays in the replay viewer: up to three Champion 1+ plays and up to two of ours. ' +
+      'Cars are named by role (defenders) and by slot (attackers). The touches are marked in order on the timeline.'));
+    const link = element('a', '', 'Open the examples');
+    link.href = '#/viewer/' + encodeURIComponent(entry.examples);
+    examples.append(link);
+  }
+}
 async function renderPlays(r, token) {
   const listView = $('plays-list-view'), detail = $('play-detail');
   if (!r.type) {
@@ -1169,6 +1336,10 @@ async function renderPlays(r, token) {
     if (token !== state.navToken) return;
     $('play-title').textContent = entry.title;
     $('play-badges').append(element('span', 'badge', 'computed · not yet trusted'), element('span', 'badge', 'Metrics version ' + card.metrics_version));
+    if (card.version === 2) {
+      if (card.side === 'defense') defensePlayView(card, entry); else strongPlayView(card, entry);
+      return;
+    }
     playDescription($('play-description'));
     effectiveness(card, $('play-effect'));
     playDiagram(card, $('play-diagram'));
