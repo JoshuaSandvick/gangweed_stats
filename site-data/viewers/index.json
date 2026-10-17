@@ -134,6 +134,18 @@
    "title": "Defensive plays review: is this a real example of the play? (part 3 of 3)",
    "path": "site-data/viewers/plays-defense-review-3.json",
    "legacy_paths": []
+  },
+  {
+   "id": "rotation-review-1",
+   "title": "Rotation review: is the call right? (part 1 of 2)",
+   "path": "site-data/viewers/rotation-review-1.json",
+   "legacy_paths": []
+  },
+  {
+   "id": "rotation-review-2",
+   "title": "Rotation review: is the call right? (part 2 of 2)",
+   "path": "site-data/viewers/rotation-review-2.json",
+   "legacy_paths": []
   }
  ]
 }
