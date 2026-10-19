@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T20:34:44.345Z",
+ "updated": "2026-10-19T20:35:11.441Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -289,7 +289,7 @@
   },
   "moment:fce9c5f74766": {
    "accurate": "no",
-   "note": "The problem here was that Jake didn't jump up and touch the ball hit by opp 1, as he had momentum there and could have done it"
+   "note": "The problem here was that Jake didn't jump up and touch the ball hit by opp 1, as he had momentum there and could have done it. Because the ball got past him, he had to retreat and play the ball."
   }
  }
 }
