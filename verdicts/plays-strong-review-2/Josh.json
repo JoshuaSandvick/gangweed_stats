@@ -1,7 +1,7 @@
 {
  "viewer": "plays-strong-review-2",
  "reviewer": "Josh",
- "updated": "2026-10-19T14:14:22.184Z",
+ "updated": "2026-10-19T14:14:28.507Z",
  "verdicts": {
   "moment:929bc3670878": {
    "accurate": "yes",
@@ -20,7 +20,7 @@
   },
   "moment:e84dd99931c8": {
    "accurate": "no",
-   "note": "I don't think that a 50-50 should count"
+   "note": "I don't think that a 50-50 should count as a passing play,"
   }
  }
 }
