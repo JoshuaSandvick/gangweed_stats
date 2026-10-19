@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T19:22:23.099Z",
+ "updated": "2026-10-19T19:22:30.920Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -281,7 +281,7 @@
   },
   "moment:25a1b803669b": {
    "accurate": "yes",
-   "note": "There is a lot bad about this play. Towards the beginning, Mike should have done a drive by in front of the goal to rotate, but instead"
+   "note": "There is a lot bad about this play. Towards the beginning, Mike should have done a drive by in front of the goal to rotate, but instead rotates back"
   }
  }
 }
