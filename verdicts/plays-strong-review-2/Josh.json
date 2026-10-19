@@ -1,7 +1,7 @@
 {
  "viewer": "plays-strong-review-2",
  "reviewer": "Josh",
- "updated": "2026-10-19T14:10:10.488Z",
+ "updated": "2026-10-19T14:11:55.315Z",
  "verdicts": {
   "moment:929bc3670878": {
    "accurate": "yes",
@@ -10,6 +10,10 @@
   "moment:912cedcb64c2": {
    "accurate": "yes",
    "note": "Very interesting play"
+  },
+  "moment:3e01a29d6713": {
+   "accurate": "no",
+   "note": "I think this is a bad example because def 1 could have touched it before 2nd man"
   }
  }
 }
