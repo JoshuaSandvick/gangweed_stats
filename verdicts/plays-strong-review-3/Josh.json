@@ -1,13 +1,16 @@
 {
  "viewer": "plays-strong-review-3",
  "reviewer": "Josh",
- "updated": "2026-10-19T14:19:56.607Z",
+ "updated": "2026-10-19T14:21:14.088Z",
  "verdicts": {
   "moment:78c1013e1175": {
    "accurate": "no",
    "note": "A few things wrong with this one. The defender definitely had the chance to follow up their own touch with a sidewall read, but missed. Then, 1st and 2nd man double committed and touched the ball at basically the same time"
   },
   "moment:688fd273fba9": {
+   "accurate": "yes"
+  },
+  "moment:aa2525973802": {
    "accurate": "yes"
   }
  }
