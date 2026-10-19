@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T12:32:27.617Z",
+ "updated": "2026-10-19T12:33:33.197Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -100,6 +100,10 @@
   "moment:bcabd36cd1d7": {
    "accurate": "no",
    "note": "The player drives up the wall here and does not pop the ball from the ground themself"
+  },
+  "moment:929d80914585": {
+   "accurate": "no",
+   "note": "This is more of a catch in the air into an air dribble. The reason is that the player in question isn't the one that popped the ball into the air from the ground."
   }
  }
 }
