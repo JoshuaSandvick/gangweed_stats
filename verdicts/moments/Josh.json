@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T17:51:34.107Z",
+ "updated": "2026-10-19T17:51:49.677Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -208,7 +208,8 @@
    "note": "Great use of speed flip as it allowed def 2 to beat att 3 to the ball"
   },
   "moment:08ea32f1620e": {
-   "accurate": "unclear"
+   "accurate": "unclear",
+   "note": "Almost all of the longest boost droughts"
   },
   "moment:20d1ce75e060": {
    "accurate": "no",
