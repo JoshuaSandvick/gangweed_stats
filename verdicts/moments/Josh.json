@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T12:34:43.049Z",
+ "updated": "2026-10-19T14:47:47.408Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -107,6 +107,13 @@
   },
   "moment:29d01ff04a1d": {
    "accurate": "yes"
+  },
+  "moment:003d93fa5d9c": {
+   "accurate": "yes"
+  },
+  "moment:1f222f03fd4a": {
+   "accurate": "unclear",
+   "note": "This may not have been intentional, as the player in question was bumped by an opponent"
   }
  }
 }
