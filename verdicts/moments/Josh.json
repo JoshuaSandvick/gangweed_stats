@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T15:29:44.403Z",
+ "updated": "2026-10-19T15:29:59.780Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -167,7 +167,7 @@
   },
   "moment:fb57219e7c31": {
    "accurate": "no",
-   "note": "Got the flip, but didn't"
+   "note": "Got the flip, but "
   }
  }
 }
