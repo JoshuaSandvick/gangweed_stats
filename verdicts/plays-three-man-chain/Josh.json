@@ -1,7 +1,7 @@
 {
  "viewer": "plays-three-man-chain",
  "reviewer": "Josh",
- "updated": "2026-10-14T16:57:05.637Z",
+ "updated": "2026-10-19T12:27:14.618Z",
  "verdicts": {
   "moment:5f0929d5021f": {
    "accurate": "yes"
@@ -23,6 +23,9 @@
   "moment:39992b4a2b2b": {
    "accurate": "no",
    "note": "The problem here is that the 2nd man's touch is far away from the 1st man, hitting it much closer to def 2 than 1st man. For a 1-2-3 play, the ideal is that all touches are placed such that the next person in the chain will definitely get to the ball before the opponent."
+  },
+  "moment:45ba806be45b": {
+   "accurate": "yes"
   }
  }
 }
