@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T14:52:55.190Z",
+ "updated": "2026-10-19T14:52:59.965Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -132,7 +132,7 @@
   },
   "moment:2c12f5341bde": {
    "accurate": "yes",
-   "note": "This is a very unique air dribble where the player t"
+   "note": "This is a very unique air dribble where the player takes off backwards"
   }
  }
 }
