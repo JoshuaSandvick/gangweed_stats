@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T15:36:51.740Z",
+ "updated": "2026-10-19T15:38:07.465Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -193,6 +193,15 @@
   "moment:067360f9da55": {
    "accurate": "yes",
    "note": "This is a speed flip shot"
+  },
+  "moment:afab15ef89dd": {
+   "accurate": "yes"
+  },
+  "moment:9f9813f71f23": {
+   "accurate": "yes"
+  },
+  "moment:03a3827f260f": {
+   "accurate": "yes"
   }
  }
 }
