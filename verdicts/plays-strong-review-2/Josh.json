@@ -1,7 +1,7 @@
 {
  "viewer": "plays-strong-review-2",
  "reviewer": "Josh",
- "updated": "2026-10-19T14:15:00.223Z",
+ "updated": "2026-10-19T14:16:20.193Z",
  "verdicts": {
   "moment:929bc3670878": {
    "accurate": "yes",
@@ -21,6 +21,10 @@
   "moment:e84dd99931c8": {
    "accurate": "no",
    "note": "I don't think that a 50-50 should count as a passing play, and the first touch was a 50-50 here. 50-50 plays probably need their own category/consideration vs uncontested touches"
+  },
+  "moment:0eea630b7b12": {
+   "accurate": "no",
+   "note": "Another 50-50 play"
   }
  }
 }
