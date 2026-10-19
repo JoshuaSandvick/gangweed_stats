@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T20:34:12.146Z",
+ "updated": "2026-10-19T20:34:18.251Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -289,7 +289,7 @@
   },
   "moment:fce9c5f74766": {
    "accurate": "no",
-   "note": "The problem here was that Jake"
+   "note": "The problem here was that Jake wasn't"
   }
  }
 }
