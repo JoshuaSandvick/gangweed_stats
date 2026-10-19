@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T17:49:12.315Z",
+ "updated": "2026-10-19T17:49:53.450Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -213,6 +213,9 @@
   "moment:20d1ce75e060": {
    "accurate": "no",
    "note": "This is some calculation error with boost at kickoff: it is saying mike has 0 boost at kickoff which is never the case as you always start with 33 boost"
+  },
+  "moment:1be08aeaaf9b": {
+   "accurate": "yes"
   }
  }
 }
