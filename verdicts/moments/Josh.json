@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T17:59:38.207Z",
+ "updated": "2026-10-19T18:00:28.071Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -240,7 +240,8 @@
    "accurate": "unclear"
   },
   "moment:5a5b3945b534": {
-   "accurate": "yes"
+   "accurate": "no",
+   "note": "Mike went up for an aerial here."
   },
   "moment:90313902efbf": {
    "accurate": "yes"
