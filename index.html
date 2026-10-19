@@ -233,16 +233,32 @@ function viewerStateQuery(value) {
   });
   return result;
 }
+// A teardown waits at most this long for a viewer's saves to finish.
+const VIEWER_FLUSH_MS = 10000;
+// Resolves when the frame's viewer has saved its answers (or failed), or after VIEWER_FLUSH_MS, whichever comes first,
+// and at once when there is no viewer to flush. A teardown never waits forever: the answers stay in the viewer's local storage.
+function flushFrame(frame) {
+  let child = null;
+  try {
+    child = frame.contentWindow;
+    if (!child || typeof child.flushVerdicts !== 'function') return Promise.resolve();
+  } catch (_) {
+    return Promise.resolve();
+  }
+  let timer = null;
+  const limit = new Promise(resolve => { timer = setTimeout(resolve, VIEWER_FLUSH_MS); });
+  const flushed = (async () => {
+    try { await child.flushVerdicts(); } catch (_) {
+      // Verdict edits are already kept in the viewer's local storage.
+    }
+  })();
+  return Promise.race([flushed, limit]).finally(() => clearTimeout(timer));
+}
 async function stopViewer() {
   const iframe = $('viewer');
   iframe.hidden = true;
   setViewerMode(false);
-  try {
-    const child = iframe.contentWindow;
-    if (child && typeof child.flushVerdicts === 'function') await child.flushVerdicts();
-  } catch (_) {
-    // Verdict edits are already kept in the viewer's local storage.
-  }
+  await flushFrame(iframe);
   iframe.srcdoc = '';
   state.activeViewerId = null;
 }
@@ -863,12 +879,7 @@ function setSideMode(on) {
 }
 // The viewer's verdicts are saved, then its page is cleared (as stopViewer does for the Moments viewer).
 async function stopFrame(frame) {
-  try {
-    const child = frame.contentWindow;
-    if (child && typeof child.flushVerdicts === 'function') await child.flushVerdicts();
-  } catch (_) {
-    // Verdict edits are already kept in the viewer's local storage.
-  }
+  await flushFrame(frame);
   frame.srcdoc = '';
 }
 async function closeSidePanel() {
@@ -1884,7 +1895,7 @@ function showRouteLoading(r) {
     $('detail-title').textContent = 'Loading moment…';
     setDetailStatus('Loading replay viewer…', false);
     $('viewer').hidden = true;
-    $('viewer').srcdoc = '';
+    // stopViewer clears the frame after its answers are saved: clearing it here unloads a save in flight, and its flush never settles.
   } else if (r.view === 'moments') {
     $('detail').hidden = true;
     $('list-view').hidden = false;
