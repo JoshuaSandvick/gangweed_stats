@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T17:51:49.677Z",
+ "updated": "2026-10-19T17:52:15.493Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -209,7 +209,7 @@
   },
   "moment:08ea32f1620e": {
    "accurate": "unclear",
-   "note": "Almost all of the longest boost droughts"
+   "note": "Almost all of the longest boost droughts are hard to trust because these moment replays only update boost "
   },
   "moment:20d1ce75e060": {
    "accurate": "no",
