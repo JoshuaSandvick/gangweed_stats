@@ -720,7 +720,7 @@ function renderCards(data, routeState) {
   }
   records.forEach(moment => {
     const card = element('article', 'card');
-    card.append(element('h3', '', (moment.type || 'Moment').replaceAll('_', ' ') + ' · ' + moment.id));
+    card.append(element('h3', '', (moment.label || (moment.type || 'Moment').replaceAll('_', ' ')) + ' · ' + moment.id));
     const badges = element('div', 'badges');
     [(moment.status === 'computed' ? 'computed · not yet trusted' : moment.status), moment.source,
       momentSession(moment), ...(moment.players || [])].filter(Boolean)
@@ -743,7 +743,7 @@ function renderCards(data, routeState) {
   });
 }
 function detailTitle(record) {
-  const parts = [(record.type || 'Moment').replaceAll('_', ' ')];
+  const parts = [record.label || (record.type || 'Moment').replaceAll('_', ' ')];
   const players = (record.players || []).filter(Boolean).join(', ');
   if (players) parts.push(players);
   const date = momentSession(record);
@@ -942,7 +942,8 @@ function validatePlaysIndex(index) {
   if (!index || index.version !== 1 || !Array.isArray(index.plays)) throw Error('The plays index has an unexpected format.');
   index.plays.forEach(item => {
     if (!item || !/^[a-z0-9-]+$/.test(item.id || '') || typeof item.title !== 'string' || !safePath(item.path) ||
-        (item.examples !== null && item.examples !== undefined && !/^[A-Za-z0-9._-]+$/.test(item.examples))) {
+        (item.examples !== null && item.examples !== undefined && !/^[A-Za-z0-9._-]+$/.test(item.examples)) ||
+        (item.moments !== null && item.moments !== undefined && !/^pl_[a-z_]+$/.test(item.moments))) {
       throw Error('A play entry has an unexpected format.');
     }
   });
@@ -1035,6 +1036,23 @@ async function chainMoments(token) {
   const data = await ensureType('play');
   if (token !== state.navToken) return;
   ourChainMoments(data, $('play-moments'));
+}
+// A strong or defensive play's review set (RLC-280): its examples are Moments under the play's own type, answered
+// there. The heading and the link show only when the manifest lists that type.
+async function playReviewMoments(entry, token) {
+  await ensureManifest();
+  if (token !== state.navToken) return;
+  const info = entry.moments ? state.manifest.types.find(item => item.type === entry.moments) : null;
+  const title = $('play-moments-title');
+  title.textContent = 'Review this play';
+  title.hidden = !info;
+  if (!info) return;
+  const count = info.count === 1 ? '1 moment of this play is' : info.count + ' moments of this play are';
+  const host = $('play-moments');
+  host.append(element('p', '', count + ' in Moments under “' + info.label + '”. For each, answer yes if it is a real example of the play, or no with a note saying why.'));
+  const link = element('a', '', 'Open in Moments');
+  link.href = '#/moments/' + encodeURIComponent(info.type);
+  host.append(link);
 }
 // The strong plays (RLC-265): one generic card per play. Every number comes from the card's data and carries
 // its sample size (team-games, plays, scored); nothing is computed or typed here.
@@ -1230,9 +1248,15 @@ async function renderPlays(r, token) {
     $('play-title').textContent = entry.title;
     $('play-badges').append(element('span', 'badge', 'computed · not yet trusted'), element('span', 'badge', 'Metrics version ' + card.metrics_version));
     if (card.side === 'defense') defensePlayView(card, entry); else strongPlayView(card, entry);
-    // The three-man chain keeps its own list of our chains, goals first (RLC-210); the other plays have none.
-    $('play-moments-title').hidden = card.play !== 'three-man-chain';
-    if (card.play === 'three-man-chain') await chainMoments(token);
+    // The three-man chain keeps its own list of our chains, goals first (RLC-210). A strong or defensive play's
+    // review set is in Moments under its own type (RLC-280).
+    if (card.play === 'three-man-chain') {
+      $('play-moments-title').textContent = 'Our play moments';
+      $('play-moments-title').hidden = false;
+      await chainMoments(token);
+    } else {
+      await playReviewMoments(entry, token);
+    }
   } catch (error) {
     if (token !== state.navToken) return;
     $('play-title').textContent = 'Play unavailable';
