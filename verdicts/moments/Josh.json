@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T14:54:03.330Z",
+ "updated": "2026-10-19T14:54:14.785Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -139,7 +139,7 @@
   },
   "moment:498291bc7fca": {
    "accurate": "no",
-   "note": "This is more of a pop into a flip reset attempt"
+   "note": "This is more of a pop into a flip reset attempt. The player didn't carry the ball in the air"
   }
  }
 }
