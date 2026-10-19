@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T19:08:39.392Z",
+ "updated": "2026-10-19T19:10:05.611Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -254,6 +254,10 @@
   },
   "moment:a065f9d86972": {
    "accurate": "yes"
+  },
+  "moment:6d34074adb95": {
+   "accurate": "unclear",
+   "note": "Jake is going up for an aerial here, and it takes time to get back to the ground."
   }
  }
 }
