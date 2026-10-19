@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T19:13:01.180Z",
+ "updated": "2026-10-19T19:14:13.153Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -266,6 +266,10 @@
   "moment:52159d93085a": {
    "accurate": "unclear",
    "note": "Mike had a slow recovery, but it's a couple seconds after the time that you indicated. At your time, he has just been driving around on the wall for a bit."
+  },
+  "moment:1a43f9fa6908": {
+   "accurate": "unclear",
+   "note": "Josh could have recovered faster here if he did a half flip off the wall, but it wasn't an especially egrigous recovery"
   }
  }
 }
