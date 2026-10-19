@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T15:30:11.416Z",
+ "updated": "2026-10-19T15:30:28.659Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -167,7 +167,7 @@
   },
   "moment:fb57219e7c31": {
    "accurate": "no",
-   "note": "Got the flip, but had a 50 with a defender and wasn't really able to use it"
+   "note": "Got the 2nd flip, but had a 50 with a defender and wasn't really able to use it"
   }
  }
 }
