@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-19T14:52:59.965Z",
+ "updated": "2026-10-19T14:54:03.330Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -133,6 +133,13 @@
   "moment:2c12f5341bde": {
    "accurate": "yes",
    "note": "This is a very unique air dribble where the player takes off backwards"
+  },
+  "moment:f3dc7a8bde99": {
+   "accurate": "yes"
+  },
+  "moment:498291bc7fca": {
+   "accurate": "no",
+   "note": "This is more of a pop into a flip reset attempt"
   }
  }
 }
