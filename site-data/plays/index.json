@@ -1,53 +1,60 @@
 {
- "version": 1,
- "plays": [
-  {
-   "id": "three-man-chain",
-   "title": "The three-man chain",
-   "path": "site-data/plays/three-man-chain.json",
-   "examples": "plays-three-man-chain"
-  },
-  {
-   "id": "second-defender-second",
-   "title": "Second man, a defender, second man",
-   "path": "site-data/plays/second-defender-second.json",
-   "examples": "plays-second-defender-second"
-  },
-  {
-   "id": "first-defender-second",
-   "title": "First man, a defender, second man",
-   "path": "site-data/plays/first-defender-second.json",
-   "examples": "plays-first-defender-second"
-  },
-  {
-   "id": "first-second-first",
-   "title": "First man, second man, first man",
-   "path": "site-data/plays/first-second-first.json",
-   "examples": "plays-first-second-first"
-  },
-  {
-   "id": "defender-second-first",
-   "title": "A defender, second man, first man",
-   "path": "site-data/plays/defender-second-first.json",
-   "examples": "plays-defender-second-first"
-  },
-  {
-   "id": "defense-third-attacker-second",
-   "title": "Third defender, an attacker, second defender",
-   "path": "site-data/plays/defense-third-attacker-second.json",
-   "examples": "plays-defense-third-attacker-second"
-  },
-  {
-   "id": "defense-first-attacker-second",
-   "title": "First defender, an attacker, second defender",
-   "path": "site-data/plays/defense-first-attacker-second.json",
-   "examples": "plays-defense-first-attacker-second"
-  },
-  {
-   "id": "defense-third-attacker-first",
-   "title": "Third defender, an attacker, first defender",
-   "path": "site-data/plays/defense-third-attacker-first.json",
-   "examples": "plays-defense-third-attacker-first"
-  }
- ]
+  "version": 1,
+  "plays": [
+    {
+      "id": "three-man-chain",
+      "title": "The three-man chain",
+      "path": "site-data/plays/three-man-chain.json",
+      "examples": "plays-three-man-chain"
+    },
+    {
+      "id": "second-defender-second",
+      "title": "Second man, a defender, second man",
+      "path": "site-data/plays/second-defender-second.json",
+      "examples": "plays-second-defender-second",
+      "moments": "pl_second_defender_second"
+    },
+    {
+      "id": "first-defender-second",
+      "title": "First man, a defender, second man",
+      "path": "site-data/plays/first-defender-second.json",
+      "examples": "plays-first-defender-second",
+      "moments": "pl_first_defender_second"
+    },
+    {
+      "id": "first-second-first",
+      "title": "First man, second man, first man",
+      "path": "site-data/plays/first-second-first.json",
+      "examples": "plays-first-second-first",
+      "moments": "pl_first_second_first"
+    },
+    {
+      "id": "defender-second-first",
+      "title": "A defender, second man, first man",
+      "path": "site-data/plays/defender-second-first.json",
+      "examples": "plays-defender-second-first",
+      "moments": "pl_defender_second_first"
+    },
+    {
+      "id": "defense-third-attacker-second",
+      "title": "Third defender, an attacker, second defender",
+      "path": "site-data/plays/defense-third-attacker-second.json",
+      "examples": "plays-defense-third-attacker-second",
+      "moments": "pl_defense_third_attacker_second"
+    },
+    {
+      "id": "defense-first-attacker-second",
+      "title": "First defender, an attacker, second defender",
+      "path": "site-data/plays/defense-first-attacker-second.json",
+      "examples": "plays-defense-first-attacker-second",
+      "moments": "pl_defense_first_attacker_second"
+    },
+    {
+      "id": "defense-third-attacker-first",
+      "title": "Third defender, an attacker, first defender",
+      "path": "site-data/plays/defense-third-attacker-first.json",
+      "examples": "plays-defense-third-attacker-first",
+      "moments": "pl_defense_third_attacker_first"
+    }
+  ]
 }
