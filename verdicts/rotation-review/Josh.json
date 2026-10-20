@@ -1,7 +1,7 @@
 {
  "viewer": "rotation-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-20T18:43:29.217Z",
+ "updated": "2026-10-20T18:43:35.177Z",
  "verdicts": {
   "moment:1799f14b227e": {
    "accurate": "yes",
@@ -9,7 +9,7 @@
   },
   "moment:5c767cce9c9c": {
    "accurate": "yes",
-   "note": "Mike whiffed, and that is why Josh had to go"
+   "note": "No, Mike whiffed, and that is why Josh had to go"
   },
   "moment:97795767a6a3": {
    "accurate": "yes",
