@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-20T18:24:03.382Z",
+ "updated": "2026-10-20T18:24:49.942Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -345,6 +345,10 @@
   "moment:67ce63bffd76": {
    "accurate": "no",
    "note": "Got the second flip reset on a contested bounce off of the back wall. For double flip resets, the ball should not hit any walls or other players between the first and second resets"
+  },
+  "moment:401e55d22616": {
+   "accurate": "no",
+   "note": "Only got one reset, and it wasn't useful"
   }
  }
 }
