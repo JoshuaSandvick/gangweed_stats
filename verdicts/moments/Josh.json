@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-20T18:25:23.428Z",
+ "updated": "2026-10-20T18:26:09.362Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -352,6 +352,10 @@
   },
   "moment:07bb127b2193": {
    "accurate": "yes"
+  },
+  "moment:5d6cbd27169e": {
+   "accurate": "yes",
+   "note": "Kickoff speedflip"
   }
  }
 }
