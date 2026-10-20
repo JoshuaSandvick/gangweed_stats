@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-20T18:23:05.985Z",
+ "updated": "2026-10-20T18:23:12.044Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -343,7 +343,8 @@
    "note": "Not a very useful outcome"
   },
   "moment:67ce63bffd76": {
-   "accurate": "no"
+   "accurate": "no",
+   "note": "Got the second flip reset"
   }
  }
 }
