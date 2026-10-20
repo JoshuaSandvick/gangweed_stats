@@ -1,7 +1,7 @@
 {
  "viewer": "rotation-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-20T18:45:58.244Z",
+ "updated": "2026-10-20T18:46:21.484Z",
  "verdicts": {
   "moment:1799f14b227e": {
    "accurate": "yes",
@@ -21,7 +21,7 @@
   },
   "moment:be548274bc8d": {
    "accurate": "no",
-   "note": ""
+   "note": "Jake had been driving towards the ball, but then turned away to rotate once he saw Mike was coming from a better angle"
   }
  }
 }
