@@ -1,10 +1,11 @@
 {
  "viewer": "rotation-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-20T18:36:41.622Z",
+ "updated": "2026-10-20T18:36:56.012Z",
  "verdicts": {
   "moment:1799f14b227e": {
-   "accurate": "yes"
+   "accurate": "yes",
+   "note": "Yes, was a mistake."
   }
  }
 }
