@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-20T18:32:22.571Z",
+ "updated": "2026-10-20T18:32:41.753Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -385,6 +385,9 @@
    "note": "I'm not sure what this mechanic is, but it is very interesting. Please try to analyze this one and find more examples of it, and describe what effect it had on the car. It looked like they did some kind of side flip right after their speed flip? Might be another advanced mechanic"
   },
   "moment:f39ac7a53f0b": {
+   "accurate": "yes"
+  },
+  "moment:a5768b5f36ac": {
    "accurate": "yes"
   }
  }
