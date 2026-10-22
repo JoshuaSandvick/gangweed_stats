@@ -285,7 +285,8 @@ function validateSessionsIndex(index) {
   }
   index.sessions.forEach(item => {
     if (!item || !/^\d{4}-\d{2}-\d{2}$/.test(item.date || '') ||
-        typeof item.title !== 'string' || typeof item.record !== 'string' || !safePath(item.path)) {
+        typeof item.title !== 'string' || typeof item.record !== 'string' || !safePath(item.path) ||
+        (item.metrics_version !== undefined && !Number.isInteger(item.metrics_version))) {
       throw Error('A session entry in the index has an unexpected format.');
     }
   });
@@ -340,7 +341,10 @@ async function ensureSession(date) {
   const entry = index.sessions.find(item => item.date === date);
   if (!entry) throw Error('Session ' + date + ' was not found.');
   const data = validateSessionData(await getJson(entry.path), date);
-  if (data.metrics_version !== index.metrics_version) throw Error('The session report uses a different metrics version than its index.');
+  // Each session keeps the metrics version it was built at; the index row says which (RLC-330).
+  if (Number.isInteger(entry.metrics_version) && data.metrics_version !== entry.metrics_version) {
+    throw Error('The session report uses a different metrics version than its index entry.');
+  }
   state.sessionFiles.set(date, data);
   return data;
 }
@@ -1688,7 +1692,7 @@ function trainerMatchedText(q) {
   const c = q.counts;
   if (!c || !c.n) return 'The viewer data has no Champion 1+ comparison for this moment.';
   if (trainer.set === 'dead-zone') {
-    return c.retreated + ' of ' + c.attacking + ' matched Champion 1+ roles on their attacking side went back over halfway within ' +
+    return c.retreated + ' of ' + c.attacking + ' matched Champion 1+ positions on their attacking side went back over halfway within ' +
       c.seconds + ' s; ' + c.conceded + ' of ' + c.n + ' conceded within ' + c.seconds + ' s.';
   }
   return c.conceded + ' of ' + c.n + ' matched Champion 1+ positions conceded within ' + c.seconds + ' s of the same point' +
