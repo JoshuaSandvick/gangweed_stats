@@ -225,6 +225,262 @@
    "key": "fb57219e7c31",
    "reason": "absorbed by double flip reset v4 (THRESHOLDS_VERSION 4, ca4f7d7): another car touched the ball 0.10 s before the second reset (rule 2); research/2026-10-21-rlc306-double-flip-reset.md",
    "viewer": "moments"
+  },
+  {
+   "accepted": "2026-10-22",
+   "identity": {
+    "anchor": 307.5,
+    "id": "0eea630b7b12",
+    "players": [],
+    "replay": {
+     "band": "grand-champion-3",
+     "date": null,
+     "digest": null,
+     "id": "f5253925-1a46-4b52-9fb7-74b58544afaa"
+    },
+    "subject": null,
+    "team": 1,
+    "type": "pl_first_second_first"
+   },
+   "key": "0eea630b7b12",
+   "reason": "absorbed by RLC-281 (b2) roles fixed at the play start (PLAYS_LABELS_VERSION 3, 2b4efbc): no longer a first-second-first play under the new labels; research/2026-10-21-rlc281b-plays-relabelled.md",
+   "viewer": "plays-strong-review-2"
+  },
+  {
+   "accepted": "2026-10-22",
+   "identity": {
+    "anchor": 110.5,
+    "id": "912cedcb64c2",
+    "players": [],
+    "replay": {
+     "band": "grand-champion-2",
+     "date": null,
+     "digest": null,
+     "id": "8951d97e-2443-4e31-b6cb-e1e947d063b7"
+    },
+    "subject": null,
+    "team": 0,
+    "type": "pl_first_second_first"
+   },
+   "key": "912cedcb64c2",
+   "reason": "absorbed by RLC-281 (b2) roles fixed at the play start (PLAYS_LABELS_VERSION 3, 2b4efbc): no longer a first-second-first play under the new labels; research/2026-10-21-rlc281b-plays-relabelled.md",
+   "viewer": "plays-strong-review-2"
+  },
+  {
+   "accepted": "2026-10-22",
+   "identity": {
+    "anchor": 44.5,
+    "id": "929bc3670878",
+    "players": [],
+    "replay": {
+     "band": "supersonic-legend",
+     "date": null,
+     "digest": null,
+     "id": "a8200470-9842-463f-9b4d-396c84c5e507"
+    },
+    "subject": null,
+    "team": 1,
+    "type": "pl_first_second_first"
+   },
+   "key": "929bc3670878",
+   "reason": "absorbed by RLC-281 (b2) roles fixed at the play start (PLAYS_LABELS_VERSION 3, 2b4efbc): no longer a first-second-first play under the new labels; research/2026-10-21-rlc281b-plays-relabelled.md",
+   "viewer": "plays-strong-review-2"
+  },
+  {
+   "accepted": "2026-10-22",
+   "identity": {
+    "anchor": 228.5,
+    "id": "e84dd99931c8",
+    "players": [],
+    "replay": {
+     "band": "grand-champion-3",
+     "date": null,
+     "digest": null,
+     "id": "ade83cfd-9413-4b43-b883-10fd1b6a5faf"
+    },
+    "subject": null,
+    "team": 1,
+    "type": "pl_first_second_first"
+   },
+   "key": "e84dd99931c8",
+   "reason": "absorbed by RLC-281 (b2) roles fixed at the play start (PLAYS_LABELS_VERSION 3, 2b4efbc): no longer a first-second-first play under the new labels; research/2026-10-21-rlc281b-plays-relabelled.md",
+   "viewer": "plays-strong-review-2"
+  },
+  {
+   "accepted": "2026-10-22",
+   "identity": {
+    "anchor": 66.5,
+    "id": "04fab80c4559",
+    "players": [],
+    "replay": {
+     "band": "champion-2",
+     "date": null,
+     "digest": null,
+     "id": "a3bd34b5-cb6b-46f4-9ecf-57c3f9f4111c"
+    },
+    "subject": null,
+    "team": 1,
+    "type": "pl_defender_second_first"
+   },
+   "key": "04fab80c4559",
+   "reason": "absorbed by RLC-281 (b2) roles fixed at the play start (PLAYS_LABELS_VERSION 3, 2b4efbc): no longer a defender-second-first play under the new labels; research/2026-10-21-rlc281b-plays-relabelled.md",
+   "viewer": "plays-strong-review-3"
+  },
+  {
+   "accepted": "2026-10-22",
+   "identity": {
+    "anchor": 173.5,
+    "id": "0af1adaf245c",
+    "players": [],
+    "replay": {
+     "band": "champion-3",
+     "date": null,
+     "digest": null,
+     "id": "cd7c9edc-f999-47a2-9121-c6da70a18e1d"
+    },
+    "subject": null,
+    "team": 1,
+    "type": "pl_defender_second_first"
+   },
+   "key": "0af1adaf245c",
+   "reason": "absorbed by RLC-281 (b2) roles fixed at the play start (PLAYS_LABELS_VERSION 3, 2b4efbc): no longer a defender-second-first play under the new labels; research/2026-10-21-rlc281b-plays-relabelled.md",
+   "viewer": "plays-strong-review-3"
+  },
+  {
+   "accepted": "2026-10-22",
+   "identity": {
+    "anchor": 338.5,
+    "id": "62377261972a",
+    "players": [
+     "Josh",
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "0a7e8c34b9d03c1e56e20cb83f299a87daf751412b839d026fb0330dd055c892",
+     "id": null
+    },
+    "subject": null,
+    "team": 0,
+    "type": "pl_defender_second_first"
+   },
+   "key": "62377261972a",
+   "reason": "absorbed by RLC-281 (b2) roles fixed at the play start (PLAYS_LABELS_VERSION 3, 2b4efbc): no longer a defender-second-first play under the new labels; research/2026-10-21-rlc281b-plays-relabelled.md",
+   "viewer": "plays-strong-review-3"
+  },
+  {
+   "accepted": "2026-10-22",
+   "identity": {
+    "anchor": 194.0,
+    "id": "78c1013e1175",
+    "players": [],
+    "replay": {
+     "band": "champion-2",
+     "date": null,
+     "digest": null,
+     "id": "453b376a-1d3d-4556-9549-8ce5526a4d9f"
+    },
+    "subject": null,
+    "team": 1,
+    "type": "pl_defender_second_first"
+   },
+   "key": "78c1013e1175",
+   "reason": "absorbed by RLC-281 (b2) roles fixed at the play start (PLAYS_LABELS_VERSION 3, 2b4efbc): no longer a defender-second-first play under the new labels; research/2026-10-21-rlc281b-plays-relabelled.md",
+   "viewer": "plays-strong-review-3"
+  },
+  {
+   "accepted": "2026-10-22",
+   "identity": {
+    "anchor": 49.5,
+    "id": "950f836d1c2e",
+    "players": [],
+    "replay": {
+     "band": "grand-champion-2",
+     "date": null,
+     "digest": null,
+     "id": "15c9d82b-67e8-4ca3-b894-d4bcf02ccd59"
+    },
+    "subject": null,
+    "team": 0,
+    "type": "pl_defender_second_first"
+   },
+   "key": "950f836d1c2e",
+   "reason": "absorbed by RLC-281 (b2) roles fixed at the play start (PLAYS_LABELS_VERSION 3, 2b4efbc): no longer a defender-second-first play under the new labels; research/2026-10-21-rlc281b-plays-relabelled.md",
+   "viewer": "plays-strong-review-3"
+  },
+  {
+   "accepted": "2026-10-22",
+   "identity": {
+    "anchor": 106.5,
+    "id": "aa2525973802",
+    "players": [],
+    "replay": {
+     "band": "grand-champion-1",
+     "date": null,
+     "digest": null,
+     "id": "d8d4a4c6-186a-40c4-875c-45e0d01d96cc"
+    },
+    "subject": null,
+    "team": 0,
+    "type": "pl_defender_second_first"
+   },
+   "key": "aa2525973802",
+   "reason": "absorbed by RLC-281 (b2) roles fixed at the play start (PLAYS_LABELS_VERSION 3, 2b4efbc): no longer a defender-second-first play under the new labels; research/2026-10-21-rlc281b-plays-relabelled.md",
+   "viewer": "plays-strong-review-3"
+  },
+  {
+   "accepted": "2026-10-22",
+   "identity": {
+    "anchor": 272.5,
+    "id": "b5e65156a88e",
+    "players": [
+     "Mike",
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-03",
+     "digest": "4cafa956c0412d0748feb2344ef106f89cfc3efb346ab56cbdbbfd6f027bb5d2",
+     "id": null
+    },
+    "subject": null,
+    "team": 0,
+    "type": "pl_defender_second_first"
+   },
+   "key": "b5e65156a88e",
+   "reason": "absorbed by RLC-281 (b2) roles fixed at the play start (PLAYS_LABELS_VERSION 3, 2b4efbc): no longer a defender-second-first play under the new labels; research/2026-10-21-rlc281b-plays-relabelled.md",
+   "viewer": "plays-strong-review-3"
+  },
+  {
+   "accepted": "2026-10-22",
+   "identity": {
+    "anchor": 29.0,
+    "id": "e87093c5edfe",
+    "players": [
+     "Mike",
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-14",
+     "digest": "0a302e6706c55cd5050056f3f9a1e9dd8dc9e95772cbe9ab70c5375d22cb7e34",
+     "id": null
+    },
+    "subject": null,
+    "team": 0,
+    "type": "pl_defender_second_first"
+   },
+   "key": "e87093c5edfe",
+   "reason": "absorbed by RLC-281 (b2) roles fixed at the play start (PLAYS_LABELS_VERSION 3, 2b4efbc): no longer a defender-second-first play under the new labels; research/2026-10-21-rlc281b-plays-relabelled.md",
+   "viewer": "plays-strong-review-3"
+  },
+  {
+   "accepted": "2026-10-22",
+   "identity": {},
+   "key": "45ba806be45b",
+   "reason": "absorbed by RLC-281 (b2) roles fixed at the play start (PLAYS_LABELS_VERSION 3, 2b4efbc): no longer a third-second-first chain under the new labels; research/2026-10-21-rlc281b-plays-relabelled.md",
+   "viewer": "plays-three-man-chain"
   }
  ],
  "answers": [
@@ -2106,6 +2362,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
@@ -2210,13 +2471,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "ball_side_exit.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "ball_side_exit.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "ball_side_exit-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -2304,6 +2570,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
@@ -2385,6 +2656,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -2487,6 +2763,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
@@ -2563,6 +2844,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -2652,6 +2938,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -2746,6 +3037,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -2848,13 +3144,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "longest_boost_drought-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -2939,6 +3240,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -3090,13 +3396,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "longest_boost_drought-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -3181,6 +3492,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -3275,6 +3591,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -3426,13 +3747,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mean_recovery.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "mean_recovery-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -3517,6 +3843,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -3624,13 +3955,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "longest_boost_drought-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -3700,6 +4036,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -3799,6 +4140,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -3906,13 +4252,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "longest_boost_drought-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -4005,13 +4356,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "ball_side_exit.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "ball_side_exit.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "ball_side_exit-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -4084,6 +4440,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
@@ -4146,6 +4507,16 @@
       "ref": "dd540fd6bbd2f751d336c3aa67c30357705387fb",
       "when": "2026-10-19T10:04:10-04:00",
       "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_air_dribble_ground.json",
+      "when": "",
+      "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
@@ -4234,6 +4605,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -4326,6 +4702,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_double_flip_reset.json",
       "when": "",
       "where": "site"
@@ -4407,6 +4788,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -4504,6 +4890,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
@@ -4593,6 +4984,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_double_flip_reset.json",
       "when": "",
       "where": "site"
@@ -4677,6 +5073,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
@@ -4753,6 +5154,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -4842,6 +5248,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -4936,6 +5347,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -5038,6 +5454,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
@@ -5137,6 +5558,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
@@ -5228,6 +5654,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -5369,6 +5800,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_double_flip_reset.json",
       "when": "",
       "where": "site"
@@ -5463,6 +5899,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
@@ -5549,6 +5990,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -5656,13 +6102,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mean_recovery.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "mean_recovery-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -5755,13 +6206,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mean_recovery.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "mean_recovery-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -5854,13 +6310,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "longest_boost_drought-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -5930,6 +6391,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -6014,6 +6480,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -6116,13 +6587,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "longest_boost_drought-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -6249,6 +6725,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_double_flip_reset.json",
       "when": "",
       "where": "site"
@@ -6340,6 +6821,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -6447,13 +6933,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mean_recovery.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "mean_recovery-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -6546,13 +7037,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mean_recovery.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "mean_recovery-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -6637,6 +7133,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -6739,6 +7240,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
@@ -6820,6 +7326,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -6922,6 +7433,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
@@ -7016,6 +7532,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
@@ -7073,6 +7594,16 @@
       "ref": "dd540fd6bbd2f751d336c3aa67c30357705387fb",
       "when": "2026-10-19T10:04:10-04:00",
       "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_air_dribble_ground.json",
+      "when": "",
+      "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
@@ -7146,6 +7677,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -7243,6 +7779,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
@@ -7305,6 +7846,16 @@
       "ref": "dd540fd6bbd2f751d336c3aa67c30357705387fb",
       "when": "2026-10-19T10:04:10-04:00",
       "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_air_dribble_ground.json",
+      "when": "",
+      "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
@@ -7393,6 +7944,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -7500,13 +8056,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mean_recovery.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "mean_recovery-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -7557,6 +8118,16 @@
       "ref": "dd540fd6bbd2f751d336c3aa67c30357705387fb",
       "when": "2026-10-19T10:04:10-04:00",
       "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_air_dribble_ground.json",
+      "when": "",
+      "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
@@ -7653,13 +8224,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "longest_boost_drought-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -7725,11 +8301,6 @@
       "ref": "f52566f529aa6be9ffe3db11487b3c24114c4ca6",
       "when": "2026-10-19T09:18:07-04:00",
       "where": "history"
-     },
-     {
-      "ref": "mx_air_dribble_ground.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "champion",
@@ -7821,13 +8392,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "ball_side_exit.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "ball_side_exit.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "ball_side_exit-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -7912,6 +8488,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -8011,6 +8592,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -8147,6 +8733,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_speed_flip.json",
       "when": "",
       "where": "site"
@@ -8251,13 +8842,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mean_recovery.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "mean_recovery-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -8327,6 +8923,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -8424,6 +9025,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
@@ -8481,6 +9087,16 @@
       "ref": "dd540fd6bbd2f751d336c3aa67c30357705387fb",
       "when": "2026-10-19T10:04:10-04:00",
       "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_air_dribble_ground.json",
+      "when": "",
+      "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
@@ -8554,6 +9170,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -8638,6 +9259,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -8745,13 +9371,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mean_recovery.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "mean_recovery-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -8836,6 +9467,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -8938,13 +9574,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mean_recovery.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "mean_recovery-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -9022,6 +9663,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_double_flip_reset.json",
       "when": "",
       "where": "site"
@@ -9094,11 +9740,6 @@
       "ref": "f52566f529aa6be9ffe3db11487b3c24114c4ca6",
       "when": "2026-10-19T09:18:07-04:00",
       "where": "history"
-     },
-     {
-      "ref": "mx_air_dribble_ground.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "champion",
@@ -9167,6 +9808,11 @@
      {
       "ref": "dd540fd6bbd2f751d336c3aa67c30357705387fb",
       "when": "2026-10-19T10:04:10-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -9246,6 +9892,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -9343,6 +9994,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
@@ -9427,6 +10083,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
@@ -9499,11 +10160,6 @@
       "ref": "f52566f529aa6be9ffe3db11487b3c24114c4ca6",
       "when": "2026-10-19T09:18:07-04:00",
       "where": "history"
-     },
-     {
-      "ref": "mx_air_dribble_ground.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "champion",
@@ -9590,6 +10246,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
@@ -9671,6 +10332,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -9773,6 +10439,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
@@ -9849,6 +10520,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -9933,6 +10609,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -10035,13 +10716,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mean_recovery.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "mean_recovery-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -10111,6 +10797,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -10213,6 +10904,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
@@ -10312,6 +11008,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
@@ -10393,6 +11094,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -10500,13 +11206,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "longest_boost_drought-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -10591,6 +11302,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -10693,6 +11409,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
@@ -10770,11 +11491,6 @@
       "ref": "f52566f529aa6be9ffe3db11487b3c24114c4ca6",
       "when": "2026-10-19T09:18:07-04:00",
       "where": "history"
-     },
-     {
-      "ref": "mx_air_dribble_ground.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "champion",
@@ -10848,6 +11564,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -10950,13 +11671,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "longest_boost_drought-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -11044,6 +11770,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
@@ -11128,6 +11859,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
@@ -11185,6 +11921,16 @@
       "ref": "dd540fd6bbd2f751d336c3aa67c30357705387fb",
       "when": "2026-10-19T10:04:10-04:00",
       "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_air_dribble_ground.json",
+      "when": "",
+      "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
@@ -11276,6 +12022,11 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
@@ -11357,6 +12108,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -11451,6 +12207,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -11558,13 +12319,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "ball_side_exit.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "ball_side_exit.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "ball_side_exit-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -11639,6 +12405,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -11746,13 +12517,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "ball_side_exit.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "ball_side_exit.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "ball_side_exit-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -11845,13 +12621,18 @@
       "where": "history"
      },
      {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "2026-10-16T18:01:00+00:00",
+      "ref": "longest_boost_drought-reviewed.json",
+      "when": "2026-10-22T00:08:20+00:00",
       "where": "store"
      }
     ],
@@ -11926,6 +12707,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -12010,6 +12796,11 @@
      {
       "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
       "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
       "where": "history"
      },
      {
@@ -18242,7 +19033,7 @@
    "viewer": "plays-chain-review"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "0eea630b7b12",
    "identity": {
     "anchor": 307.5,
@@ -18500,7 +19291,7 @@
    "viewer": "plays-strong-review-2"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "912cedcb64c2",
    "identity": {
     "anchor": 110.5,
@@ -18629,7 +19420,7 @@
    "viewer": "plays-strong-review-2"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "929bc3670878",
    "identity": {
     "anchor": 44.5,
@@ -18887,7 +19678,7 @@
    "viewer": "plays-strong-review-2"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "e84dd99931c8",
    "identity": {
     "anchor": 228.5,
@@ -19016,7 +19807,7 @@
    "viewer": "plays-strong-review-2"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "04fab80c4559",
    "identity": {
     "anchor": 66.5,
@@ -19140,7 +19931,7 @@
    "viewer": "plays-strong-review-3"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "0af1adaf245c",
    "identity": {
     "anchor": 173.5,
@@ -19264,7 +20055,7 @@
    "viewer": "plays-strong-review-3"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "62377261972a",
    "identity": {
     "anchor": 338.5,
@@ -19512,7 +20303,7 @@
    "viewer": "plays-strong-review-3"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "78c1013e1175",
    "identity": {
     "anchor": 194.0,
@@ -19636,7 +20427,7 @@
    "viewer": "plays-strong-review-3"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "950f836d1c2e",
    "identity": {
     "anchor": 49.5,
@@ -19760,7 +20551,7 @@
    "viewer": "plays-strong-review-3"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "aa2525973802",
    "identity": {
     "anchor": 106.5,
@@ -19884,7 +20675,7 @@
    "viewer": "plays-strong-review-3"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "b5e65156a88e",
    "identity": {
     "anchor": 272.5,
@@ -20008,7 +20799,7 @@
    "viewer": "plays-strong-review-3"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "e87093c5edfe",
    "identity": {
     "anchor": 29.0,
@@ -20500,7 +21291,7 @@
    "viewer": "plays-three-man-chain"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "45ba806be45b",
    "identity": {
     "anchor": 166.5,
@@ -20543,11 +21334,6 @@
       "ref": "5a8bbe4cf46aba65925cff2e1ecf32459e84414b",
       "when": "2026-10-19T12:45:20-04:00",
       "where": "history"
-     },
-     {
-      "ref": "plays-three-man-chain.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "title": "Third man, second man, first man · Champion 1+ champion-1",
