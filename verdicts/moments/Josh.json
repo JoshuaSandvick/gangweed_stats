@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T04:01:52.147Z",
+ "updated": "2026-10-24T04:02:16.300Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -589,7 +589,7 @@
   },
   "moment:1d27661053b9": {
    "accurate": "unclear",
-   "note": "What is this play? "
+   "note": "What is this play? It is 1 min long, and I don't see a flip reset at the marked time? Seems like a technical error"
   }
  }
 }
