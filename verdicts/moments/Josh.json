@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T17:28:59.858Z",
+ "updated": "2026-10-24T17:29:49.451Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -694,6 +694,10 @@
   "moment:477d3ad5f47c": {
    "accurate": "yes",
    "note": "This is a variation where the player pops the ball off the ceiling before getting the reset. An advanced version"
+  },
+  "moment:9c59aa30282a": {
+   "accurate": "yes",
+   "note": "Was one but it wasn't effective because the player never got under the ball enough to carry it"
   }
  }
 }
