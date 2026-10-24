@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:44:44.671Z",
+ "updated": "2026-10-24T03:44:46.975Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -501,7 +501,7 @@
    "note": "Mike travelled down for the majority of this play, many seconds before and after the moment"
   },
   "moment:b03b94895bb4": {
-   "accurate": "no",
+   "accurate": "unclear",
    "note": "About 1.5 seconds before your moment timestamp Mike started turning back, but by the time of the moment itself he was fully turned back"
   },
   "moment:07cfb582d93f": {
