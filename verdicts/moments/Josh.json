@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T17:35:11.917Z",
+ "updated": "2026-10-24T17:35:44.182Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -731,7 +731,8 @@
    "note": "Very well played by jake"
   },
   "moment:01a5eb9f67e1": {
-   "accurate": "yes"
+   "accurate": "yes",
+   "note": "This was a bad play"
   }
  }
 }
