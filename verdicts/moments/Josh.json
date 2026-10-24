@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:23:43.719Z",
+ "updated": "2026-10-24T03:23:57.219Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -486,6 +486,9 @@
   "moment:bec8f53a73c2": {
    "accurate": "no",
    "note": "Josh turns upfield towards offense here"
+  },
+  "moment:d30ea8a0aaf9": {
+   "accurate": "yes"
   }
  }
 }
