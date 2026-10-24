@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:04:51.505Z",
+ "updated": "2026-10-24T03:05:03.173Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -403,7 +403,8 @@
    "note": "Josh won since the opponent hit it right to jake"
   },
   "moment:1638b12b1190": {
-   "accurate": "no"
+   "accurate": "no",
+   "note": "Mike is the one that touched this ball here, not josh"
   }
  }
 }
