@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:13:42.751Z",
+ "updated": "2026-10-24T03:14:46.487Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -437,6 +437,10 @@
   "moment:08e9e6b6d5b5": {
    "accurate": "yes",
    "note": "Jake won"
+  },
+  "moment:4388da6ccf98": {
+   "accurate": "no",
+   "note": "This was Mike grabbing our corner boost, not the opponents'"
   }
  }
 }
