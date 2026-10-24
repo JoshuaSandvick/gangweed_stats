@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:05:51.869Z",
+ "updated": "2026-10-24T03:06:51.008Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -409,6 +409,10 @@
   "moment:279571e25f2f": {
    "accurate": "yes",
    "note": "Mike won"
+  },
+  "moment:937999466aba": {
+   "accurate": "yes",
+   "note": "Josh lost: the ball got hit to the opponent"
   }
  }
 }
