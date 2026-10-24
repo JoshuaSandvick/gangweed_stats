@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:57:32.625Z",
+ "updated": "2026-10-24T03:58:40.473Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -571,6 +571,10 @@
   },
   "moment:6594c1efaf2b": {
    "accurate": "yes"
+  },
+  "moment:553a0af61451": {
+   "accurate": "no",
+   "note": "Got the flip reset, but didn't use it to hit the ball. That's not what we're looking for here "
   }
  }
 }
