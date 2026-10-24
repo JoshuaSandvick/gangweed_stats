@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T17:50:49.050Z",
+ "updated": "2026-10-24T17:51:38.048Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -785,7 +785,8 @@
    "accurate": "yes"
   },
   "moment:f06457bc17cd": {
-   "accurate": "yes"
+   "accurate": "yes",
+   "note": "Here, Jake goes for big boost in the middle but misses it and takes another go around at it. This is something we especially need to check for and call out, unrelated to turn backs"
   }
  }
 }
