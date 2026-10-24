@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:47:51.725Z",
+ "updated": "2026-10-24T03:48:25.064Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -524,6 +524,10 @@
   "moment:0fb13d695115": {
    "accurate": "no",
    "note": "This player hits the ball up the wall here"
+  },
+  "moment:1de1156545fe": {
+   "accurate": "no",
+   "note": "At this moment, the player hits the ball in the air as it's falling"
   }
  }
 }
