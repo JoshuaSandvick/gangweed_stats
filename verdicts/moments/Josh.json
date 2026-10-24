@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T17:25:17.187Z",
+ "updated": "2026-10-24T17:25:45.189Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -672,6 +672,9 @@
   "moment:db1588e8e7bf": {
    "accurate": "unclear",
    "note": "Got a reset, but didnt seem to use it in this replay?"
+  },
+  "moment:0aab892d3b56": {
+   "accurate": "yes"
   }
  }
 }
