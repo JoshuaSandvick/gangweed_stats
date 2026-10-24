@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T17:35:44.182Z",
+ "updated": "2026-10-24T17:35:50.565Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -732,7 +732,7 @@
   },
   "moment:01a5eb9f67e1": {
    "accurate": "yes",
-   "note": "This was a bad play"
+   "note": "This was a bad play as Mike and Josh double committed"
   }
  }
 }
