@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:58:56.479Z",
+ "updated": "2026-10-24T03:59:36.967Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -577,7 +577,8 @@
    "note": "Got the flip reset, but didn't use it to hit the ball. That's not what we're looking for here "
   },
   "moment:cca77da754e3": {
-   "accurate": "yes"
+   "accurate": "yes",
+   "note": "This is an interesting one where the player takes an aerial 50 with the underside of their car to get a flip so they can then do an additional challenge in the air. Impressive"
   }
  }
 }
