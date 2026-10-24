@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T17:10:35.203Z",
+ "updated": "2026-10-24T17:11:46.820Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -604,6 +604,10 @@
   },
   "moment:be56175389ca": {
    "accurate": "yes"
+  },
+  "moment:554e23684e2a": {
+   "accurate": "yes",
+   "note": "Josh won, Jake could have gotten to that ball first"
   }
  }
 }
