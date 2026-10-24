@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T17:33:28.077Z",
+ "updated": "2026-10-24T17:34:13.484Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -725,6 +725,9 @@
   "moment:7ed8bfd0dcc3": {
    "accurate": "no",
    "note": "This was after the ball already was scored in their goal"
+  },
+  "moment:c57d94ab5e6b": {
+   "accurate": "yes"
   }
  }
 }
