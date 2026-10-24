@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T17:18:08.351Z",
+ "updated": "2026-10-24T17:18:48.121Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -638,7 +638,8 @@
    "note": "It was a challenge by Mike, but he missed the ball going for the 50"
   },
   "moment:7dc55eff8b96": {
-   "accurate": "no"
+   "accurate": "no",
+   "note": "It wasn't very contested"
   }
  }
 }
