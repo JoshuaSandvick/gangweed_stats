@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:52:36.049Z",
+ "updated": "2026-10-24T03:52:55.988Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -550,7 +550,7 @@
   },
   "moment:016d75ca76bf": {
    "accurate": "unclear",
-   "note": "This is more of a chip and follow"
+   "note": "This is more of a chip and follow. Air dribbles need a little more control"
   }
  }
 }
