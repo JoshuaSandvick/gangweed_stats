@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:52:55.988Z",
+ "updated": "2026-10-24T03:53:11.066Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -146,7 +146,8 @@
    "note": "The player just flicked the ball up and did not carry it in the air"
   },
   "moment:8d3e90453787": {
-   "note": "This was more of a wall to air dribble. The player dribbled the ball up the wall and then off of the wall, and that may have confused you "
+   "note": "This was more of a wall to air dribble. The player dribbled the ball up the wall and then off of the wall, and that may have confused you ",
+   "accurate": "no"
   },
   "moment:9e200b350d5b": {
    "accurate": "no",
