@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:02:35.609Z",
+ "updated": "2026-10-24T03:02:56.551Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -396,7 +396,7 @@
   },
   "moment:6ed17e8669a4": {
    "accurate": "unclear",
-   "note": "This is a kickoff, which should probably be its own category. But Jake lost the kickoff "
+   "note": "This is a kickoff, which should probably be its own category. But Jake lost the kickoff since opp 2 definitely could have got there first "
   }
  }
 }
