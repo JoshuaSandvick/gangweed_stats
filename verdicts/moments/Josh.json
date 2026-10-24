@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T17:11:46.820Z",
+ "updated": "2026-10-24T17:12:49.291Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -608,6 +608,10 @@
   "moment:554e23684e2a": {
    "accurate": "yes",
    "note": "Josh won, Jake could have gotten to that ball first"
+  },
+  "moment:71ab359bece1": {
+   "accurate": "no",
+   "note": "This is just Mike hitting the ball when he shouldn't, the only other one around it was jake"
   }
  }
 }
