@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:18:58.571Z",
+ "updated": "2026-10-24T03:19:03.958Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -463,7 +463,8 @@
    "accurate": "yes"
   },
   "moment:66940fd225b0": {
-   "accurate": "no"
+   "accurate": "no",
+   "note": "This is our corner boost, not the opponents'"
   }
  }
 }
