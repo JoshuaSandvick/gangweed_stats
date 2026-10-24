@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T04:03:53.876Z",
+ "updated": "2026-10-24T04:03:56.145Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -596,7 +596,7 @@
    "note": "Gets the flip reset by being bumped into the ball without intention "
   },
   "moment:a939ce667129": {
-   "accurate": "no",
+   "accurate": "unclear",
    "note": "Gets the flip, but doesn't do anything useful with it"
   }
  }
