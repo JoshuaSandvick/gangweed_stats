@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T04:02:44.742Z",
+ "updated": "2026-10-24T04:03:06.834Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -592,7 +592,8 @@
    "note": "What is this play? It is 1 min long, and I don't see a flip reset at the marked time? Seems like a technical error"
   },
   "moment:bf78ecce3cec": {
-   "accurate": "no"
+   "accurate": "no",
+   "note": "Gets the flip reset by being bumped into the ball without intention "
   }
  }
 }
