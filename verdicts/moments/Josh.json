@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T17:53:03.417Z",
+ "updated": "2026-10-24T17:53:11.188Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -790,7 +790,7 @@
   },
   "moment:baf038025879": {
    "accurate": "no",
-   "note": "This is Josh taking a wide turn with a drive by demo attempt at the goalie "
+   "note": "This is Josh taking a wide turn with a drive by demo attempt at the goalie. Not a turn back"
   }
  }
 }
