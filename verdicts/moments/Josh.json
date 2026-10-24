@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:40:34.177Z",
+ "updated": "2026-10-24T03:41:17.609Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -505,7 +505,7 @@
   },
   "moment:07cfb582d93f": {
    "accurate": "no",
-   "note": "Josh is pointing relatively towards our goal from before the timestamp"
+   "note": "Josh is pointing relatively towards our goal from before the timestamp. Also, this was a kickoff, which shouldn't be counted."
   },
   "moment:7f7638c7ff0f": {
    "accurate": "yes"
