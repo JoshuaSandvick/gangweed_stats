@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:44:46.975Z",
+ "updated": "2026-10-24T03:45:08.579Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -513,7 +513,7 @@
   },
   "moment:dab56096db2f": {
    "accurate": "unclear",
-   "note": "I don't think kickoffs should be considered a turnback"
+   "note": "I don't think kickoffs should be considered a turnback if the player in question is the one that took the kickoff"
   }
  }
 }
