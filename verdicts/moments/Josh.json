@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:40:19.196Z",
+ "updated": "2026-10-24T03:40:34.177Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -511,7 +511,8 @@
    "accurate": "yes"
   },
   "moment:dab56096db2f": {
-   "accurate": "unclear"
+   "accurate": "unclear",
+   "note": "I don't think kickoffs should be considered a turnback"
   }
  }
 }
