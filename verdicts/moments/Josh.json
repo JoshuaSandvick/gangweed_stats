@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-24T03:53:57.170Z",
+ "updated": "2026-10-24T03:55:09.428Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -555,6 +555,10 @@
   },
   "moment:3a146661a1cd": {
    "accurate": "yes"
+  },
+  "moment:e7bd67848637": {
+   "accurate": "no",
+   "note": "Player took off from wall"
   }
  }
 }
