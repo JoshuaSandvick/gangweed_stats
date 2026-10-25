@@ -1,7 +1,7 @@
 {
  "viewer": "rotation-movement-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-25T13:20:29.986Z",
+ "updated": "2026-10-25T13:20:35.191Z",
  "verdicts": {
   "moment:0bfd92aab809": {
    "accurate": "yes",
@@ -23,7 +23,8 @@
    "note": "No; the players ended up stacking and were not well positioned to follow up from Mike's touch because they weren't spread out"
   },
   "moment:c15c896a369c": {
-   "accurate": "yes"
+   "accurate": "yes",
+   "note": "No;"
   }
  }
 }
