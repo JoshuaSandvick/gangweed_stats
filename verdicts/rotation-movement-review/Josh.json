@@ -1,7 +1,7 @@
 {
  "viewer": "rotation-movement-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-25T13:18:54.428Z",
+ "updated": "2026-10-25T13:19:04.256Z",
  "verdicts": {
   "moment:0bfd92aab809": {
    "accurate": "yes",
@@ -20,7 +20,7 @@
   },
   "moment:e0967f007208": {
    "accurate": "yes",
-   "note": "No; "
+   "note": "No; the players ended up stacking"
   }
  }
 }
