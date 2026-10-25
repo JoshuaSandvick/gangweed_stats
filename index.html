@@ -14,6 +14,7 @@ main{max-width:1100px;margin:auto;padding:1.25rem 1rem 4rem}h1{font-size:1.55rem
 .review-list{display:grid;grid-template-columns:minmax(0,1fr);gap:.8rem}.review-card{min-width:0;overflow-wrap:anywhere}.review-card p{margin:.45rem 0}.review-card.is-held{opacity:.6}.review-question{color:var(--muted);font-size:.92rem}.review-bar{height:6px;border-radius:99px;background:#263449;overflow:hidden;margin:.7rem 0 .35rem}.review-bar span{display:block;height:100%;background:var(--accent)}.review-next{color:var(--muted);font-size:.9rem}.review-groups{margin-top:.6rem}.review-groups summary{cursor:pointer;color:var(--muted)}.review-groups ul{margin:.4rem 0 0;padding-left:1.1rem}.review-go{display:flex;flex-wrap:wrap;gap:.4rem .8rem;align-items:center}
 .trainer-stage{background:#0f172a;border:1px solid var(--line);border-radius:10px;padding:.35rem;min-width:0}#trainer-pitch{display:block;width:min(100%,calc(74vh * .82));height:auto;margin:0 auto;touch-action:none;cursor:crosshair;user-select:none}.trainer-controls{display:flex;gap:.5rem;flex-wrap:wrap;align-items:center;margin:.75rem 0}.trainer-controls #trainer-next{margin-left:auto}.trainer-choose{display:flex;gap:.4rem;flex-wrap:wrap;align-items:center;margin:.5rem 0}.trainer-choose button[aria-pressed=true]{border-color:var(--accent);color:var(--accent)}.trainer-answer{margin-top:1rem}.trainer-answer p{margin:.35rem 0}.trainer-legend{display:flex;gap:.9rem;flex-wrap:wrap;color:var(--muted);font-size:.86rem;margin:.3rem 0}.trainer-legend span::before{content:"";display:inline-block;width:.7rem;height:.7rem;border-radius:99px;margin-right:.3rem;vertical-align:-.05rem;background:var(--c)}
 @media(max-width:560px){header{padding:.7rem .8rem}main{padding:.9rem .8rem 3rem}.trainer-controls #trainer-next{margin-left:0;width:100%}.filters label{width:100%;justify-content:space-between}.filters select{max-width:65%}.report-content table{font-size:.86rem}.report-content tr.target td{background:rgba(234,179,8,.16)}.report-content tr.target td:first-child{font-weight:600;color:#fde68a}}
+.mv-card{margin-bottom:1rem}.mv-controls{display:flex;flex-wrap:wrap;gap:.5rem .8rem;align-items:flex-end;margin:.5rem 0}.mv-controls label{display:flex;flex-direction:column;gap:.2rem;color:var(--muted);font-size:.82rem;min-width:0;max-width:100%}.mv-controls select{min-width:0;max-width:100%;width:auto}.mv-check{flex-direction:row!important;align-items:center}.mv-fields{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:.6rem;margin:.5rem 0}.mv-field{margin:0;min-width:0}.mv-field figcaption{font-size:.85rem;margin-top:.25rem}.mv-svg{display:block;width:100%;height:auto;border:1px solid var(--line);border-radius:8px;background:#0b1220}.mv-pitch{fill:#12301f}.mv-line{fill:none;stroke:#3f7a5a;stroke-width:40}.mv-goal{fill:#1e293b;stroke:#94a3b8;stroke-width:40}.mv-text{fill:#94a3b8;font-size:380px}.mv-label{fill:#e2e8f0;font-size:420px;paint-order:stroke;stroke:#0b1220;stroke-width:90px}.mv-transport{display:flex;gap:.6rem;align-items:center;flex-wrap:wrap;margin:.4rem 0}.mv-transport input[type=range]{flex:1 1 160px;min-width:0}.mv-time{min-width:6.5rem;font-variant-numeric:tabular-nums;color:var(--muted)}.mv-clips{margin:.4rem 0}.mv-key{display:flex;flex-wrap:wrap;gap:.3rem .8rem;align-items:center;font-size:.85rem;margin:.3rem 0}.mv-swatch{display:inline-flex;align-items:center;gap:.3rem;white-space:nowrap}.mv-dot{display:inline-block;width:.7rem;height:.7rem;border-radius:50%;border:1px solid #0b1220}.mv-dot-outline{background:transparent;border:1px solid #e2e8f0}
 </style>
 </head>
 <body>
@@ -35,7 +36,7 @@ main{max-width:1100px;margin:auto;padding:1.25rem 1rem 4rem}h1{font-size:1.55rem
 </div></section>
 <section id="viewers" hidden><h1>Viewers</h1><p class="muted">Step-through comparisons of replay moments. Verdicts saved here join the reviewers' answers.</p><div id="viewers-status" class="status" aria-live="polite">Loading viewers…</div><div id="viewer-links" class="cards"></div></section>
 <section id="plays" hidden><div id="plays-list-view"><h1>Plays</h1><p class="muted">Team plays with the measurements behind them, and examples in the step-through viewer. Every number is computed from replay data and carries its sample size.</p><div id="plays-status" class="status" aria-live="polite">Loading plays…</div><div id="plays-cards" class="cards"></div></div><div id="play-detail" hidden><a href="#/plays">← Back to plays</a><h1 id="play-title"></h1><div id="play-badges" class="badges"></div><div id="play-description"></div><h2>Effectiveness</h2><div id="play-effect"></div><h2>Shape of the play</h2><p id="play-diagram-note" class="muted"></p><div id="play-diagram" class="play-diagram"></div><h2>Examples</h2><div id="play-examples"></div><h2 id="play-moments-title">Our play moments</h2><div id="play-moments"></div></div></section>
-<section id="rotation" hidden><h1>Rotation</h1><p class="muted">How our three cars rotate: who goes first, who commits, where the team is exposed or stacked, and how a car gets back into the play. Every number is computed from replay data and carries its sample size. The links show associations, not causes.</p><div id="rotation-status" class="status" aria-live="polite">Loading rotation…</div><div id="rotation-cards" class="rot-list"></div></section>
+<section id="rotation" hidden><h1>Rotation</h1><p class="muted">How our three cars rotate: who goes first, who commits, where the team is exposed or stacked, and how a car gets back into the play. Every number is computed from replay data and carries its sample size. The links show associations, not causes.</p><div id="rotation-status" class="status" aria-live="polite">Loading rotation…</div><div id="movement-host"></div><div id="rotation-cards" class="rot-list"></div></section>
 <section id="trainer" hidden>
 <div id="trainer-home"><h1>Trainer</h1><p class="muted">Practise our own mistakes between games. Each question pauses one of our real moments and asks where the player should go. Draw a path, then show what we did, what followed, and what matched Champion 1+ teams did.</p><p class="muted">The sets are computed moment types and are not yet trusted. Your drawn path is not scored: there is no validated right answer.</p><div id="trainer-home-status" class="status" aria-live="polite">Loading the trainer…</div><div id="trainer-sets" class="cards"></div></div>
 <div id="trainer-question" hidden><a id="trainer-back" href="#/trainer">← Trainer</a><h1 id="trainer-title"></h1><div id="trainer-badges" class="badges"></div><p id="trainer-prompt"></p><div id="trainer-choose" class="trainer-choose"></div>
@@ -1280,6 +1281,430 @@ async function renderPlays(r, token) {
     $('play-description').textContent = error.message;
   }
 }
+// The Movement panel (RLC-365). Every drawn position comes from site-data/rotation/movement.json, which the build writes
+// from the offense caches (rl_coach/rotation_movement.py). The coloured paths are medians at each half-second step, drawn
+// between the steps; the faint lines are real events. The words here carry no numbers.
+const MV_GROUPS = [['champion', 'Champion 1 to 3'], ['grand-champion', 'Grand Champion 1 to 3'], ['ssl', 'Supersonic Legend'], ['ours', 'Ours']];
+const MV_KINDS = [['switch', 'Side switch'], ['stretch', 'Ball on one side']];
+const MV_SUBSETS = [['all', 'All'], ['kept', 'Kept the ball'], ['lost', 'Lost it']];
+const MV_LABELS = [['depth', 'By depth'], ['ttb', 'By time to ball']];
+const MV_TRACKS = {ttb: ['1st', '2nd', '3rd'], depth: ['back', 'middle', 'front']};
+const MV_ROLE_COLOUR = {1: '#f97316', 2: '#38bdf8', 3: '#a3e635'};
+const MV_NO_ROLE_COLOUR = '#94a3b8';
+// The real events behind the paths: at most MV_SHOWN of the sampled ones, each drawn from the window start to the
+// current time, in its starting role's colour at a low opacity (the ball's line is grey).
+const MV_SHOWN = 8;
+const MV_TRACE_OPACITY = '0.12';
+const MV_ROLE_OF_LABEL = {'1st': 1, '2nd': 2, '3rd': 3};
+const MV_TRAIL = 1; // seconds of path behind each car and the ball, drawn with the trail
+const MV_WORDS = 'Typical path: the median position at each half-second over the events counted under each field. ' +
+  'The faint lines are real events behind it. It shows how the play went, not how it should go.';
+const MV_LABEL_NOTE = 'By time to ball leaves out the events whose three cars do not all have a role at the start; ' +
+  'by depth keeps every event.';
+const mvState = {doc: null, byKey: null, card: null, opts: null, fields: [], refs: null, play: false, raf: 0, last: 0, speed: 1,
+  grid: {start: 0, end: 0, step: 1}};
+
+// Checks the movement document's shape before anything is drawn. Throws with a message when it does not match.
+function validateMovement(doc) {
+  const groups = MV_GROUPS.map(group => group[0]);
+  if (!doc || doc.version !== 1 || typeof doc.status !== 'string' || !Array.isArray(doc.steps) || doc.steps.length !== 11 ||
+      !doc.arena || !Array.isArray(doc.series) || !doc.traces || typeof doc.traces !== 'object' || !doc.clips) {
+    throw Error('the movement data has an unexpected format.');
+  }
+  doc.series.forEach(entry => {
+    if (!['switch', 'stretch'].includes(entry.kind) || !groups.includes(entry.group) ||
+        !['all', 'kept', 'lost'].includes(entry.subset) || !MV_TRACKS[entry.labels] || typeof entry.n !== 'number' ||
+        !Array.isArray(entry.ball) || entry.ball.length !== 11 || !entry.tracks) {
+      throw Error('a movement series has an unexpected format.');
+    }
+    MV_TRACKS[entry.labels].forEach(name => {
+      if (!Array.isArray(entry.tracks[name]) || entry.tracks[name].length !== 11) {
+        throw Error('a movement track has an unexpected format.');
+      }
+    });
+  });
+  return doc;
+}
+async function ensureMovement() {
+  if (mvState.doc) return mvState.doc;
+  const doc = validateMovement(await getJson('site-data/rotation/movement.json'));
+  const byKey = new Map();
+  doc.series.forEach(entry => byKey.set([entry.kind, entry.group, entry.subset, entry.labels].join('|'), entry));
+  // The time grid is the document's own steps (the validator checks there are eleven).
+  mvState.grid = {start: doc.steps[0], end: doc.steps[doc.steps.length - 1], step: doc.steps[1] - doc.steps[0]};
+  mvState.byKey = byKey;
+  mvState.doc = doc;
+  return doc;
+}
+function mvSeries(kind, group, subset, labels) { return mvState.byKey.get([kind, group, subset, labels].join('|')) || null; }
+function mvGroupName(group) {
+  const hit = MV_GROUPS.find(entry => entry[0] === group);
+  return hit ? hit[1] : group;
+}
+// The view's state is in the route: #/rotation?move=&group=&vs=&subset=&labels=&t=&traces=1 (real clips shown only).
+function mvParams() {
+  const query = new URLSearchParams((location.hash.split('?')[1] || ''));
+  const pick = (name, allowed, fallback) => (allowed.includes(query.get(name)) ? query.get(name) : fallback);
+  const kind = pick('move', ['switch', 'stretch'], 'switch');
+  const group = pick('group', MV_GROUPS.map(entry => entry[0]), 'ssl');
+  const versus = query.get('vs') || '';
+  const vs = MV_GROUPS.some(entry => entry[0] === versus) && versus !== group ? versus : '';
+  let t = Number(query.get('t'));
+  if (query.get('t') === null || !Number.isFinite(t)) t = 0;
+  t = Math.min(mvState.grid.end, Math.max(mvState.grid.start, t));
+  return {kind, group, vs, subset: pick('subset', ['all', 'kept', 'lost'], 'all'),
+    labels: pick('labels', ['depth', 'ttb'], 'depth'), t, traces: query.get('traces') === '1'};
+}
+function mvWriteUrl() {
+  const opts = mvState.opts;
+  const params = new URLSearchParams();
+  params.set('move', opts.kind);
+  params.set('group', opts.group);
+  if (opts.vs) params.set('vs', opts.vs);
+  params.set('subset', opts.subset);
+  params.set('labels', opts.labels);
+  params.set('t', String(Math.round(opts.t * 100) / 100));
+  if (opts.traces) params.set('traces', '1');
+  history.replaceState(null, '', location.pathname + location.search + '#/rotation?' + params.toString());
+}
+// The value of a path at time t (seconds from the alignment), linear between the two steps either side of it.
+// Role and share come from the nearer step; a step with no value holds the other one for half a step.
+function mvAt(points, t) {
+  const f = (t - mvState.grid.start) / mvState.grid.step;
+  const i = Math.min(points.length - 1, Math.max(0, Math.floor(f + 1e-9)));
+  if (i >= points.length - 1) return points[points.length - 1] || null;
+  const a = points[i], b = points[i + 1];
+  if (!a && !b) return null;
+  if (!a || !b) return Object.assign({}, a || b);
+  const frac = Math.min(1, Math.max(0, f - i));
+  const near = frac < 0.5 ? a : b;
+  return {x: a.x + (b.x - a.x) * frac, y: a.y + (b.y - a.y) * frac, vx: a.vx + (b.vx - a.vx) * frac,
+    vy: a.vy + (b.vy - a.vy) * frac, role: near.role, share: near.share, n: near.n};
+}
+function mvTimeText(t, kind) {
+  if (Math.abs(t) < 0.05) return kind === 'switch' ? 'switch' : 'start';
+  return (t < 0 ? '-' : '+') + Math.abs(t).toFixed(1) + ' s';
+}
+function mvSvg(arena, label) {
+  const W = arena.half_width, L = arena.half_length, G = arena.goal_half_width, D = arena.goal_depth;
+  const pad = 900, span = L + D + pad;
+  const svg = svgNode('svg', {class: 'mv-svg', viewBox: [-(W + pad), -span, 2 * (W + pad), 2 * span].join(' '),
+    role: 'img', 'aria-label': label});
+  svg.append(svgNode('rect', {class: 'mv-pitch', x: -W, y: -L, width: 2 * W, height: 2 * L}));
+  svg.append(svgNode('line', {class: 'mv-line', x1: -W, x2: W, y1: 0, y2: 0}));
+  svg.append(svgNode('circle', {class: 'mv-line', cx: 0, cy: 0, r: 900}));
+  // Attack is up the screen: the goal we attack is at +y, drawn at the top.
+  svg.append(svgNode('rect', {class: 'mv-goal', x: -G, y: -(L + D), width: 2 * G, height: D}));
+  svg.append(svgNode('rect', {class: 'mv-goal', x: -G, y: L, width: 2 * G, height: D}));
+  const top = svgNode('text', {class: 'mv-text', x: 0, y: -(L + D + pad * 0.45), 'text-anchor': 'middle'});
+  top.textContent = 'the goal we attack';
+  const bottom = svgNode('text', {class: 'mv-text', x: 0, y: L + D + pad * 0.85, 'text-anchor': 'middle'});
+  bottom.textContent = 'our goal';
+  svg.append(top, bottom);
+  const traces = svgNode('g', {});
+  const dyn = svgNode('g', {});
+  svg.append(traces, dyn);
+  return {svg, traces, dyn};
+}
+// The value of a real path at time t: exact on a step, linear between two steps that both have a value, else none.
+// A gap in a real path stays a gap (no hold), unlike the typical path.
+function mvTraceAt(points, t) {
+  const f = (t - mvState.grid.start) / mvState.grid.step;
+  const i = Math.floor(f + 1e-9);
+  const frac = f - i;
+  if (frac < 1e-6 || frac > 1 - 1e-6) return points[Math.round(f)] || null;
+  const a = points[i], b = points[i + 1];
+  if (!a || !b) return null;
+  return {x: a.x + (b.x - a.x) * frac, y: a.y + (b.y - a.y) * frac};
+}
+function mvPointOf(p) { return p ? {x: p[0], y: p[1]} : null; }
+// One real path from the window start to time t, broken at gaps.
+function mvTraceRun(parent, points, t, colour) {
+  const times = mvState.doc.steps.filter(offset => offset <= t + 1e-9);
+  if (!times.length) return;
+  if (times[times.length - 1] < t - 1e-9) times.push(t);
+  let run = [];
+  const flush = () => {
+    if (run.length > 1) parent.append(svgNode('polyline', {points: run.join(' '), fill: 'none', stroke: colour,
+      'stroke-opacity': MV_TRACE_OPACITY, 'stroke-width': 60, 'stroke-linejoin': 'round', 'stroke-linecap': 'round'}));
+    run = [];
+  };
+  times.forEach(time => {
+    const p = mvTraceAt(points, time);
+    if (!p) { flush(); return; }
+    run.push(p.x + ',' + (-p.y));
+  });
+  flush();
+}
+function mvDrawTraces(parent, sets, t) {
+  sets.slice(0, MV_SHOWN).forEach(trace => {
+    trace.cars.forEach(car => {
+      const colour = MV_ROLE_COLOUR[MV_ROLE_OF_LABEL[car.ttb]] || MV_NO_ROLE_COLOUR;
+      mvTraceRun(parent, car.pts.map(mvPointOf), t, colour);
+    });
+    mvTraceRun(parent, trace.ball.map(mvPointOf), t, MV_NO_ROLE_COLOUR);
+  });
+}
+function mvTrail(parent, points, t, colour, width) {
+  let previous = null;
+  for (let k = 0; k <= 4; k++) {
+    const time = Math.max(mvState.grid.start, t - MV_TRAIL * (4 - k) / 4);
+    const here = mvAt(points, time);
+    if (previous && here) {
+      parent.append(svgNode('line', {x1: previous.x, y1: -previous.y, x2: here.x, y2: -here.y, stroke: colour,
+        'stroke-width': width, 'stroke-linecap': 'round', 'stroke-opacity': (0.15 + 0.6 * k / 4).toFixed(2)}));
+    }
+    previous = here;
+  }
+}
+// The velocity as a short arrow (a fixed fraction of a second of travel), so its length is the speed.
+function mvArrow(parent, x, y, vx, vy, colour) {
+  const ex = x + vx * 0.45, ey = y + vy * 0.45;
+  const dx = ex - x, dy = (-ey) - (-y);
+  const length = Math.hypot(dx, dy);
+  if (length < 1) return;
+  parent.append(svgNode('line', {x1: x, y1: -y, x2: ex, y2: -ey, stroke: colour, 'stroke-width': 90, 'stroke-linecap': 'round'}));
+  const ux = dx / length, uy = dy / length, head = 270, half = 140;
+  const bx = ex - ux * head, by = -ey - uy * head;
+  parent.append(svgNode('polygon', {points: [ex + ',' + (-ey), (bx - uy * half) + ',' + (by + ux * half),
+    (bx + uy * half) + ',' + (by - ux * half)].join(' '), fill: colour}));
+}
+function mvDraw(field, t) {
+  const dyn = field.dyn;
+  dyn.replaceChildren();
+  field.traces.replaceChildren();
+  if (field.opts.traces) mvDrawTraces(field.traces, field.traceSets, t);
+  const series = field.series;
+  if (!series) return;
+  const ball = mvAt(series.ball, t);
+  if (ball) {
+    mvTrail(dyn, series.ball, t, '#e2e8f0', 100);
+    dyn.append(svgNode('circle', {cx: ball.x, cy: -ball.y, r: 170, fill: '#e2e8f0', stroke: '#0b1220', 'stroke-width': 40}));
+  }
+  MV_TRACKS[field.opts.labels].forEach(name => {
+    const points = series.tracks[name];
+    const now = mvAt(points, t);
+    if (!now) return;
+    const colour = now.role ? MV_ROLE_COLOUR[now.role] : MV_NO_ROLE_COLOUR;
+    mvTrail(dyn, points, t, colour, 120);
+    mvArrow(dyn, now.x, now.y, now.vx, now.vy, colour);
+    dyn.append(svgNode('circle', {cx: now.x, cy: -now.y, r: 260, fill: colour, 'fill-opacity': (0.35 + 0.65 * (now.share || 0)).toFixed(2),
+      stroke: '#0b1220', 'stroke-width': 60}));
+    const text = svgNode('text', {class: 'mv-label', x: now.x, y: -now.y - 480, 'text-anchor': 'middle'});
+    text.textContent = name;
+    dyn.append(text);
+  });
+  const step = Math.min(series.ball.length - 1, Math.max(0, Math.round((t - mvState.grid.start) / mvState.grid.step)));
+  const seen = series.ball[step];
+  field.caption.textContent = mvGroupName(field.group) + ' · n ' + (seen ? seen.n : 0);
+}
+function mvDrawFields() {
+  const opts = mvState.opts, doc = mvState.doc, host = mvState.refs.fields;
+  host.replaceChildren();
+  mvState.fields = [];
+  (opts.vs ? [opts.group, opts.vs] : [opts.group]).forEach(group => {
+    const series = mvSeries(opts.kind, group, opts.subset, opts.labels);
+    const figure = element('figure', 'mv-field');
+    const drawn = mvSvg(doc.arena, mvGroupName(group) + ', ' + (opts.kind === 'switch' ? 'side switch' : 'ball on one side') +
+      ', typical path');
+    const caption = element('figcaption', 'muted');
+    figure.append(drawn.svg, caption);
+    host.append(figure);
+    const field = {group, series, dyn: drawn.dyn, traces: drawn.traces, caption, opts,
+      traceSets: doc.traces[opts.kind + '|' + group + '|' + opts.subset] || []};
+    if (!series) {
+      caption.textContent = mvGroupName(group) + ': no events for this choice';
+    } else if (opts.labels === 'ttb' && series.dropped) {
+      caption.textContent = mvGroupName(group) + ' · ' + series.dropped + ' left out (no full set of roles)';
+    }
+    mvState.fields.push(field);
+  });
+  mvRedraw();
+}
+function mvRedraw() {
+  const opts = mvState.opts;
+  mvState.fields.forEach(field => {
+    mvDraw(field, opts.t);
+  });
+  mvState.refs.time.textContent = mvTimeText(opts.t, opts.kind);
+  mvState.refs.scrub.value = String(Math.round(opts.t * 100) / 100);
+}
+function mvSwatch(colour, text, outline) {
+  const wrap = element('span', 'mv-swatch');
+  const dot = element('span', outline ? 'mv-dot mv-dot-outline' : 'mv-dot');
+  if (!outline) dot.style.background = colour;
+  wrap.append(dot, text);
+  return wrap;
+}
+// The key under the fields: what a label, a colour and an arrow mean; swatches for the role colours and, for depth, the words.
+function mvKeyNodes(labels) {
+  const nodes = [labels === 'depth' ? 'Label = depth at the start' : 'Label = role at the start',
+    ' · colour = role now · arrow = speed and direction '];
+  nodes.push(mvSwatch(MV_ROLE_COLOUR[1], '1st'), mvSwatch(MV_ROLE_COLOUR[2], '2nd'), mvSwatch(MV_ROLE_COLOUR[3], '3rd'),
+    mvSwatch(MV_NO_ROLE_COLOUR, 'no role'));
+  if (labels === 'depth') nodes.push(mvSwatch('', 'front', true), mvSwatch('', 'middle', true), mvSwatch('', 'back', true));
+  return nodes;
+}
+function mvClipLine(doc, kind) {
+  const line = element('p', 'muted');
+  const clip = doc.clips && doc.clips[kind];
+  if (!clip) {
+    line.textContent = 'No review clips of this kind yet.';
+    return line;
+  }
+  line.append('Clips of this kind: ');
+  const link = element('a', '', 'open the first of ' + clip.count);
+  link.href = '#/viewer/' + encodeURIComponent(clip.viewer) + '?goal=' + clip.goal;
+  line.append(link, '. Each is a real moment that met the rule; the viewer asks whether the rotation was good.');
+  return line;
+}
+function mvStop() {
+  mvState.play = false;
+  if (mvState.raf) cancelAnimationFrame(mvState.raf);
+  mvState.raf = 0;
+  mvState.last = 0;
+  if (mvState.refs) mvState.refs.play.textContent = 'Play';
+}
+function mvFrame(now) {
+  mvState.raf = 0;
+  if (!mvState.play || !mvState.card || !mvState.card.isConnected || $('rotation').hidden) {
+    mvStop();
+    return;
+  }
+  const dt = mvState.last ? Math.min(0.1, (now - mvState.last) / 1000) : 0;
+  mvState.last = now;
+  let t = mvState.opts.t + dt * mvState.speed;
+  if (t > mvState.grid.end) t = mvState.grid.start;
+  mvState.opts.t = t;
+  mvRedraw();
+  mvState.raf = requestAnimationFrame(mvFrame);
+}
+function mvPlay() {
+  mvState.play = true;
+  mvState.last = 0;
+  mvState.refs.play.textContent = 'Pause';
+  mvState.raf = requestAnimationFrame(mvFrame);
+}
+function mvSelect(text, options, value, onChange) {
+  const wrap = element('label', '', text);
+  const select = element('select', '');
+  options.forEach(([val, name]) => {
+    const option = element('option', '', name);
+    option.value = val;
+    if (val === value) option.selected = true;
+    select.append(option);
+  });
+  select.addEventListener('change', () => onChange(select.value));
+  wrap.append(select);
+  return wrap;
+}
+function mvMount(host, doc, opts) {
+  mvStop();
+  mvState.doc = doc;
+  mvState.opts = opts;
+  const card = element('article', 'card mv-card');
+  card.id = 'movement';
+  card.append(element('h2', '', 'Movement'));
+  card.append(element('p', 'muted', MV_WORDS));
+  const badges = element('div', 'badges');
+  badges.append(element('span', 'badge', doc.status));
+  card.append(badges);
+  const controls = element('div', 'mv-controls');
+  const changed = () => {
+    mvStop();
+    mvWriteUrl();
+    mvState.refs.clips.replaceChildren(mvClipLine(doc, mvState.opts.kind));
+    mvState.refs.key.replaceChildren(...mvKeyNodes(mvState.opts.labels));
+    mvDrawFields();
+  };
+  controls.append(
+    mvSelect('Kind', MV_KINDS, opts.kind, value => { mvState.opts.kind = value; changed(); }),
+    mvSelect('Group', MV_GROUPS, opts.group, value => {
+      mvState.opts.group = value;
+      if (mvState.opts.vs === value) mvState.opts.vs = '';
+      changed();
+    }),
+    mvSelect('Compare with', [['', 'None']].concat(MV_GROUPS), opts.vs, value => {
+      mvState.opts.vs = value === mvState.opts.group ? '' : value;
+      changed();
+    }),
+    mvSelect('Subset', MV_SUBSETS, opts.subset, value => { mvState.opts.subset = value; changed(); }),
+    mvSelect('Labels', MV_LABELS, opts.labels, value => { mvState.opts.labels = value; changed(); }));
+  const traceBox = element('input', '');
+  traceBox.type = 'checkbox';
+  traceBox.checked = opts.traces;
+  traceBox.addEventListener('change', () => {
+    mvState.opts.traces = traceBox.checked;
+    mvWriteUrl();
+    mvRedraw();
+  });
+  const traceLabel = element('label', 'mv-check');
+  traceLabel.append(traceBox, ' Real clips behind it');
+  controls.append(traceLabel);
+  card.append(controls);
+  const fields = element('div', 'mv-fields');
+  card.append(fields);
+  const key = element('p', 'muted mv-key');
+  key.append(...mvKeyNodes(opts.labels));
+  card.append(key);
+  const transport = element('div', 'mv-transport');
+  const play = element('button', '', 'Play');
+  play.type = 'button';
+  play.addEventListener('click', () => {
+    if (mvState.play) {
+      mvStop();
+      mvWriteUrl();
+    } else {
+      mvPlay();
+    }
+  });
+  const scrub = element('input', '');
+  scrub.type = 'range';
+  scrub.min = String(mvState.grid.start);
+  scrub.max = String(mvState.grid.end);
+  scrub.step = String(mvState.grid.step / 10);
+  scrub.value = String(opts.t);
+  scrub.setAttribute('aria-label', 'Time from the alignment');
+  scrub.addEventListener('input', () => {
+    mvStop();
+    mvState.opts.t = Number(scrub.value);
+    mvRedraw();
+  });
+  scrub.addEventListener('change', () => mvWriteUrl());
+  const time = element('span', 'mv-time', mvTimeText(opts.t, opts.kind));
+  const speed = element('button', '', '1x');
+  speed.type = 'button';
+  speed.addEventListener('click', () => {
+    mvState.speed = mvState.speed === 1 ? 0.5 : 1;
+    speed.textContent = mvState.speed === 1 ? '1x' : '0.5x';
+  });
+  transport.append(play, scrub, time, speed);
+  card.append(transport);
+  const clips = element('div', 'mv-clips');
+  clips.append(mvClipLine(doc, opts.kind));
+  card.append(clips);
+  card.append(element('p', 'muted', MV_LABEL_NOTE));
+  host.replaceChildren(card);
+  mvState.card = card;
+  mvState.refs = {fields, key, play, scrub, time, clips};
+  mvDrawFields();
+}
+// The Movement panel's own load: a missing or invalid movement.json leaves a quiet line, and the rest of the section works.
+async function renderMovement(token) {
+  const host = $('movement-host');
+  mvStop();
+  host.replaceChildren();
+  let doc;
+  try {
+    doc = await ensureMovement();
+  } catch (error) {
+    if (token !== state.navToken) return;
+    host.append(element('p', 'muted', 'The movement view is not available: ' + error.message));
+    return;
+  }
+  if (token !== state.navToken) return;
+  mvMount(host, doc, mvParams());
+}
 // The Rotation section (RLC-267, phase 6). Every value comes from site-data/rotation/index.json, which the build
 // writes from the modules' own summaries. This code draws what the index holds; its words carry no numbers.
 const rotationState = {index: null};
@@ -1459,6 +1884,7 @@ async function renderRotation(token) {
   const status = $('rotation-status'), host = $('rotation-cards');
   status.textContent = 'Loading rotation…';
   host.replaceChildren();
+  renderMovement(token);
   try {
     const index = await ensureRotationIndex();
     if (token !== state.navToken) return;
