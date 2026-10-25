@@ -1,7 +1,7 @@
 {
  "viewer": "rotation-movement-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-25T13:17:34.986Z",
+ "updated": "2026-10-25T13:18:36.782Z",
  "verdicts": {
   "moment:0bfd92aab809": {
    "accurate": "yes",
@@ -17,6 +17,9 @@
   "moment:8e708910fb37": {
    "accurate": "yes",
    "note": "Yes; def 1 and def 2 rotate well. Def 3 goes back for corner big boost which might be mistake"
+  },
+  "moment:e0967f007208": {
+   "accurate": "no"
   }
  }
 }
