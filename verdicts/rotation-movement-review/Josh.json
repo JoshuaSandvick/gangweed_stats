@@ -1,7 +1,7 @@
 {
  "viewer": "rotation-movement-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-25T13:14:39.373Z",
+ "updated": "2026-10-25T13:15:32.217Z",
  "verdicts": {
   "moment:0bfd92aab809": {
    "accurate": "yes",
@@ -12,7 +12,7 @@
    "note": "No, feels like def 3 rotated the wrong way to grab opposing corner boost and then was never in a good spot again"
   },
   "moment:56ea43a589f4": {
-   "accurate": "yes"
+   "accurate": ""
   }
  }
 }
