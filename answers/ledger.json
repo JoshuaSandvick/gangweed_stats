@@ -25,6 +25,28 @@
   {
    "accepted": "2026-10-24",
    "identity": {
+    "anchor": 323.57,
+    "id": "08f27528f825",
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-15",
+     "digest": "891086ce63b2f29628de38e1bb368114b1c395874dcada3837b6c550e8a48bef",
+     "id": null
+    },
+    "subject": "contested_touches@51",
+    "team": 0,
+    "type": "challenge"
+   },
+   "key": "08f27528f825",
+   "reason": "absorbed by contested touches RLC-352 (METRICS_VERSION 52, a00ce76): rule R1, the game's touch counter has no increment for Mike (he missed the ball going for the 50), so there is no touch; research/2026-10-24-rlc352-contested-touches.md",
+   "viewer": "moments"
+  },
+  {
+   "accepted": "2026-10-24",
+   "identity": {
     "anchor": 362.96,
     "id": "0fb13d695115",
     "players": [
@@ -135,6 +157,28 @@
   {
    "accepted": "2026-10-24",
    "identity": {
+    "anchor": 355.8,
+    "id": "1be08aeaaf9b",
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-30",
+     "digest": "8141976ecc7ca1a64d86807d42befcfcd30c07db98b838ce7cde0b6e351267c1",
+     "id": null
+    },
+    "subject": null,
+    "team": 0,
+    "type": "longest_boost_drought"
+   },
+   "key": "1be08aeaaf9b",
+   "reason": "absorbed by boost droughts RLC-353 (METRICS_VERSION 52, a00ce76): goal dead time, the drought starts at 355.8 s, inside the dead time from the goal at 340.95 s to the first ball sample after the kickoff at 356.47 s; research/2026-10-24-rlc353-goal-dead-time.md",
+   "viewer": "moments"
+  },
+  {
+   "accepted": "2026-10-24",
+   "identity": {
     "anchor": 138.18,
     "id": "1d27661053b9",
     "players": [
@@ -152,6 +196,28 @@
    },
    "key": "1d27661053b9",
    "reason": "absorbed by floor flip reset v5 (THRESHOLDS_VERSION 5, b980552): A2, the reset at 138.18 s was not used before the car landed (its window ran to a touch 55 s later); research/2026-10-24-air-mechanics-review.md",
+   "viewer": "moments"
+  },
+  {
+   "accepted": "2026-10-24",
+   "identity": {
+    "anchor": 348.2,
+    "id": "20d1ce75e060",
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-30",
+     "digest": "3206aa96a0838e335b96f069d17cea1ca0392c202ff1de543054a0abdc2eecc3",
+     "id": null
+    },
+    "subject": null,
+    "team": 0,
+    "type": "longest_boost_drought"
+   },
+   "key": "20d1ce75e060",
+   "reason": "absorbed by boost droughts RLC-353 (METRICS_VERSION 52, a00ce76): goal dead time, the drought starts at 348.2 s, inside the dead time from the goal at 330.87 s to the first ball sample after the kickoff at 348.94 s (the reviewer's \"boost at kickoff\" error); research/2026-10-24-rlc353-goal-dead-time.md",
    "viewer": "moments"
   },
   {
@@ -316,6 +382,28 @@
    "viewer": "moments"
   },
   {
+   "accepted": "2026-10-24",
+   "identity": {
+    "anchor": 57.7,
+    "id": "61c038bfe47c",
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-07",
+     "digest": "c20e4cdf487631ee773dd7bf3461bceb034441d1e5859ff7c874f56fdef3493c",
+     "id": null
+    },
+    "subject": null,
+    "team": 0,
+    "type": "longest_boost_drought"
+   },
+   "key": "61c038bfe47c",
+   "reason": "absorbed by boost droughts RLC-353 (METRICS_VERSION 52, a00ce76): goal dead time, the drought starts at 57.7 s, inside the dead time from the goal at 40.3 s to the first ball sample after the kickoff at 58.36 s; research/2026-10-24-rlc353-goal-dead-time.md",
+   "viewer": "moments"
+  },
+  {
    "accepted": "2026-10-21",
    "identity": {
     "anchor": 231.97,
@@ -386,6 +474,94 @@
    },
    "key": "6ed17e8669a4",
    "reason": "absorbed by contested touches RLC-345 (METRICS_VERSION 51, 759cef4): a kickoff touch, excluded by the kickoff grace; research/2026-10-24-contested-touch-review.md",
+   "viewer": "moments"
+  },
+  {
+   "accepted": "2026-10-24",
+   "identity": {
+    "anchor": 301.32,
+    "id": "71ab359bece1",
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-30",
+     "digest": "1f62d8b96b02b302fcfa929b359ecb004e0d48e28a66c97fc9cc6e94d8a36020",
+     "id": null
+    },
+    "subject": "contested_touches@51",
+    "team": 1,
+    "type": "challenge"
+   },
+   "key": "71ab359bece1",
+   "reason": "absorbed by contested touches RLC-352 (METRICS_VERSION 52, a00ce76): rule R2, a teammate (Jake, 365 uu) was nearer the ball than every opponent, so the touch is not contested; research/2026-10-24-rlc352-contested-touches.md",
+   "viewer": "moments"
+  },
+  {
+   "accepted": "2026-10-24",
+   "identity": {
+    "anchor": 27.21,
+    "id": "7630c7928fe5",
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-18",
+     "digest": "0ba7e8a79a68723317bcc85677a624ca507e4c3cdf59f31456b63a42555fdb6c",
+     "id": null
+    },
+    "subject": "contested_touches@51",
+    "team": 0,
+    "type": "challenge"
+   },
+   "key": "7630c7928fe5",
+   "reason": "absorbed by contested touches RLC-352 (METRICS_VERSION 52, a00ce76): rule R1, the game's touch counter has no increment for Josh, so there is no touch; research/2026-10-24-rlc352-contested-touches.md",
+   "viewer": "moments"
+  },
+  {
+   "accepted": "2026-10-24",
+   "identity": {
+    "anchor": 671.98,
+    "id": "7dc55eff8b96",
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-18",
+     "digest": "0ba7e8a79a68723317bcc85677a624ca507e4c3cdf59f31456b63a42555fdb6c",
+     "id": null
+    },
+    "subject": "contested_touches@51",
+    "team": 0,
+    "type": "challenge"
+   },
+   "key": "7dc55eff8b96",
+   "reason": "absorbed by contested touches RLC-352 (METRICS_VERSION 52, a00ce76): rule R2, a teammate (Josh, 474 uu) was nearer the ball than every opponent, so the touch is not contested; research/2026-10-24-rlc352-contested-touches.md",
+   "viewer": "moments"
+  },
+  {
+   "accepted": "2026-10-24",
+   "identity": {
+    "anchor": 37.47,
+    "id": "7ed8bfd0dcc3",
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-04-16",
+     "digest": "689134310423aae94bdc9b375cfc9d607af7db281a4b82829d074f1155e99044",
+     "id": null
+    },
+    "subject": "corner_attack_pickups@51",
+    "team": 0,
+    "type": "corner_attack_pickup"
+   },
+   "key": "7ed8bfd0dcc3",
+   "reason": "absorbed by corner pickups RLC-353 (METRICS_VERSION 52, a00ce76): goal dead time, the pickup at 37.47 s is after the goal at 35.8 s and before the kickoff at 50.5 s; research/2026-10-24-rlc353-goal-dead-time.md",
    "viewer": "moments"
   },
   {
@@ -679,6 +855,28 @@
    "identity": null,
    "key": "e9bfeab9eef4",
    "reason": "absorbed by double flip reset v4 (THRESHOLDS_VERSION 4, ca4f7d7): the second dodge 0.10 s after the first, inside its flip (rule 1); research/2026-10-21-rlc306-double-flip-reset.md",
+   "viewer": "moments"
+  },
+  {
+   "accepted": "2026-10-24",
+   "identity": {
+    "anchor": 160.2,
+    "id": "edac09f377ae",
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-07",
+     "digest": "847d82c59a063a56238da493550cc6e1cdc8f8521f2aa2fb4a0665e6c2921990",
+     "id": null
+    },
+    "subject": null,
+    "team": 0,
+    "type": "longest_boost_drought"
+   },
+   "key": "edac09f377ae",
+   "reason": "absorbed by boost droughts RLC-353 (METRICS_VERSION 52, a00ce76): goal dead time, the drought starts at 160.2 s, inside the dead time from the goal at 142.78 s to the first ball sample after the kickoff at 160.83 s; research/2026-10-24-rlc353-goal-dead-time.md",
    "viewer": "moments"
   },
   {
@@ -2874,18 +3072,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_zap_dash.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_zap_dash-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -2988,13 +3186,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "ball_side_exit.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "ball_side_exit-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -3057,13 +3260,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -3086,6 +3294,65 @@
     ]
    },
    "key": "016d75ca76bf",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "01a5eb9f67e1",
+   "identity": {
+    "anchor": 63.09,
+    "end": 63.09,
+    "id": "01a5eb9f67e1",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-30",
+     "digest": "8141976ecc7ca1a64d86807d42befcfcd30c07db98b838ce7cde0b6e351267c1",
+     "id": null,
+     "name": "B550A61545757E49F72635B51AB6CB9B.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "corner_attack_pickup.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "corner_attack_pickup-reviewed.json",
+      "when": "2026-10-24T19:43:41+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 63.09,
+    "status": "computed",
+    "subject": "corner_attack_pickups@51",
+    "team": 0,
+    "type": "corner_attack_pickup",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "took the corner big pad (their side, right) while the ball was in the opponent half",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "01a5eb9f67e1",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -3116,13 +3383,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "corner_attack_pickup.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "corner_attack_pickup-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:41+00:00",
       "where": "store"
      }
     ],
@@ -3220,18 +3492,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_wall_wavedash.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_wall_wavedash-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -3314,18 +3586,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_speed_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_speed_flip.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_speed_flip-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -3348,6 +3620,65 @@
     ]
    },
    "key": "03a3827f260f",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "04405f424d07",
+   "identity": {
+    "anchor": 90.26,
+    "end": 92.13,
+    "id": "04405f424d07",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-21",
+     "digest": "84220ffde7cce8256da7d782aa75ce9db54b26973bea18f565934926e931d4c9",
+     "id": null,
+     "name": "933969C74FADC220758544AADB9C094D.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "turn_backs.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "turn_backs-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 88.26,
+    "status": "computed",
+    "subject": "turn_backs@51",
+    "team": 0,
+    "type": "turn_backs",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "turned from upfield to its own goal in 0.9 s (steer), speed 1722 to 1703 uu/s, width 888 uu",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "04405f424d07",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -3423,18 +3754,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_fast_aerial.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_fast_aerial-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -3497,13 +3828,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -3526,6 +3862,65 @@
     ]
    },
    "key": "053ede5daec7",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "05d03a5bee2d",
+   "identity": {
+    "anchor": 320.95,
+    "end": 322.81,
+    "id": "05d03a5bee2d",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 5"
+    ],
+    "replay": {
+     "band": "grand-champion-1",
+     "date": "2026-04-28",
+     "digest": null,
+     "id": "09e622fd-f48d-4876-8c74-623eb63e8a47",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_ground.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_ground-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 318.2,
+    "status": "computed",
+    "subject": null,
+    "team": 1,
+    "type": "mx_flip_reset_ground",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 3 (orange). [GC/SSL band; loose tier] Flip reset from the floor: the ball touched underneath the car 2.25 s after the takeoff (92 uu away, 90 uu under the roof); dodge 0.86 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.51 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "05d03a5bee2d",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -3586,18 +3981,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_speed_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_speed_flip.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_speed_flip-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -3685,18 +4080,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_double_flip_reset.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_double_flip_reset.json",
-      "when": "2026-10-19T13:53:54+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_double_flip_reset-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -3747,11 +4142,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "turn_backs.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "ours",
@@ -3848,18 +4238,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_fast_aerial.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_fast_aerial-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -3912,13 +4302,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "challenge.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "challenge-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -4021,13 +4416,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "longest_boost_drought-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:38+00:00",
       "where": "store"
      }
     ],
@@ -4050,6 +4450,55 @@
     ]
    },
    "key": "08ea32f1620e",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "orphaned",
+   "effective_key": "08f27528f825",
+   "identity": {
+    "anchor": 323.57,
+    "end": 323.57,
+    "id": "08f27528f825",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-15",
+     "digest": "891086ce63b2f29628de38e1bb368114b1c395874dcada3837b6c550e8a48bef",
+     "id": null,
+     "name": "986EFAD611F1C83EDE39FA8E67C361B6.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     }
+    ],
+    "source": "ours",
+    "start": 323.57,
+    "status": "computed",
+    "subject": "contested_touches@51",
+    "team": 0,
+    "type": "challenge",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "touched the ball with an opponent within 600 uu (nearest 280 uu); next touch by the opponents 2.6 s later: lost",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "08f27528f825",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -4125,18 +4574,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_fast_aerial.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_fast_aerial-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -4159,6 +4608,183 @@
     ]
    },
    "key": "0a46df129afe",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "0aab892d3b56",
+   "identity": {
+    "anchor": 175.5,
+    "end": 177.04,
+    "id": "0aab892d3b56",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 3"
+    ],
+    "replay": {
+     "band": "supersonic-legend",
+     "date": "2026-03-08",
+     "digest": null,
+     "id": "d40f0427-506f-4c5d-b287-23981bb09174",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_ground.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_ground-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 173.4,
+    "status": "computed",
+    "subject": null,
+    "team": 1,
+    "type": "mx_flip_reset_ground",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 2 (orange). [GC/SSL band; loose tier] Flip reset from the floor: the ball touched underneath the car 1.60 s after the takeoff (97 uu away, 96 uu under the roof); dodge 0.10 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.94 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "0aab892d3b56",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "0ad240f8ae2d",
+   "identity": {
+    "anchor": 340.84,
+    "end": 342.87,
+    "id": "0ad240f8ae2d",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-03",
+     "digest": "5e724655f82fe57dd8a567fe24bc3bfef8517ff6bd81140f10d05d3aff052a4c",
+     "id": null,
+     "name": "1C73F79E4F4A9CC9EF002C96AB1909BD.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "turn_backs.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "turn_backs-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 338.84,
+    "status": "computed",
+    "subject": "turn_backs@51",
+    "team": 0,
+    "type": "turn_backs",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "turned from upfield to its own goal in 1.0 s (steer), speed 1366 to 1522 uu/s, width 1129 uu",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "0ad240f8ae2d",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "0f7c42d2c34c",
+   "identity": {
+    "anchor": 330.85,
+    "end": 332.86,
+    "id": "0f7c42d2c34c",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "594f8000f7968caea91b5dcbf5ce9a845cdc342a379411d65d64f2481a78164d",
+     "id": null,
+     "name": "A671B84042D99681825C549185840440.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "turn_backs.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "turn_backs-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 328.85,
+    "status": "computed",
+    "subject": "turn_backs@51",
+    "team": 0,
+    "type": "turn_backs",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "turned from upfield to its own goal in 1.0 s (steer), speed 2178 to 1806 uu/s, width 1231 uu",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "0f7c42d2c34c",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -4197,11 +4823,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "mx_air_dribble_ground.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "champion",
@@ -4272,6 +4893,65 @@
     ]
    },
    "key": "0fe00652af4a",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "1145b8f4643c",
+   "identity": {
+    "anchor": 259.26,
+    "end": 261.69,
+    "id": "1145b8f4643c",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 4"
+    ],
+    "replay": {
+     "band": "pro-ranked",
+     "date": "2026-10-11",
+     "digest": null,
+     "id": "6e3e6d72-08df-45d2-8146-83360e425f56",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_ground.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_ground-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 255.51,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_ground",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 2 (blue). [pro ranked; loose tier] Flip reset from the floor: the ball touched underneath the car 3.25 s after the takeoff (99 uu away, 94 uu under the roof); dodge 0.55 s after the touch, with 1 earlier flip action in the flight; the ball touched 1.38 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "1145b8f4643c",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -4352,13 +5032,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "longest_boost_drought-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:38+00:00",
       "where": "store"
      }
     ],
@@ -4456,18 +5141,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_fast_aerial.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_fast_aerial-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -4565,18 +5250,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_fast_aerial.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_fast_aerial-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -4627,11 +5312,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "challenge.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "ours",
@@ -4702,6 +5382,65 @@
     ]
    },
    "key": "1665a9cb0a30",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "1a2acf080b3c",
+   "identity": {
+    "anchor": 69.04,
+    "end": 69.04,
+    "id": "1a2acf080b3c",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-15",
+     "digest": "c845af7a31b7885e7b287a49d266d1971068594f81bd40addab0aaa63a7bcb38",
+     "id": null,
+     "name": "9F36232811F1C841CBFE9CA59DA27B6A.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "corner_attack_pickup.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "corner_attack_pickup-reviewed.json",
+      "when": "2026-10-24T19:43:41+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 69.04,
+    "status": "computed",
+    "subject": "corner_attack_pickups@51",
+    "team": 0,
+    "type": "corner_attack_pickup",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "took the corner big pad (their side, left) while the ball was in the opponent half",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "1a2acf080b3c",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -4782,13 +5521,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mean_recovery-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -4839,11 +5583,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "corner_attack_pickup.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "ours",
@@ -4940,18 +5679,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_wall_wavedash.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_wall_wavedash-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -4979,7 +5718,7 @@
    "viewer": "moments"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "1be08aeaaf9b",
    "identity": {
     "anchor": 355.8,
@@ -5054,14 +5793,9 @@
       "where": "history"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "",
-      "where": "site"
-     },
-     {
-      "ref": "longest_boost_drought-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
-      "where": "store"
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
      }
     ],
     "source": "ours",
@@ -5146,11 +5880,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "mx_flip_reset_ground.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "champion",
@@ -5212,13 +5941,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -5301,18 +6035,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_zap_dash.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_zap_dash-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -5410,18 +6144,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_half_flip.json",
-      "when": "2026-10-16T20:49:30+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_half_flip-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -5449,7 +6183,7 @@
    "viewer": "moments"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "20d1ce75e060",
    "identity": {
     "anchor": 348.2,
@@ -5524,14 +6258,9 @@
       "where": "history"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "",
-      "where": "site"
-     },
-     {
-      "ref": "longest_boost_drought-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
-      "where": "store"
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
      }
     ],
     "source": "ours",
@@ -5633,13 +6362,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "ball_side_exit.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "ball_side_exit-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -5662,6 +6396,65 @@
     ]
    },
    "key": "25a1b803669b",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "26c70177ee41",
+   "identity": {
+    "anchor": 282.55,
+    "end": 282.55,
+    "id": "26c70177ee41",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-18",
+     "digest": "64bc22fe0f995b1157cd051824b2373f906c23ca84deeec0cf9bead222c01237",
+     "id": null,
+     "name": "B9D3FED141C014FABD55F48780ADF9AC.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "corner_attack_pickup.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "corner_attack_pickup-reviewed.json",
+      "when": "2026-10-24T19:43:41+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 282.55,
+    "status": "computed",
+    "subject": "corner_attack_pickups@51",
+    "team": 0,
+    "type": "corner_attack_pickup",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "took the corner big pad (their side, right) while the ball was in the opponent half",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "26c70177ee41",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -5692,13 +6485,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "challenge.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "challenge-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -5781,18 +6579,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_zap_dash.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_zap_dash-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -5815,6 +6613,65 @@
     ]
    },
    "key": "29d01ff04a1d",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "2af27c2960bb",
+   "identity": {
+    "anchor": 297.3,
+    "end": 297.3,
+    "id": "2af27c2960bb",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-07",
+     "digest": "915806f489a886fb85d37cd2f914b95d0dfbafcf638e7d23f8c38256180bb7ab",
+     "id": null,
+     "name": "BE5C99F040814C0EB4245A8178E0DB7C.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "corner_attack_pickup.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "corner_attack_pickup-reviewed.json",
+      "when": "2026-10-24T19:43:41+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 297.3,
+    "status": "computed",
+    "subject": "corner_attack_pickups@51",
+    "team": 0,
+    "type": "corner_attack_pickup",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "took the corner big pad (their side, left) while the ball was in the opponent half",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "2af27c2960bb",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -5853,11 +6710,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "mx_air_dribble_ground.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "champion",
@@ -5919,13 +6771,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -6013,13 +6870,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_flip_reset_wall.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_flip_reset_wall-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -6117,18 +6979,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_wall_wavedash.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_wall_wavedash-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -6216,18 +7078,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_double_flip_reset.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_double_flip_reset.json",
-      "when": "2026-10-19T13:53:54+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_double_flip_reset-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -6250,6 +7112,65 @@
     ]
    },
    "key": "33ab32520523",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "33cdaabb2101",
+   "identity": {
+    "anchor": 554.01,
+    "end": 554.01,
+    "id": "33cdaabb2101",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-03",
+     "digest": "681f0dca37797d595720be439064a8cb796f30ce8695c2fd1085bf6e392c5e41",
+     "id": null,
+     "name": "826E771943DF1CAC6683CD98A7C04E15.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "corner_attack_pickup.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "corner_attack_pickup-reviewed.json",
+      "when": "2026-10-24T19:43:41+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 554.01,
+    "status": "computed",
+    "subject": "corner_attack_pickups@51",
+    "team": 0,
+    "type": "corner_attack_pickup",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "took the corner big pad (their side, right) while the ball was in the opponent half",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "33cdaabb2101",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -6315,13 +7236,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_flip_reset_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_flip_reset_ground-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -6404,18 +7330,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_zap_dash.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_zap_dash-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -6513,18 +7439,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_wall_wavedash.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_wall_wavedash-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -6612,18 +7538,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_double_flip_reset.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_double_flip_reset.json",
-      "when": "2026-10-19T13:53:54+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_double_flip_reset-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -6706,18 +7632,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_zap_dash.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_zap_dash-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -6780,13 +7706,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -6809,6 +7740,105 @@
     ]
    },
    "key": "3a146661a1cd",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "3e66137a4dcf",
+   "identity": {
+    "anchor": 533.87,
+    "end": 534.51,
+    "id": "3e66137a4dcf",
+    "metrics_version": 46,
+    "moments_version": 1,
+    "players": [
+     "slot 2"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-20",
+     "digest": null,
+     "id": "45e99fc3-a7b3-45a5-8006-395f5d12dba0",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "863c338e688bff590d6986f23c6b5a3ba3f8d640",
+      "when": "2026-10-17T10:18:44-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "7e37e35673edfb83227e03e96248d73d4cc758a0",
+      "when": "2026-10-17T10:27:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "9baf7df38e5a01b0a5e48bfddce1b90ff46d3dfd",
+      "when": "2026-10-18T23:48:36-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "f52566f529aa6be9ffe3db11487b3c24114c4ca6",
+      "when": "2026-10-19T09:18:07-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "dd540fd6bbd2f751d336c3aa67c30357705387fb",
+      "when": "2026-10-19T10:04:10-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "e9924f87dfe5c29d0ed4d579b10a0a303b0388c7",
+      "when": "2026-10-19T11:57:58-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "b33aa71130f2adcd963f6149ed19f5a17e726e86",
+      "when": "2026-10-21T02:22:39-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
+      "when": "2026-10-22T19:17:46-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_wall.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_wall-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 532.17,
+    "status": "computed",
+    "subject": null,
+    "team": 1,
+    "type": "mx_flip_reset_wall",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air.detect_flip_resets",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 1 (orange). [RLCS; strict tier] Flip reset from the side wall: the ball touched underneath the car 1.20 s after the takeoff (111 uu away, 92 uu under the roof); dodge 0.07 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.07 s later.",
+      "versions": {
+       "METRICS_VERSION": 46
+      }
+     }
+    ]
+   },
+   "key": "3e66137a4dcf",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -6869,18 +7899,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_speed_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_speed_flip.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_speed_flip-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -6908,7 +7938,7 @@
    "viewer": "moments"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "401e55d22616",
    "identity": {
     "anchor": 97.31,
@@ -6968,14 +7998,9 @@
       "where": "history"
      },
      {
-      "ref": "mx_double_flip_reset.json",
-      "when": "",
-      "where": "site"
-     },
-     {
-      "ref": "mx_double_flip_reset.json",
-      "when": "2026-10-19T13:53:54+00:00",
-      "where": "store"
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
      }
     ],
     "source": "champion",
@@ -7072,18 +8097,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_half_flip.json",
-      "when": "2026-10-16T20:49:30+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_half_flip-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -7136,13 +8161,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "challenge.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "challenge-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -7195,13 +8225,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "corner_attack_pickup.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "corner_attack_pickup-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:41+00:00",
       "where": "store"
      }
     ],
@@ -7299,18 +8334,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_half_flip.json",
-      "when": "2026-10-16T20:49:30+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_half_flip-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -7333,6 +8368,65 @@
     ]
    },
    "key": "42d6351501e5",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "42fbafce4547",
+   "identity": {
+    "anchor": 304.26,
+    "end": 304.26,
+    "id": "42fbafce4547",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-07",
+     "digest": "847d82c59a063a56238da493550cc6e1cdc8f8521f2aa2fb4a0665e6c2921990",
+     "id": null,
+     "name": "EB82AB404471C94671A23C944CF43648.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "corner_attack_pickup.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "corner_attack_pickup-reviewed.json",
+      "when": "2026-10-24T19:43:41+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 304.26,
+    "status": "computed",
+    "subject": "corner_attack_pickups@51",
+    "team": 0,
+    "type": "corner_attack_pickup",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "took the corner big pad (their side, left) while the ball was in the opponent half",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "42fbafce4547",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -7361,11 +8455,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "corner_attack_pickup.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "ours",
@@ -7462,18 +8551,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_fast_aerial.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_fast_aerial-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -7561,13 +8650,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_flip_reset_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_flip_reset_ground-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -7665,18 +8759,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_half_flip.json",
-      "when": "2026-10-16T20:49:30+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_half_flip-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -7699,6 +8793,65 @@
     ]
    },
    "key": "46d695fac6d5",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "477d3ad5f47c",
+   "identity": {
+    "anchor": 342.68,
+    "end": 343.82,
+    "id": "477d3ad5f47c",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 1"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-19",
+     "digest": null,
+     "id": "ed2a9b13-1f29-4c74-a19d-3d4b795e4778",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_wall.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_wall-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 340.75,
+    "status": "computed",
+    "subject": null,
+    "team": 1,
+    "type": "mx_flip_reset_wall",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 1 (orange). [RLCS; strict tier] Flip reset from the side wall: the ball touched underneath the car 1.43 s after the takeoff (102 uu away, 92 uu under the roof); dodge 0.37 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.27 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "477d3ad5f47c",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -7727,11 +8880,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "corner_attack_pickup.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "ours",
@@ -7867,18 +9015,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_double_flip_reset.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_double_flip_reset.json",
-      "when": "2026-10-19T13:53:54+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_double_flip_reset-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -7901,6 +9049,65 @@
     ]
    },
    "key": "49f79f20e184",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "4adb3daf2cb6",
+   "identity": {
+    "anchor": 114.78,
+    "end": 115.38,
+    "id": "4adb3daf2cb6",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 6"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-20",
+     "digest": null,
+     "id": "949987eb-a064-4ae9-801e-ea8975104cc2",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_ground.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_ground-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 111.18,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_ground",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 3 (blue). [RLCS; strict tier] Flip reset from the floor: the ball touched underneath the car 3.10 s after the takeoff (96 uu away, 91 uu under the roof); dodge 0.07 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.03 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "4adb3daf2cb6",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -7931,13 +9138,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "turn_backs.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "turn_backs-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -8035,18 +9247,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_wall_wavedash.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_wall_wavedash-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -8134,18 +9346,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_double_flip_reset.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_double_flip_reset.json",
-      "when": "2026-10-19T13:53:54+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_double_flip_reset-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -8248,13 +9460,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mean_recovery-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -8277,6 +9494,124 @@
     ]
    },
    "key": "52159d93085a",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "522df15f46bf",
+   "identity": {
+    "anchor": 237.78,
+    "end": 237.78,
+    "id": "522df15f46bf",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-03",
+     "digest": "5e724655f82fe57dd8a567fe24bc3bfef8517ff6bd81140f10d05d3aff052a4c",
+     "id": null,
+     "name": "1C73F79E4F4A9CC9EF002C96AB1909BD.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "corner_attack_pickup.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "corner_attack_pickup-reviewed.json",
+      "when": "2026-10-24T19:43:41+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 237.78,
+    "status": "computed",
+    "subject": "corner_attack_pickups@51",
+    "team": 0,
+    "type": "corner_attack_pickup",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "took the corner big pad (their side, left) while the ball was in the opponent half",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "522df15f46bf",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "53b81641e025",
+   "identity": {
+    "anchor": 351.67,
+    "end": 351.67,
+    "id": "53b81641e025",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-15",
+     "digest": "d77ae02b7919a6b768b0a8cb092e815a474f462c23355d078e7dbf4ea29bbc44",
+     "id": null,
+     "name": "0B59039011F1C83D9BD8CE9AB6670E51.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "challenge.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "challenge-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 351.67,
+    "status": "computed",
+    "subject": "contested_touches@51",
+    "team": 0,
+    "type": "challenge",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "touched the ball with an opponent within 600 uu (nearest 269 uu); next touch by our team 2.6 s later: won",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "53b81641e025",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -8340,11 +9675,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "mx_flip_reset_ground.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "champion",
@@ -8366,6 +9696,65 @@
     ]
    },
    "key": "553a0af61451",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "554e23684e2a",
+   "identity": {
+    "anchor": 29.66,
+    "end": 29.66,
+    "id": "554e23684e2a",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-30",
+     "digest": "3206aa96a0838e335b96f069d17cea1ca0392c202ff1de543054a0abdc2eecc3",
+     "id": null,
+     "name": "26BA783E4BD13997BB6A80A252F8076F.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "challenge.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "challenge-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 29.66,
+    "status": "computed",
+    "subject": "contested_touches@51",
+    "team": 0,
+    "type": "challenge",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "touched the ball with an opponent within 600 uu (nearest 442 uu); no touch by anyone within 3 s: none",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "554e23684e2a",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -8394,11 +9783,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "corner_attack_pickup.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "ours",
@@ -8420,6 +9804,65 @@
     ]
    },
    "key": "55bf99de8e5e",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "59dbcc45d8ae",
+   "identity": {
+    "anchor": 217.03,
+    "end": 217.66,
+    "id": "59dbcc45d8ae",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 2"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-19",
+     "digest": null,
+     "id": "2ba847ac-d11e-424b-97fb-50b1226790df",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_ground.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_ground-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 213.1,
+    "status": "computed",
+    "subject": null,
+    "team": 1,
+    "type": "mx_flip_reset_ground",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 1 (orange). [RLCS; strict tier] Flip reset from the floor: the ball touched underneath the car 3.43 s after the takeoff (137 uu away, 134 uu under the roof); dodge 0.10 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.03 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "59dbcc45d8ae",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -8500,13 +9943,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mean_recovery-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -8609,13 +10057,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "longest_boost_drought-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:38+00:00",
       "where": "store"
      }
     ],
@@ -8698,18 +10151,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_speed_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_speed_flip.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_speed_flip-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -8792,18 +10245,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_speed_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_speed_flip.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_speed_flip-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -8859,11 +10312,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "turn_backs.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "ours",
@@ -8890,7 +10338,7 @@
    "viewer": "moments"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "61c038bfe47c",
    "identity": {
     "anchor": 57.7,
@@ -8965,14 +10413,9 @@
       "where": "history"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "",
-      "where": "site"
-     },
-     {
-      "ref": "longest_boost_drought-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
-      "where": "store"
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
      }
     ],
     "source": "ours",
@@ -9108,13 +10551,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_flip_reset_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_flip_reset_ground-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -9167,13 +10615,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "corner_attack_pickup.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "corner_attack_pickup-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:41+00:00",
       "where": "store"
      }
     ],
@@ -9224,11 +10677,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "corner_attack_pickup.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "ours",
@@ -9280,13 +10728,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "challenge.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "challenge-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -9315,6 +10768,65 @@
   },
   {
    "class": "kept",
+   "effective_key": "679823ef77bb",
+   "identity": {
+    "anchor": 260.64,
+    "end": 262.8,
+    "id": "679823ef77bb",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 6"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-19",
+     "digest": null,
+     "id": "494f16e1-64da-4143-9eb2-e2c64f870d27",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_wall.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_wall-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 257.01,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_wall",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 3 (blue). [RLCS; loose tier] Flip reset from the back wall: the ball touched underneath the car 3.13 s after the takeoff (125 uu away, 122 uu under the roof); dodge 0.07 s after the touch, with 3.23 s after the jump's end; the ball touched 1.60 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "679823ef77bb",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "orphaned",
    "effective_key": "67ce63bffd76",
    "identity": {
     "anchor": 74.08,
@@ -9374,14 +10886,9 @@
       "where": "history"
      },
      {
-      "ref": "mx_double_flip_reset.json",
-      "when": "",
-      "where": "site"
-     },
-     {
-      "ref": "mx_double_flip_reset.json",
-      "when": "2026-10-19T13:53:54+00:00",
-      "where": "store"
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
      }
     ],
     "source": "champion",
@@ -9433,13 +10940,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "turn_backs.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "turn_backs-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -9537,18 +11049,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_wall_wavedash.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_wall_wavedash-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -9651,13 +11163,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mean_recovery-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -9680,6 +11197,65 @@
     ]
    },
    "key": "6d1b80267b73",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "6d2a217845b1",
+   "identity": {
+    "anchor": 56.46,
+    "end": 58.84,
+    "id": "6d2a217845b1",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-07",
+     "digest": "847d82c59a063a56238da493550cc6e1cdc8f8521f2aa2fb4a0665e6c2921990",
+     "id": null,
+     "name": "EB82AB404471C94671A23C944CF43648.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "turn_backs.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "turn_backs-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 54.46,
+    "status": "computed",
+    "subject": "turn_backs@51",
+    "team": 0,
+    "type": "turn_backs",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "turned from upfield to its own goal in 1.4 s (steer), speed 1965 to 1782 uu/s, width 1421 uu",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "6d2a217845b1",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -9760,13 +11336,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mean_recovery-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -9817,11 +11398,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "challenge.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "ours",
@@ -9843,6 +11419,124 @@
     ]
    },
    "key": "6ed17e8669a4",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "70010fe8dd52",
+   "identity": {
+    "anchor": 129.45,
+    "end": 130.99,
+    "id": "70010fe8dd52",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 4"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-19",
+     "digest": null,
+     "id": "fc858cc5-dd4f-4ef4-a2cb-9df89028d2ce",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_wall.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_wall-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 128.09,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_wall",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 3 (blue). [RLCS; loose tier] Flip reset from the side wall: the ball touched underneath the car 0.87 s after the takeoff (106 uu away, 104 uu under the roof); dodge 0.53 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.50 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "70010fe8dd52",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "70cb249f1d23",
+   "identity": {
+    "anchor": 442.34,
+    "end": 444.44,
+    "id": "70cb249f1d23",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 5"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-19",
+     "digest": null,
+     "id": "9a200a9b-cbc3-467e-8268-44bfffda0c29",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_ground.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_ground-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 440.71,
+    "status": "computed",
+    "subject": null,
+    "team": 1,
+    "type": "mx_flip_reset_ground",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 2 (orange). [RLCS; strict tier] Flip reset from the floor: the ball touched underneath the car 1.13 s after the takeoff (93 uu away, 91 uu under the roof); dodge 1.57 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.03 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "70cb249f1d23",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -9918,18 +11612,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_half_flip.json",
-      "when": "2026-10-16T20:49:30+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_half_flip-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -9952,6 +11646,55 @@
     ]
    },
    "key": "71467bbcfe40",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "orphaned",
+   "effective_key": "71ab359bece1",
+   "identity": {
+    "anchor": 301.32,
+    "end": 301.32,
+    "id": "71ab359bece1",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-30",
+     "digest": "1f62d8b96b02b302fcfa929b359ecb004e0d48e28a66c97fc9cc6e94d8a36020",
+     "id": null,
+     "name": "C0C6D2BC43BB2830A8B3AD8257D37502.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     }
+    ],
+    "source": "ours",
+    "start": 301.32,
+    "status": "computed",
+    "subject": "contested_touches@51",
+    "team": 1,
+    "type": "challenge",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "touched the ball with an opponent within 600 uu (nearest 490 uu); next touch by the opponents 1.6 s later: lost",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "71ab359bece1",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -9992,13 +11735,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -10027,6 +11775,183 @@
   },
   {
    "class": "kept",
+   "effective_key": "71caccccc2f2",
+   "identity": {
+    "anchor": 313.04,
+    "end": 313.8,
+    "id": "71caccccc2f2",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 2"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-21",
+     "digest": null,
+     "id": "70069aa0-2913-4a71-9ae6-0bd8d269eb0c",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_ground.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_ground-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 309.1,
+    "status": "computed",
+    "subject": null,
+    "team": 1,
+    "type": "mx_flip_reset_ground",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 2 (orange). [RLCS; strict tier] Flip reset from the floor: the ball touched underneath the car 3.43 s after the takeoff (98 uu away, 89 uu under the roof); dodge 0.17 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.10 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "71caccccc2f2",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "71cca05fd91a",
+   "identity": {
+    "anchor": 392.22,
+    "end": 392.22,
+    "id": "71cca05fd91a",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-21",
+     "digest": "3478efa840f7444d660300550cdd63d809ca5385eba3a66449ace2eea11f854c",
+     "id": null,
+     "name": "C0097E4F47EAC3FB15FA74AFEFA33532.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "challenge.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "challenge-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 392.22,
+    "status": "computed",
+    "subject": "contested_touches@51",
+    "team": 0,
+    "type": "challenge",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "touched the ball with an opponent within 600 uu (nearest 371 uu); next touch by our team 0.2 s later: won",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "71cca05fd91a",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "731e297b9d2a",
+   "identity": {
+    "anchor": 36.15,
+    "end": 37.74,
+    "id": "731e297b9d2a",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 6"
+    ],
+    "replay": {
+     "band": "pro-ranked",
+     "date": "2026-10-12",
+     "digest": null,
+     "id": "62f40117-b1de-43e4-933f-8d9230590321",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_wall.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_wall-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 32.41,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_wall",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 3 (blue). [pro ranked; loose tier] Flip reset from the side wall: the ball touched underneath the car 3.24 s after the takeoff (96 uu away, 91 uu under the roof); dodge 0.69 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.41 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "731e297b9d2a",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "orphaned",
    "effective_key": "7630c7928fe5",
    "identity": {
     "anchor": 27.21,
@@ -10051,14 +11976,9 @@
       "where": "history"
      },
      {
-      "ref": "challenge.json",
-      "when": "",
-      "where": "site"
-     },
-     {
-      "ref": "challenge-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
-      "where": "store"
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
      }
     ],
     "source": "ours",
@@ -10155,18 +12075,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_wall_wavedash.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_wall_wavedash-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -10189,6 +12109,65 @@
     ]
    },
    "key": "772d12f9a401",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "77e2610a4cc5",
+   "identity": {
+    "anchor": 108.04,
+    "end": 109.98,
+    "id": "77e2610a4cc5",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-07",
+     "digest": "06080f38ac037e2a8f9b61d96c39e7a3dc12f6c7d27d49b2289360db4b3cdcf1",
+     "id": null,
+     "name": "7AB8246542133D0F52FD639E32210A3E.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "turn_backs.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "turn_backs-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 106.04,
+    "status": "computed",
+    "subject": "turn_backs@51",
+    "team": 0,
+    "type": "turn_backs",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "turned from upfield to its own goal in 0.9 s (steer), speed 1411 to 1366 uu/s, width 806 uu",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "77e2610a4cc5",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -10249,18 +12228,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_speed_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_speed_flip.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_speed_flip-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -10358,18 +12337,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_fast_aerial.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_fast_aerial-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -10467,18 +12446,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_fast_aerial.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_fast_aerial-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -10501,6 +12480,163 @@
     ]
    },
    "key": "7cc438cd354e",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "orphaned",
+   "effective_key": "7dc55eff8b96",
+   "identity": {
+    "anchor": 671.98,
+    "end": 671.98,
+    "id": "7dc55eff8b96",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-18",
+     "digest": "0ba7e8a79a68723317bcc85677a624ca507e4c3cdf59f31456b63a42555fdb6c",
+     "id": null,
+     "name": "7FBBB4C2451533F0FD489FA390AE775C.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     }
+    ],
+    "source": "ours",
+    "start": 671.98,
+    "status": "computed",
+    "subject": "contested_touches@51",
+    "team": 0,
+    "type": "challenge",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "touched the ball with an opponent within 600 uu (nearest 507 uu); next touch by the opponents 2.7 s later: lost",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "7dc55eff8b96",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "7e298afe7b81",
+   "identity": {
+    "anchor": 249.67,
+    "end": 249.67,
+    "id": "7e298afe7b81",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-07",
+     "digest": "c20e4cdf487631ee773dd7bf3461bceb034441d1e5859ff7c874f56fdef3493c",
+     "id": null,
+     "name": "285EAEAF45FD24AC311524925A4C7812.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "corner_attack_pickup.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "corner_attack_pickup-reviewed.json",
+      "when": "2026-10-24T19:43:41+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 249.67,
+    "status": "computed",
+    "subject": "corner_attack_pickups@51",
+    "team": 0,
+    "type": "corner_attack_pickup",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "took the corner big pad (their side, right) while the ball was in the opponent half",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "7e298afe7b81",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "orphaned",
+   "effective_key": "7ed8bfd0dcc3",
+   "identity": {
+    "anchor": 37.47,
+    "end": 37.47,
+    "id": "7ed8bfd0dcc3",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-04-16",
+     "digest": "689134310423aae94bdc9b375cfc9d607af7db281a4b82829d074f1155e99044",
+     "id": null,
+     "name": "BABE2F9F4FD8F945C60396A1DDA99F12.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     }
+    ],
+    "source": "ours",
+    "start": 37.47,
+    "status": "computed",
+    "subject": "corner_attack_pickups@51",
+    "team": 0,
+    "type": "corner_attack_pickup",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "took the corner big pad (their side, right) while the ball was in the opponent half",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "7ed8bfd0dcc3",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -10531,13 +12667,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "turn_backs.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "turn_backs-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -10600,13 +12741,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -10629,6 +12775,124 @@
     ]
    },
    "key": "7fb598ccca4e",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "834d47105eaa",
+   "identity": {
+    "anchor": 180.09,
+    "end": 180.09,
+    "id": "834d47105eaa",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-14",
+     "digest": "cb98fc0e0fdca037ce0ca244d007bccdf6c6aa5f2d63db6085463eb1994ea9ae",
+     "id": null,
+     "name": "D4D8B99F45960D712BFA7891B8FB8B45.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "corner_attack_pickup.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "corner_attack_pickup-reviewed.json",
+      "when": "2026-10-24T19:43:41+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 180.09,
+    "status": "computed",
+    "subject": "corner_attack_pickups@51",
+    "team": 0,
+    "type": "corner_attack_pickup",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "took the corner big pad (their side, left) while the ball was in the opponent half",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "834d47105eaa",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "83f579628db2",
+   "identity": {
+    "anchor": 31.47,
+    "end": 33.48,
+    "id": "83f579628db2",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-03",
+     "digest": "7da64afcf02f34362ae81d82c518852ecbb7f255ebdaa05ebaec79468ba93806",
+     "id": null,
+     "name": "06810DB6436DC80DB3AADCBFE29B9E64.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "turn_backs.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "turn_backs-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 29.47,
+    "status": "computed",
+    "subject": "turn_backs@51",
+    "team": 0,
+    "type": "turn_backs",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "turned from upfield to its own goal in 1.0 s (steer), speed 946 to 1227 uu/s, width 789 uu",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "83f579628db2",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -10689,18 +12953,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_speed_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_speed_flip.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_speed_flip-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -10798,18 +13062,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_half_flip.json",
-      "when": "2026-10-16T20:49:30+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_half_flip-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -10832,6 +13096,65 @@
     ]
    },
    "key": "8be72a6ee729",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "8d33ef95ea9d",
+   "identity": {
+    "anchor": 142.17,
+    "end": 144.67,
+    "id": "8d33ef95ea9d",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 6"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-22",
+     "digest": null,
+     "id": "12b00b9b-39c0-4097-bc39-cdd09ed723e7",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_wall.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_wall-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 140.27,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_wall",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 3 (blue). [RLCS; strict tier] Flip reset from the back wall: the ball touched underneath the car 1.40 s after the takeoff (188 uu away, 45 uu under the roof); dodge 1.77 s after the touch, with 3.16 s after the jump's end; the ball touched 0.23 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "8d33ef95ea9d",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -10870,11 +13193,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "mx_air_dribble_ground.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "champion",
@@ -10971,18 +13289,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_wall_wavedash.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_wall_wavedash-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -11085,13 +13403,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mean_recovery-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -11154,13 +13477,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -11248,13 +13576,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_flip_reset_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_flip_reset_ground-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -11357,13 +13690,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "longest_boost_drought-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:38+00:00",
       "where": "store"
      }
     ],
@@ -11416,13 +13754,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "corner_attack_pickup.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "corner_attack_pickup-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:41+00:00",
       "where": "store"
      }
     ],
@@ -11515,6 +13858,65 @@
   },
   {
    "class": "kept",
+   "effective_key": "9368a548ebc5",
+   "identity": {
+    "anchor": 377.53,
+    "end": 379.76,
+    "id": "9368a548ebc5",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 4"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-22",
+     "digest": null,
+     "id": "11e79f38-b3b1-4f57-9590-6095060da2c3",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_wall.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_wall-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 375.99,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_wall",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 3 (blue). [RLCS; loose tier] Flip reset from the side wall: the ball touched underneath the car 1.03 s after the takeoff (84 uu away, 84 uu under the roof); dodge 0.37 s after the touch, with 1 earlier flip action in the flight; the ball touched 1.37 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "9368a548ebc5",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
    "effective_key": "937999466aba",
    "identity": {
     "anchor": 34.17,
@@ -11539,13 +13941,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "challenge.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "challenge-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -11648,13 +14055,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "ball_side_exit.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "ball_side_exit-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -11752,13 +14164,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "turn_backs.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "turn_backs-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -11821,13 +14238,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -11890,13 +14312,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -11919,6 +14346,65 @@
     ]
    },
    "key": "97f1edf11be1",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "985d1f0dbc22",
+   "identity": {
+    "anchor": 175.2,
+    "end": 175.2,
+    "id": "985d1f0dbc22",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-14",
+     "digest": "0a302e6706c55cd5050056f3f9a1e9dd8dc9e95772cbe9ab70c5375d22cb7e34",
+     "id": null,
+     "name": "E2A3A1C949B8827C2034908699F5871F.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "challenge.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "challenge-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 175.2,
+    "status": "computed",
+    "subject": "contested_touches@51",
+    "team": 0,
+    "type": "challenge",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "touched the ball with an opponent within 600 uu (nearest 215 uu); next touch by our team 1.7 s later: won",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "985d1f0dbc22",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -11994,18 +14480,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_fast_aerial.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_fast_aerial-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -12103,18 +14589,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_half_flip.json",
-      "when": "2026-10-16T20:49:30+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_half_flip-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -12137,6 +14623,65 @@
     ]
    },
    "key": "9c3f47e2b410",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "9c59aa30282a",
+   "identity": {
+    "anchor": 57.7,
+    "end": 58.8,
+    "id": "9c59aa30282a",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 2"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-20",
+     "digest": null,
+     "id": "a78aa98a-bb09-480e-9808-5f2d483ff3aa",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_wall.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_wall-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 54.57,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_wall",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 1 (blue). [RLCS; strict tier] Flip reset from the back wall: the ball touched underneath the car 2.63 s after the takeoff (97 uu away, 92 uu under the roof); dodge 0.37 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.23 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "9c59aa30282a",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -12216,13 +14761,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "challenge.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "challenge-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -12305,18 +14855,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_speed_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_speed_flip.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_speed_flip-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -12419,13 +14969,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mean_recovery-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -12448,6 +15003,65 @@
     ]
    },
    "key": "a065f9d86972",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "a157fb2ac19f",
+   "identity": {
+    "anchor": 294.83,
+    "end": 294.83,
+    "id": "a157fb2ac19f",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-07",
+     "digest": "429832a52b2a3f9ff6cb73e88dc0b7d00eb08d99ddc0cf081ad65e8715601efc",
+     "id": null,
+     "name": "66196EF34DCB34495BBA8E819DEE18F9.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "corner_attack_pickup.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "corner_attack_pickup-reviewed.json",
+      "when": "2026-10-24T19:43:41+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 294.83,
+    "status": "computed",
+    "subject": "corner_attack_pickups@51",
+    "team": 0,
+    "type": "corner_attack_pickup",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "took the corner big pad (their side, left) while the ball was in the opponent half",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "a157fb2ac19f",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -12508,18 +15122,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_zap_dash.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_zap_dash-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -12605,11 +15219,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "mx_flip_reset_ground.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "champion",
@@ -12631,6 +15240,65 @@
     ]
    },
    "key": "a939ce667129",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "a9919e312060",
+   "identity": {
+    "anchor": 247.59,
+    "end": 248.22,
+    "id": "a9919e312060",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 1"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-20",
+     "digest": null,
+     "id": "880d1b25-f535-44f6-9d14-65d14b55d72a",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_ground.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_ground-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 243.76,
+    "status": "computed",
+    "subject": null,
+    "team": 1,
+    "type": "mx_flip_reset_ground",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 1 (orange). [RLCS; strict tier] Flip reset from the floor: the ball touched underneath the car 3.33 s after the takeoff (100 uu away, 100 uu under the roof); dodge 0.07 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.07 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "a9919e312060",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -12706,18 +15374,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_fast_aerial.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_fast_aerial-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -12780,13 +15448,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -12839,13 +15512,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "challenge.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "challenge-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -12908,13 +15586,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -12997,18 +15680,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_speed_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_speed_flip.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_speed_flip-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -13091,18 +15774,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_speed_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_speed_flip.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_speed_flip-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -13153,11 +15836,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "turn_backs.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "ours",
@@ -13179,6 +15857,65 @@
     ]
    },
    "key": "b03b94895bb4",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "b06e349d9d6e",
+   "identity": {
+    "anchor": 290.25,
+    "end": 291.02,
+    "id": "b06e349d9d6e",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 5"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-20",
+     "digest": null,
+     "id": "2c9cf057-fe49-4432-835c-1da325b5ed55",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_wall.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_wall-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 287.55,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_wall",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 2 (blue). [RLCS; strict tier] Flip reset from the side wall: the ball touched underneath the car 2.20 s after the takeoff (141 uu away, 107 uu under the roof); dodge 0.07 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.20 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "b06e349d9d6e",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -13209,13 +15946,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "challenge.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "challenge-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -13238,6 +15980,65 @@
     ]
    },
    "key": "b2968ee22762",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "b45f50e92d8f",
+   "identity": {
+    "anchor": 30.61,
+    "end": 31.38,
+    "id": "b45f50e92d8f",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 6"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-21",
+     "digest": null,
+     "id": "2fabb9cc-0519-42fb-be18-e7e2d18e5dd6",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_ground.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_ground-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 26.68,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_ground",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 3 (blue). [RLCS; strict tier] Flip reset from the floor: the ball touched underneath the car 3.43 s after the takeoff (98 uu away, 93 uu under the roof); dodge 0.07 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.20 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "b45f50e92d8f",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -13318,13 +16119,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mean_recovery-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -13347,6 +16153,65 @@
     ]
    },
    "key": "b467e9a1173e",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "b50a29f2f520",
+   "identity": {
+    "anchor": 124.24,
+    "end": 125.87,
+    "id": "b50a29f2f520",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-07",
+     "digest": "5e11af86f6f2bdec220d44ee1a884df238b26c623a06f6d94a7ebffdcd1f535d",
+     "id": null,
+     "name": "8C4413184F6AB9517C5D709DF8C82BAC.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "turn_backs.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "turn_backs-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 122.24,
+    "status": "computed",
+    "subject": "turn_backs@51",
+    "team": 0,
+    "type": "turn_backs",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "turned from upfield to its own goal in 0.6 s (powerslide), speed 1343 to 1023 uu/s, width 314 uu",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "b50a29f2f520",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -13422,18 +16287,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_fast_aerial.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_fast_aerial-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -13536,13 +16401,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mean_recovery-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -13630,18 +16500,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_double_flip_reset.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_double_flip_reset.json",
-      "when": "2026-10-19T13:53:54+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_double_flip_reset-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -13664,6 +16534,65 @@
     ]
    },
    "key": "bac499ebefcd",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "baf038025879",
+   "identity": {
+    "anchor": 221.34,
+    "end": 224.93,
+    "id": "baf038025879",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-21",
+     "digest": "2e30eeb7e7cf547becff7595fb9801a2a13b3fbd706acca458be72447a3a0fe7",
+     "id": null,
+     "name": "86B3028D4032282D520D399DF7CAEC2C.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "turn_backs.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "turn_backs-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 219.34,
+    "status": "computed",
+    "subject": "turn_backs@51",
+    "team": 1,
+    "type": "turn_backs",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "turned from upfield to its own goal in 2.6 s (steer), speed 2300 to 2118 uu/s, width 4162 uu",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "baf038025879",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -13788,13 +16717,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -13877,18 +16811,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_zap_dash.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_zap_dash-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -13911,6 +16845,65 @@
     ]
    },
    "key": "be3eaa1e456c",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "be56175389ca",
+   "identity": {
+    "anchor": 374.85,
+    "end": 374.85,
+    "id": "be56175389ca",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-04-16",
+     "digest": "689134310423aae94bdc9b375cfc9d607af7db281a4b82829d074f1155e99044",
+     "id": null,
+     "name": "BABE2F9F4FD8F945C60396A1DDA99F12.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "challenge.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "challenge-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 374.85,
+    "status": "computed",
+    "subject": "contested_touches@51",
+    "team": 0,
+    "type": "challenge",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "touched the ball with an opponent within 600 uu (nearest 480 uu); next touch by our team 2.5 s later: won",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "be56175389ca",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -13989,11 +16982,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "turn_backs.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "ours",
@@ -14078,11 +17066,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "mx_flip_reset_ground.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "champion",
@@ -14134,13 +17117,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "corner_attack_pickup.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "corner_attack_pickup-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:41+00:00",
       "where": "store"
      }
     ],
@@ -14238,18 +17226,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_half_flip.json",
-      "when": "2026-10-16T20:49:30+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_half_flip-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -14272,6 +17260,301 @@
     ]
    },
    "key": "c288cc0ad012",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "c57d94ab5e6b",
+   "identity": {
+    "anchor": 91.9,
+    "end": 91.9,
+    "id": "c57d94ab5e6b",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "594f8000f7968caea91b5dcbf5ce9a845cdc342a379411d65d64f2481a78164d",
+     "id": null,
+     "name": "A671B84042D99681825C549185840440.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "corner_attack_pickup.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "corner_attack_pickup-reviewed.json",
+      "when": "2026-10-24T19:43:41+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 91.9,
+    "status": "computed",
+    "subject": "corner_attack_pickups@51",
+    "team": 0,
+    "type": "corner_attack_pickup",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "took the corner big pad (their side, left) while the ball was in the opponent half",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "c57d94ab5e6b",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "c5804020cc0b",
+   "identity": {
+    "anchor": 297.22,
+    "end": 300.62,
+    "id": "c5804020cc0b",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 6"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-21",
+     "digest": null,
+     "id": "aec0ea4e-bd6e-4471-8ab7-2d6308ec630b",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_wall.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_wall-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 296.05,
+    "status": "computed",
+    "subject": null,
+    "team": 1,
+    "type": "mx_flip_reset_wall",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 3 (orange). [RLCS; strict tier] Flip reset from the back wall: the ball touched underneath the car 0.67 s after the takeoff (136 uu away, 55 uu under the roof); dodge 2.63 s after the touch, with 3.33 s after the jump's end; the ball touched 0.27 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "c5804020cc0b",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "c669ccd5e3f5",
+   "identity": {
+    "anchor": 427.75,
+    "end": 427.75,
+    "id": "c669ccd5e3f5",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-07",
+     "digest": "06080f38ac037e2a8f9b61d96c39e7a3dc12f6c7d27d49b2289360db4b3cdcf1",
+     "id": null,
+     "name": "7AB8246542133D0F52FD639E32210A3E.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "challenge.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "challenge-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 427.75,
+    "status": "computed",
+    "subject": "contested_touches@51",
+    "team": 0,
+    "type": "challenge",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "touched the ball with an opponent within 600 uu (nearest 202 uu); no touch by anyone within 3 s: none",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "c669ccd5e3f5",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "c7bbdb5d6ffd",
+   "identity": {
+    "anchor": 235.19,
+    "end": 236.15,
+    "id": "c7bbdb5d6ffd",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 3"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-20",
+     "digest": null,
+     "id": "a1f1b7fd-a51e-4240-a2b2-95edcc486a8b",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_wall.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_wall-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 233.2,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_wall",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 2 (blue). [RLCS; strict tier] Flip reset from the side wall: the ball touched underneath the car 1.49 s after the takeoff (99 uu away, 96 uu under the roof); dodge 0.20 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.27 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "c7bbdb5d6ffd",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "c94015b06454",
+   "identity": {
+    "anchor": 399.37,
+    "end": 399.37,
+    "id": "c94015b06454",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-30",
+     "digest": "44fd5d0a1f5eb3e18919a3030ca784f649de756999e237a74735b795358202cf",
+     "id": null,
+     "name": "C14C468141E34DD2769B7DBDA9E0E365.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "challenge.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "challenge-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 399.37,
+    "status": "computed",
+    "subject": "contested_touches@51",
+    "team": 1,
+    "type": "challenge",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "touched the ball with an opponent within 600 uu (nearest 192 uu); next touch by the opponents 2.6 s later: lost",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "c94015b06454",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -14332,18 +17615,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_zap_dash.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_zap_dash-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -14495,13 +17778,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_flip_reset_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_flip_reset_ground-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -14599,18 +17887,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_wall_wavedash.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_wall_wavedash-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -14633,6 +17921,65 @@
     ]
    },
    "key": "ccd208747b7c",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "ce2f10bee28d",
+   "identity": {
+    "anchor": 254.71,
+    "end": 255.41,
+    "id": "ce2f10bee28d",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 3"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-19",
+     "digest": null,
+     "id": "41d1ebcd-26da-438a-bba0-110315670161",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_wall.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_wall-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 252.31,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_wall",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 2 (blue). [RLCS; strict tier] Flip reset from the side wall: the ball touched underneath the car 1.90 s after the takeoff (113 uu away, 98 uu under the roof); dodge 0.10 s after the touch, with 2.07 s after the jump's end; the ball touched 0.10 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "ce2f10bee28d",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -14693,18 +18040,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_speed_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_speed_flip.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_speed_flip-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -14802,18 +18149,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_fast_aerial.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_fast_aerial.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_fast_aerial-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -14836,6 +18183,65 @@
     ]
    },
    "key": "d05ce581d5db",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "d0e8e5b3ecde",
+   "identity": {
+    "anchor": 252.61,
+    "end": 252.61,
+    "id": "d0e8e5b3ecde",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-03",
+     "digest": "681f0dca37797d595720be439064a8cb796f30ce8695c2fd1085bf6e392c5e41",
+     "id": null,
+     "name": "826E771943DF1CAC6683CD98A7C04E15.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "challenge.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "challenge-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 252.61,
+    "status": "computed",
+    "subject": "contested_touches@51",
+    "team": 0,
+    "type": "challenge",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "touched the ball with an opponent within 600 uu (nearest 170 uu); no touch by anyone within 3 s: none",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "d0e8e5b3ecde",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -14896,18 +18302,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_zap_dash.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_zap_dash-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -14930,6 +18336,65 @@
     ]
    },
    "key": "d158cb011b84",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "d2c5dd3a39cf",
+   "identity": {
+    "anchor": 69.23,
+    "end": 71.0,
+    "id": "d2c5dd3a39cf",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-14",
+     "digest": "cb98fc0e0fdca037ce0ca244d007bccdf6c6aa5f2d63db6085463eb1994ea9ae",
+     "id": null,
+     "name": "D4D8B99F45960D712BFA7891B8FB8B45.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "turn_backs.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "turn_backs-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 67.23,
+    "status": "computed",
+    "subject": "turn_backs@51",
+    "team": 0,
+    "type": "turn_backs",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "turned from upfield to its own goal in 0.8 s (steer), speed 1713 to 1461 uu/s, width 729 uu",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "d2c5dd3a39cf",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -14960,13 +18425,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "turn_backs.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "turn_backs-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -15054,18 +18524,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_double_flip_reset.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_double_flip_reset.json",
-      "when": "2026-10-19T13:53:54+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_double_flip_reset-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -15088,6 +18558,65 @@
     ]
    },
    "key": "d372cc864e9c",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "d40d22f7a96b",
+   "identity": {
+    "anchor": 252.22,
+    "end": 253.39,
+    "id": "d40d22f7a96b",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 5"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-22",
+     "digest": null,
+     "id": "592ee8a6-4968-419d-9b39-decce998395d",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_ground.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_ground-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 249.19,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_ground",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 3 (blue). [RLCS; strict tier] Flip reset from the floor: the ball touched underneath the car 2.53 s after the takeoff (91 uu away, 90 uu under the roof); dodge 0.47 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.20 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "d40d22f7a96b",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -15168,13 +18697,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mean_recovery.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mean_recovery-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -15262,13 +18796,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_flip_reset_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_flip_reset_ground-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -15351,18 +18890,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_dash_chain.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_wall_dash_chain.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_wall_dash_chain-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -15413,11 +18952,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "corner_attack_pickup.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "ours",
@@ -15467,11 +19001,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "turn_backs.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "ours",
@@ -15493,6 +19022,65 @@
     ]
    },
    "key": "dab56096db2f",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "db1588e8e7bf",
+   "identity": {
+    "anchor": 465.21,
+    "end": 467.77,
+    "id": "db1588e8e7bf",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 3"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-22",
+     "digest": null,
+     "id": "e7203d94-9a1d-4fd4-a977-3c8d6297253f",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_ground.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_ground-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 463.01,
+    "status": "computed",
+    "subject": null,
+    "team": 1,
+    "type": "mx_flip_reset_ground",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 3 (orange). [RLCS; loose tier] Flip reset from the floor: the ball touched underneath the car 1.70 s after the takeoff (134 uu away, 134 uu under the roof); dodge 0.30 s after the touch, with 1 earlier flip action in the flight; the ball touched 1.77 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "db1588e8e7bf",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -15568,18 +19156,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_half_flip.json",
-      "when": "2026-10-16T20:49:30+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_half_flip-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -15677,18 +19265,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_half_flip.json",
-      "when": "2026-10-16T20:49:30+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_half_flip-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -15771,18 +19359,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_speed_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_speed_flip.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_speed_flip-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -15805,6 +19393,65 @@
     ]
    },
    "key": "dd6a4b024ec2",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "dfd2683d5047",
+   "identity": {
+    "anchor": 351.9,
+    "end": 352.54,
+    "id": "dfd2683d5047",
+    "metrics_version": 49,
+    "moments_version": 1,
+    "players": [
+     "slot 3"
+    ],
+    "replay": {
+     "band": "pro-rlcs",
+     "date": "2026-02-22",
+     "digest": null,
+     "id": "341a5f01-22e6-4473-856e-414cae1e2181",
+     "name": null
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mx_flip_reset_ground.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mx_flip_reset_ground-reviewed.json",
+      "when": "2026-10-24T20:27:53+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "champion",
+    "start": 348.54,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mx_flip_reset_ground",
+    "values": [
+     {
+      "function": "rl_coach.mechanic_air._flip_reset_hits",
+      "name": "Claim",
+      "unit": "",
+      "value": "Watch def 1 (blue). [RLCS; strict tier] Flip reset from the floor: the ball touched underneath the car 2.87 s after the takeoff (124 uu away, 100 uu under the roof); dodge 0.07 s after the touch, with 1 earlier flip action in the flight; the ball touched 0.07 s later, before the car landed.",
+      "versions": {
+       "METRICS_VERSION": 49
+      }
+     }
+    ]
+   },
+   "key": "dfd2683d5047",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -15885,13 +19532,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "longest_boost_drought-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:38+00:00",
       "where": "store"
      }
     ],
@@ -15989,18 +19641,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_half_flip.json",
-      "when": "2026-10-16T20:49:30+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_half_flip-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -16098,18 +19750,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_half_flip.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_half_flip.json",
-      "when": "2026-10-16T20:49:30+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_half_flip-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -16172,13 +19824,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -16264,11 +19921,6 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
-     },
-     {
-      "ref": "mx_flip_reset_ground.json",
-      "when": "",
-      "where": "site"
      }
     ],
     "source": "champion",
@@ -16384,13 +20036,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "challenge.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "challenge-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -16418,7 +20075,7 @@
    "viewer": "moments"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "e9bfeab9eef4",
    "identity": {
     "anchor": 479.4,
@@ -16478,14 +20135,9 @@
       "where": "history"
      },
      {
-      "ref": "mx_double_flip_reset.json",
-      "when": "",
-      "where": "site"
-     },
-     {
-      "ref": "mx_double_flip_reset.json",
-      "when": "2026-10-19T13:53:54+00:00",
-      "where": "store"
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
      }
     ],
     "source": "champion",
@@ -16512,7 +20164,7 @@
    "viewer": "moments"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "edac09f377ae",
    "identity": {
     "anchor": 160.2,
@@ -16587,14 +20239,9 @@
       "where": "history"
      },
      {
-      "ref": "longest_boost_drought.json",
-      "when": "",
-      "where": "site"
-     },
-     {
-      "ref": "longest_boost_drought-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
-      "where": "store"
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
      }
     ],
     "source": "ours",
@@ -16616,6 +20263,65 @@
     ]
    },
    "key": "edac09f377ae",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "f06457bc17cd",
+   "identity": {
+    "anchor": 400.2,
+    "end": 401.76,
+    "id": "f06457bc17cd",
+    "metrics_version": 51,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-10-14",
+     "digest": "1e4fb0d0e2a3a6d7afd9e31519400aaeb34a417005795e75df3cac130ba3aa6c",
+     "id": null,
+     "name": "D9FC8261402782987152A5AD86BE95CE.replay"
+    },
+    "seen": [
+     {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "turn_backs.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "turn_backs-reviewed.json",
+      "when": "2026-10-24T19:43:39+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 398.2,
+    "status": "computed",
+    "subject": "turn_backs@51",
+    "team": 0,
+    "type": "turn_backs",
+    "values": [
+     {
+      "function": "rl_coach.review.direction_events",
+      "name": "Claim",
+      "unit": "",
+      "value": "turned from upfield to its own goal in 0.6 s (powerslide), speed 1243 to 924 uu/s, width 309 uu",
+      "versions": {
+       "METRICS_VERSION": 51
+      }
+     }
+    ]
+   },
+   "key": "f06457bc17cd",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -16691,18 +20397,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_wall_wavedash.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_wall_wavedash-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -16765,13 +20471,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -16854,18 +20565,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_zap_dash.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_zap_dash-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -16928,13 +20639,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_air_dribble_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_air_dribble_ground-reviewed.json",
-      "when": "2026-10-24T08:50:32+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -17032,18 +20748,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_wall_wavedash.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_wall_wavedash-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -17126,18 +20842,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_zap_dash.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_zap_dash-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -17235,18 +20951,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_wall_wavedash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_wall_wavedash.json",
-      "when": "2026-10-16T20:49:29+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_wall_wavedash-reviewed.json",
-      "when": "2026-10-24T08:49:19+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -17299,13 +21015,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "corner_attack_pickup.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "corner_attack_pickup-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:41+00:00",
       "where": "store"
      }
     ],
@@ -17408,13 +21129,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "ball_side_exit.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "ball_side_exit-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -17502,13 +21228,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_flip_reset_ground.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "mx_flip_reset_ground-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -17536,7 +21267,7 @@
    "viewer": "moments"
   },
   {
-   "class": "kept",
+   "class": "orphaned",
    "effective_key": "fb57219e7c31",
    "identity": {
     "anchor": 120.07,
@@ -17596,14 +21327,9 @@
       "where": "history"
      },
      {
-      "ref": "mx_double_flip_reset.json",
-      "when": "",
-      "where": "site"
-     },
-     {
-      "ref": "mx_double_flip_reset.json",
-      "when": "2026-10-19T13:53:54+00:00",
-      "where": "store"
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
      }
     ],
     "source": "champion",
@@ -17705,13 +21431,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "ball_side_exit.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "ball_side_exit-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:39+00:00",
       "where": "store"
      }
     ],
@@ -17814,13 +21545,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "longest_boost_drought.json",
       "when": "",
       "where": "site"
      },
      {
       "ref": "longest_boost_drought-reviewed.json",
-      "when": "2026-10-24T08:06:23+00:00",
+      "when": "2026-10-24T19:43:38+00:00",
       "where": "store"
      }
     ],
@@ -17908,18 +21644,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_double_flip_reset.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_double_flip_reset.json",
-      "when": "2026-10-19T13:53:54+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_double_flip_reset-reviewed.json",
-      "when": "2026-10-24T08:50:30+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -18002,18 +21738,18 @@
       "where": "history"
      },
      {
+      "ref": "a14848fcf43505d334dd91eee7c27be6d3bce27c",
+      "when": "2026-10-24T06:45:27-04:00",
+      "where": "history"
+     },
+     {
       "ref": "mx_zap_dash.json",
       "when": "",
       "where": "site"
      },
      {
-      "ref": "mx_zap_dash.json",
-      "when": "2026-10-17T13:43:04+00:00",
-      "where": "store"
-     },
-     {
       "ref": "mx_zap_dash-reviewed.json",
-      "when": "2026-10-24T08:51:10+00:00",
+      "when": "2026-10-24T20:27:53+00:00",
       "where": "store"
      }
     ],
@@ -27477,6 +31213,11 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
+     },
+     {
+      "ref": "rotation-review-1.json",
+      "when": "",
+      "where": "site"
      }
     ],
     "title": "Rotation 1",
@@ -27506,6 +31247,11 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
+     },
+     {
+      "ref": "rotation-review-1.json",
+      "when": "",
+      "where": "site"
      }
     ],
     "title": "Rotation 2",
@@ -27535,6 +31281,11 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
+     },
+     {
+      "ref": "rotation-review-1.json",
+      "when": "",
+      "where": "site"
      }
     ],
     "title": "Rotation 3",
@@ -27564,6 +31315,11 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
+     },
+     {
+      "ref": "rotation-review-1.json",
+      "when": "",
+      "where": "site"
      }
     ],
     "title": "Rotation 5",
@@ -27593,6 +31349,11 @@
       "ref": "35319c726ec258f99ac58d69a3f023c4aba913a3",
       "when": "2026-10-22T19:17:46-04:00",
       "where": "history"
+     },
+     {
+      "ref": "rotation-review-1.json",
+      "when": "",
+      "where": "site"
      }
     ],
     "title": "Rotation 4",
