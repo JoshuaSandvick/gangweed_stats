@@ -1,11 +1,11 @@
 {
  "viewer": "rotation-movement-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-25T13:11:18.531Z",
+ "updated": "2026-10-25T13:11:30.414Z",
  "verdicts": {
   "moment:0bfd92aab809": {
    "accurate": "yes",
-   "note": "Unsure;"
+   "note": "Unsure; I'm not an expert on rotations so it isn't clear to me"
   }
  }
 }
