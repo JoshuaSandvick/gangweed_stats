@@ -1,7 +1,7 @@
 {
  "viewer": "rotation-movement-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-25T13:16:27.542Z",
+ "updated": "2026-10-25T13:16:50.796Z",
  "verdicts": {
   "moment:0bfd92aab809": {
    "accurate": "yes",
@@ -15,7 +15,8 @@
    "accurate": ""
   },
   "moment:8e708910fb37": {
-   "accurate": "yes"
+   "accurate": "yes",
+   "note": "Yes"
   }
  }
 }
