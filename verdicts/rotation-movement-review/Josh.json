@@ -1,7 +1,7 @@
 {
  "viewer": "rotation-movement-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-25T14:38:26.506Z",
+ "updated": "2026-10-25T14:39:33.104Z",
  "verdicts": {
   "moment:0bfd92aab809": {
    "accurate": "yes",
@@ -44,7 +44,7 @@
   },
   "moment:5a72ead035d0": {
    "accurate": "yes",
-   "note": "Unsure; at the end, it doesn't seem like"
+   "note": "Unsure; at the end, it doesn't seem like the team will be able to follow up on"
   }
  }
 }
