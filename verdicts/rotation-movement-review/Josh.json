@@ -1,7 +1,7 @@
 {
  "viewer": "rotation-movement-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-25T13:59:33.079Z",
+ "updated": "2026-10-25T13:59:41.675Z",
  "verdicts": {
   "moment:0bfd92aab809": {
    "accurate": "yes",
@@ -32,7 +32,7 @@
   },
   "moment:dbac8fc5dff3": {
    "accurate": "yes",
-   "note": "Unsure; I think Mike needed to play closer to get a 50 and then Josh would have to play for the 50 from mike"
+   "note": "Unsure; I think Mike needed to play closer to get a 50 and then Josh would have to play for the 50 from mike? Not sure"
   }
  }
 }
