@@ -32531,6 +32531,325 @@
   },
   {
    "class": "kept",
+   "effective_key": "01468209b537",
+   "identity": {
+    "anchor": 248.69,
+    "key": "01468209b537",
+    "moment": null,
+    "note": "Side switch at 4:08: the ball crossed to the other side and the team kept it (its next touch within 3 s); the old 1st man Josh crossed toward the new side at 383 uu/s. valid? = is the claim right: did the ball really cross to the other side, and was the team's next touch within 3 s really theirs? Judgement (first word of your note): good rotation? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
+      "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "rotation-movement-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Rotation style 9",
+    "viewer": "rotation-movement-review-1"
+   },
+   "key": "01468209b537",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "rotation-movement-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "0bfd92aab809",
+   "identity": {
+    "anchor": 220.0,
+    "key": "0bfd92aab809",
+    "moment": null,
+    "note": "Same-side play from 3:40: the ball stayed on one side for 3.0 s, the team's first touch of it was kept, and the ball drifted into the middle. valid? = is the claim right: did the ball really stay on one side for 3.0 s, and was the team's first touch of it really kept? Judgement (first word of your note): good rotation? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
+      "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "rotation-movement-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Rotation style 1",
+    "viewer": "rotation-movement-review-1"
+   },
+   "key": "0bfd92aab809",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "rotation-movement-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "56ea43a589f4",
+   "identity": {
+    "anchor": 210.5,
+    "key": "56ea43a589f4",
+    "moment": null,
+    "note": "Same-side play from 3:30: the ball stayed on one side for 2.0 s, the team's first touch of it was kept, and the ball went to the other side. valid? = is the claim right: did the ball really stay on one side for 2.0 s, and was the team's first touch of it really kept? Judgement (first word of your note): good rotation? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
+      "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "rotation-movement-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Rotation style 3",
+    "viewer": "rotation-movement-review-1"
+   },
+   "key": "56ea43a589f4",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "rotation-movement-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "5a72ead035d0",
+   "identity": {
+    "anchor": 296.84,
+    "key": "5a72ead035d0",
+    "moment": null,
+    "note": "Side switch at 4:56: the ball crossed to the other side and the team kept it (its next touch within 3 s); the old 1st man crossed toward the new side at 477 uu/s. valid? = is the claim right: did the ball really cross to the other side, and was the team's next touch within 3 s really theirs? Judgement (first word of your note): good rotation? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
+      "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "rotation-movement-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Rotation style 11",
+    "viewer": "rotation-movement-review-1"
+   },
+   "key": "5a72ead035d0",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "rotation-movement-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "8e708910fb37",
+   "identity": {
+    "anchor": 142.17,
+    "key": "8e708910fb37",
+    "moment": null,
+    "note": "Side switch at 2:22: the ball crossed to the other side and the team kept it (its next touch within 3 s); the old 1st man crossed toward the new side at 1665 uu/s. valid? = is the claim right: did the ball really cross to the other side, and was the team's next touch within 3 s really theirs? Judgement (first word of your note): good rotation? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
+      "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "rotation-movement-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Rotation style 4",
+    "viewer": "rotation-movement-review-1"
+   },
+   "key": "8e708910fb37",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "rotation-movement-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "9d92a72a9433",
+   "identity": {
+    "anchor": 242.0,
+    "key": "9d92a72a9433",
+    "moment": null,
+    "note": "Same-side play from 4:02: the ball stayed on one side for 8.5 s, the team's first touch of it was kept, and the ball drifted into the middle. valid? = is the claim right: did the ball really stay on one side for 8.5 s, and was the team's first touch of it really kept? Judgement (first word of your note): good rotation? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
+      "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "rotation-movement-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Rotation style 10",
+    "viewer": "rotation-movement-review-1"
+   },
+   "key": "9d92a72a9433",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "rotation-movement-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "b308147f8011",
+   "identity": {
+    "anchor": 221.5,
+    "key": "b308147f8011",
+    "moment": null,
+    "note": "Same-side play from 3:41: the ball stayed on one side for 7.5 s, the team's first touch of it was kept, and the ball went to the other side. valid? = is the claim right: did the ball really stay on one side for 7.5 s, and was the team's first touch of it really kept? Judgement (first word of your note): good rotation? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
+      "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "rotation-movement-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Rotation style 2",
+    "viewer": "rotation-movement-review-1"
+   },
+   "key": "b308147f8011",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "rotation-movement-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "c15c896a369c",
+   "identity": {
+    "anchor": 255.32,
+    "key": "c15c896a369c",
+    "moment": null,
+    "note": "Side switch at 4:15: the ball crossed to the other side and the team kept it (its next touch within 3 s); the old 1st man went back along his old side at 1594 uu/s. valid? = is the claim right: did the ball really cross to the other side, and was the team's next touch within 3 s really theirs? Judgement (first word of your note): good rotation? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
+      "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "rotation-movement-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Rotation style 6",
+    "viewer": "rotation-movement-review-1"
+   },
+   "key": "c15c896a369c",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "rotation-movement-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "dbac8fc5dff3",
+   "identity": {
+    "anchor": 252.0,
+    "key": "dbac8fc5dff3",
+    "moment": null,
+    "note": "Same-side play from 4:12: the ball stayed on one side for 3.5 s, the team's first touch of it was kept, and the ball drifted into the middle. valid? = is the claim right: did the ball really stay on one side for 3.5 s, and was the team's first touch of it really kept? Judgement (first word of your note): good rotation? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
+      "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "rotation-movement-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Rotation style 8",
+    "viewer": "rotation-movement-review-1"
+   },
+   "key": "dbac8fc5dff3",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "rotation-movement-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "e0967f007208",
+   "identity": {
+    "anchor": 219.61,
+    "key": "e0967f007208",
+    "moment": null,
+    "note": "Side switch at 3:39: the ball crossed to the other side and the team kept it (its next touch within 3 s). valid? = is the claim right: did the ball really cross to the other side, and was the team's next touch within 3 s really theirs? Judgement (first word of your note): good rotation? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
+      "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "rotation-movement-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Rotation style 5",
+    "viewer": "rotation-movement-review-1"
+   },
+   "key": "e0967f007208",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "rotation-movement-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "fa316930ab45",
+   "identity": {
+    "anchor": 160.82,
+    "key": "fa316930ab45",
+    "moment": null,
+    "note": "Side switch at 2:40: the ball crossed to the other side and the team kept it (its next touch within 3 s); the old 1st man held his line at 225 uu/s. valid? = is the claim right: did the ball really cross to the other side, and was the team's next touch within 3 s really theirs? Judgement (first word of your note): good rotation? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
+      "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "rotation-movement-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Rotation style 7",
+    "viewer": "rotation-movement-review-1"
+   },
+   "key": "fa316930ab45",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "rotation-movement-review-1"
+  },
+  {
+   "class": "kept",
    "effective_key": "1799f14b227e",
    "identity": {
     "anchor": 436.5,
