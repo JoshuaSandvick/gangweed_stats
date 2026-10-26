@@ -1,7 +1,7 @@
 {
  "viewer": "effective-plays-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-26T22:08:46.502Z",
+ "updated": "2026-10-26T22:09:31.343Z",
  "verdicts": {
   "moment:3cc26da7792e": {
    "accurate": "yes",
@@ -66,6 +66,9 @@
   "moment:02a15dd0303c": {
    "accurate": "yes",
    "note": "Yes, this is a hook shot"
+  },
+  "moment:00664e930e0d": {
+   "accurate": "yes"
   }
  }
 }
