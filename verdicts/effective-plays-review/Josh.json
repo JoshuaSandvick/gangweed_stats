@@ -1,7 +1,7 @@
 {
  "viewer": "effective-plays-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-26T22:09:38.335Z",
+ "updated": "2026-10-26T22:11:11.622Z",
  "verdicts": {
   "moment:3cc26da7792e": {
    "accurate": "yes",
@@ -70,6 +70,9 @@
   "moment:00664e930e0d": {
    "accurate": "yes",
    "note": "Yes, strong passing play"
+  },
+  "moment:06bd53594667": {
+   "accurate": "yes"
   }
  }
 }
