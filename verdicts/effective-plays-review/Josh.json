@@ -1,7 +1,7 @@
 {
  "viewer": "effective-plays-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-26T20:37:44.309Z",
+ "updated": "2026-10-26T20:37:51.193Z",
  "verdicts": {
   "moment:3cc26da7792e": {
    "accurate": "yes",
@@ -16,7 +16,8 @@
    "note": "Yes, good play with a reasonable scoring chance. Target 1 was a little slow to the ball though."
   },
   "moment:9f76e4d16caa": {
-   "accurate": "yes"
+   "accurate": "yes",
+   "note": "Yes, good dunk"
   }
  }
 }
