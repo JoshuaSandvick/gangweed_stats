@@ -1,7 +1,7 @@
 {
  "viewer": "effective-plays-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-26T21:19:17.722Z",
+ "updated": "2026-10-26T21:20:00.640Z",
  "verdicts": {
   "moment:3cc26da7792e": {
    "accurate": "yes",
@@ -25,7 +25,7 @@
   },
   "moment:2e70bbd8a855": {
    "accurate": "yes",
-   "note": "Unsure, this "
+   "note": "Unsure, this did beat a few defenders but then pushed the ball to the defending corner which isn't the strongest position"
   }
  }
 }
