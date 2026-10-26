@@ -1,7 +1,7 @@
 {
  "viewer": "effective-plays-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-26T21:46:44.583Z",
+ "updated": "2026-10-26T21:47:35.643Z",
  "verdicts": {
   "moment:3cc26da7792e": {
    "accurate": "yes",
@@ -50,6 +50,9 @@
   "moment:11d30b59f76d": {
    "accurate": "yes",
    "note": "Yes"
+  },
+  "moment:60b6701f1e90": {
+   "accurate": "yes"
   }
  }
 }
