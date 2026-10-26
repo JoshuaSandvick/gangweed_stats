@@ -1,7 +1,7 @@
 {
  "viewer": "effective-plays-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-26T21:43:01.716Z",
+ "updated": "2026-10-26T21:44:27.049Z",
  "verdicts": {
   "moment:3cc26da7792e": {
    "accurate": "yes",
@@ -44,7 +44,8 @@
    "note": "Yes"
   },
   "moment:103fffd6faee": {
-   "accurate": "yes"
+   "accurate": "yes",
+   "note": "No, in this case Mike definitely should have read the flow. Jake's first touch"
   }
  }
 }
