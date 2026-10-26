@@ -1,7 +1,7 @@
 {
  "viewer": "effective-plays-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-26T22:02:05.395Z",
+ "updated": "2026-10-26T22:08:46.502Z",
  "verdicts": {
   "moment:3cc26da7792e": {
    "accurate": "yes",
@@ -62,6 +62,10 @@
   "moment:4b8fb49047ac": {
    "accurate": "no",
    "note": "I would not say that touch 2 moves the ball towards the opponents goal. It's more like towards their corner."
+  },
+  "moment:02a15dd0303c": {
+   "accurate": "yes",
+   "note": "Yes, this is a hook shot"
   }
  }
 }
