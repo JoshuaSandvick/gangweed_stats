@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-26T17:19:28.165Z",
+ "updated": "2026-10-26T17:19:38.380Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -808,7 +808,7 @@
   },
   "moment:f91019f550aa": {
    "accurate": "no",
-   "note": "Mike was going for the block here, and the opponent ended up missing because of it which meant the "
+   "note": "Mike was going for the block here, and the opponent ended up missing because of it"
   }
  }
 }
