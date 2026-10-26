@@ -1,7 +1,7 @@
 {
  "viewer": "effective-plays-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-26T22:01:24.402Z",
+ "updated": "2026-10-26T22:01:55.000Z",
  "verdicts": {
   "moment:3cc26da7792e": {
    "accurate": "yes",
@@ -60,7 +60,8 @@
    "note": "Yes"
   },
   "moment:4b8fb49047ac": {
-   "accurate": "yes"
+   "accurate": "no",
+   "note": "I would not say that touch 2 moves the ball towards the opponents goal. It's more like towards their corner"
   }
  }
 }
