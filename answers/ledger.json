@@ -1375,6 +1375,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "dead-zone.json",
       "when": "",
       "where": "site"
@@ -1616,6 +1621,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -1863,6 +1873,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "dead-zone.json",
       "when": "",
       "where": "site"
@@ -2104,6 +2119,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -2351,6 +2371,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "dead-zone.json",
       "when": "",
       "where": "site"
@@ -2592,6 +2617,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -2839,6 +2869,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "dead-zone.json",
       "when": "",
       "where": "site"
@@ -3083,6 +3118,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "dead-zone.json",
       "when": "",
       "where": "site"
@@ -3095,6 +3135,35 @@
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "dead-zone"
+  },
+  {
+   "class": "kept",
+   "effective_key": "3cc26da7792e",
+   "identity": {
+    "anchor": 23.65,
+    "key": "3cc26da7792e",
+    "moment": null,
+    "note": "A play of 2 touches by the team: touch 1 (the nearest car): ball in their third, side lane, moving across the field at fast speed; touch 2 (a teammate, the middle car by distance): ball in their third, middle lane, moving toward their goal at fast speed. Lift +40.1 points of V (the description, over the plays from the same starts). This play: +48.8 points of V against the same starts. valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 2",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "3cc26da7792e",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
   },
   {
    "class": "kept",
@@ -4308,6 +4377,116 @@
     ]
    },
    "key": "07cfb582d93f",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "085dbd42ffc5",
+   "identity": {
+    "anchor": 162.33,
+    "end": 164.33,
+    "id": "085dbd42ffc5",
+    "metrics_version": 52,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "0665ed79d24c42e7b8f7229ffa3557d24b00efcaecd170e8d91ccb114d269124",
+     "id": null,
+     "name": "44608A434A10D855FD1B14BDE0F77900.replay"
+    },
+    "seen": [
+     {
+      "ref": "d5eb3cbbbb0ad2fcca629de4c0e82051d98361e4",
+      "when": "2026-10-24T21:20:40-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "2026-10-25T03:35:01+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 159.33,
+    "status": "computed",
+    "subject": null,
+    "team": 1,
+    "type": "mistake_whiff",
+    "values": [
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "gap",
+      "unit": "uu",
+      "value": 44.1,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "closing_speed",
+      "unit": "uu/s",
+      "value": 1769.1,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_speed",
+      "unit": "uu/s",
+      "value": 873.1,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "possession_lost",
+      "unit": "",
+      "value": false,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "heading_deg",
+      "unit": "deg",
+      "value": 32.5,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_dv",
+      "unit": "uu/s",
+      "value": 3.2,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     }
+    ]
+   },
+   "key": "085dbd42ffc5",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -6413,6 +6592,116 @@
    "viewer": "moments"
   },
   {
+   "class": "kept",
+   "effective_key": "208b6b0c9e96",
+   "identity": {
+    "anchor": 12.76,
+    "end": 14.76,
+    "id": "208b6b0c9e96",
+    "metrics_version": 52,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "45281b9289a86d88b4ad9a36bbf76fa5db86bcda70b75ebb0fa94943fb949288",
+     "id": null,
+     "name": "779936DE495F7649994166A2835B1B5D.replay"
+    },
+    "seen": [
+     {
+      "ref": "d5eb3cbbbb0ad2fcca629de4c0e82051d98361e4",
+      "when": "2026-10-24T21:20:40-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "2026-10-25T03:35:01+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 9.76,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mistake_whiff",
+    "values": [
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "gap",
+      "unit": "uu",
+      "value": 28.8,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "closing_speed",
+      "unit": "uu/s",
+      "value": 1128.1,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_speed",
+      "unit": "uu/s",
+      "value": 253.5,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "possession_lost",
+      "unit": "",
+      "value": true,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "heading_deg",
+      "unit": "deg",
+      "value": 50.2,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_dv",
+      "unit": "uu/s",
+      "value": 4.1,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     }
+    ]
+   },
+   "key": "208b6b0c9e96",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
    "class": "orphaned",
    "effective_key": "20d1ce75e060",
    "identity": {
@@ -7065,6 +7354,116 @@
     ]
    },
    "key": "2d46bfd9aaec",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "2e1489f4dd62",
+   "identity": {
+    "anchor": 152.23,
+    "end": 154.23,
+    "id": "2e1489f4dd62",
+    "metrics_version": 52,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "571a15a2a237e0f5fe52694c60f216ffa6540f0b4fe4fbb5615538fca66b1514",
+     "id": null,
+     "name": "6FC72ECF489B0A175C4CA0AD983B3552.replay"
+    },
+    "seen": [
+     {
+      "ref": "d5eb3cbbbb0ad2fcca629de4c0e82051d98361e4",
+      "when": "2026-10-24T21:20:40-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "2026-10-25T03:35:01+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 149.23,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mistake_whiff",
+    "values": [
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "gap",
+      "unit": "uu",
+      "value": 30.1,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "closing_speed",
+      "unit": "uu/s",
+      "value": 2268.4,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_speed",
+      "unit": "uu/s",
+      "value": 925.7,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "possession_lost",
+      "unit": "",
+      "value": false,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "heading_deg",
+      "unit": "deg",
+      "value": 32.8,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_dv",
+      "unit": "uu/s",
+      "value": 6.2,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     }
+    ]
+   },
+   "key": "2e1489f4dd62",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -9321,6 +9720,116 @@
   },
   {
    "class": "kept",
+   "effective_key": "49c29c76a37f",
+   "identity": {
+    "anchor": 87.25,
+    "end": 89.25,
+    "id": "49c29c76a37f",
+    "metrics_version": 52,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-04-16",
+     "digest": "689134310423aae94bdc9b375cfc9d607af7db281a4b82829d074f1155e99044",
+     "id": null,
+     "name": "BABE2F9F4FD8F945C60396A1DDA99F12.replay"
+    },
+    "seen": [
+     {
+      "ref": "d5eb3cbbbb0ad2fcca629de4c0e82051d98361e4",
+      "when": "2026-10-24T21:20:40-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "2026-10-25T03:35:01+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 84.25,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mistake_whiff",
+    "values": [
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "gap",
+      "unit": "uu",
+      "value": 33.7,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "closing_speed",
+      "unit": "uu/s",
+      "value": 1383.5,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_speed",
+      "unit": "uu/s",
+      "value": 1561.0,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "possession_lost",
+      "unit": "",
+      "value": false,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "heading_deg",
+      "unit": "deg",
+      "value": 21.2,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_dv",
+      "unit": "uu/s",
+      "value": 12.6,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     }
+    ]
+   },
+   "key": "49c29c76a37f",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
    "effective_key": "49f79f20e184",
    "identity": {
     "anchor": 229.81,
@@ -9666,6 +10175,116 @@
     ]
    },
    "key": "4d0e0dda22c0",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "5052e2e2bd6c",
+   "identity": {
+    "anchor": 192.23,
+    "end": 194.23,
+    "id": "5052e2e2bd6c",
+    "metrics_version": 52,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-30",
+     "digest": "8141976ecc7ca1a64d86807d42befcfcd30c07db98b838ce7cde0b6e351267c1",
+     "id": null,
+     "name": "B550A61545757E49F72635B51AB6CB9B.replay"
+    },
+    "seen": [
+     {
+      "ref": "d5eb3cbbbb0ad2fcca629de4c0e82051d98361e4",
+      "when": "2026-10-24T21:20:40-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "2026-10-25T03:35:01+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 189.23,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mistake_whiff",
+    "values": [
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "gap",
+      "unit": "uu",
+      "value": -0.6,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "closing_speed",
+      "unit": "uu/s",
+      "value": 1700.7,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_speed",
+      "unit": "uu/s",
+      "value": 867.4,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "possession_lost",
+      "unit": "",
+      "value": false,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "heading_deg",
+      "unit": "deg",
+      "value": 24.5,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_dv",
+      "unit": "uu/s",
+      "value": 10.0,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     }
+    ]
+   },
+   "key": "5052e2e2bd6c",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -10214,6 +10833,116 @@
     ]
    },
    "key": "55bf99de8e5e",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "586194295543",
+   "identity": {
+    "anchor": 330.49,
+    "end": 332.49,
+    "id": "586194295543",
+    "metrics_version": 52,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "594f8000f7968caea91b5dcbf5ce9a845cdc342a379411d65d64f2481a78164d",
+     "id": null,
+     "name": "A671B84042D99681825C549185840440.replay"
+    },
+    "seen": [
+     {
+      "ref": "d5eb3cbbbb0ad2fcca629de4c0e82051d98361e4",
+      "when": "2026-10-24T21:20:40-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "2026-10-25T03:35:01+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 327.49,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mistake_whiff",
+    "values": [
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "gap",
+      "unit": "uu",
+      "value": 50.8,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "closing_speed",
+      "unit": "uu/s",
+      "value": 2060.0,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_speed",
+      "unit": "uu/s",
+      "value": 2930.4,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "possession_lost",
+      "unit": "",
+      "value": true,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "heading_deg",
+      "unit": "deg",
+      "value": 32.7,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_dv",
+      "unit": "uu/s",
+      "value": 22.9,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     }
+    ]
+   },
+   "key": "586194295543",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -13464,6 +14193,116 @@
   },
   {
    "class": "kept",
+   "effective_key": "8877e35e9bad",
+   "identity": {
+    "anchor": 355.83,
+    "end": 357.83,
+    "id": "8877e35e9bad",
+    "metrics_version": 52,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "923c184aa7a5f648f5ec2da7a9e0c49578726a61998371d26ae84d9483527fc6",
+     "id": null,
+     "name": "127612B946C44C623BE06C8EEF823314.replay"
+    },
+    "seen": [
+     {
+      "ref": "d5eb3cbbbb0ad2fcca629de4c0e82051d98361e4",
+      "when": "2026-10-24T21:20:40-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "2026-10-25T03:35:01+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 352.83,
+    "status": "computed",
+    "subject": null,
+    "team": 1,
+    "type": "mistake_whiff",
+    "values": [
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "gap",
+      "unit": "uu",
+      "value": 11.4,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "closing_speed",
+      "unit": "uu/s",
+      "value": 1747.2,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_speed",
+      "unit": "uu/s",
+      "value": 2338.5,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "possession_lost",
+      "unit": "",
+      "value": true,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "heading_deg",
+      "unit": "deg",
+      "value": 31.6,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_dv",
+      "unit": "uu/s",
+      "value": 15.2,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     }
+    ]
+   },
+   "key": "8877e35e9bad",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
    "effective_key": "8a1cfe8572d4",
    "identity": {
     "anchor": 313.52,
@@ -14335,6 +15174,116 @@
   },
   {
    "class": "kept",
+   "effective_key": "91f0d8149658",
+   "identity": {
+    "anchor": 131.67,
+    "end": 133.67,
+    "id": "91f0d8149658",
+    "metrics_version": 52,
+    "moments_version": 1,
+    "players": [
+     "Jake"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "a9f3d536b86fbc851f6e00c66eca05eb146f868e1f4fe1c42d46a0017159a655",
+     "id": null,
+     "name": "89E46C8C4D37E74C59004993AFAC3F0E.replay"
+    },
+    "seen": [
+     {
+      "ref": "d5eb3cbbbb0ad2fcca629de4c0e82051d98361e4",
+      "when": "2026-10-24T21:20:40-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "2026-10-25T03:35:01+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 128.67,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mistake_whiff",
+    "values": [
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "gap",
+      "unit": "uu",
+      "value": 10.1,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "closing_speed",
+      "unit": "uu/s",
+      "value": 1684.7,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_speed",
+      "unit": "uu/s",
+      "value": 1950.2,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "possession_lost",
+      "unit": "",
+      "value": false,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "heading_deg",
+      "unit": "deg",
+      "value": 22.2,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_dv",
+      "unit": "uu/s",
+      "value": 12.0,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     }
+    ]
+   },
+   "key": "91f0d8149658",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
    "effective_key": "92005e832da2",
    "identity": {
     "anchor": 268.59,
@@ -14595,6 +15544,116 @@
     ]
    },
    "key": "937999466aba",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "939c24ae53d6",
+   "identity": {
+    "anchor": 92.18,
+    "end": 94.18,
+    "id": "939c24ae53d6",
+    "metrics_version": 52,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "594f8000f7968caea91b5dcbf5ce9a845cdc342a379411d65d64f2481a78164d",
+     "id": null,
+     "name": "A671B84042D99681825C549185840440.replay"
+    },
+    "seen": [
+     {
+      "ref": "d5eb3cbbbb0ad2fcca629de4c0e82051d98361e4",
+      "when": "2026-10-24T21:20:40-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "2026-10-25T03:35:01+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 89.18,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mistake_whiff",
+    "values": [
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "gap",
+      "unit": "uu",
+      "value": 24.7,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "closing_speed",
+      "unit": "uu/s",
+      "value": 950.8,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_speed",
+      "unit": "uu/s",
+      "value": 767.8,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "possession_lost",
+      "unit": "",
+      "value": false,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "heading_deg",
+      "unit": "deg",
+      "value": 31.2,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_dv",
+      "unit": "uu/s",
+      "value": 6.9,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     }
+    ]
+   },
+   "key": "939c24ae53d6",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -16251,6 +17310,116 @@
     ]
    },
    "key": "adedb8ff0d3d",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "ae1877816b28",
+   "identity": {
+    "anchor": 80.49,
+    "end": 82.49,
+    "id": "ae1877816b28",
+    "metrics_version": 52,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "45281b9289a86d88b4ad9a36bbf76fa5db86bcda70b75ebb0fa94943fb949288",
+     "id": null,
+     "name": "779936DE495F7649994166A2835B1B5D.replay"
+    },
+    "seen": [
+     {
+      "ref": "d5eb3cbbbb0ad2fcca629de4c0e82051d98361e4",
+      "when": "2026-10-24T21:20:40-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "2026-10-25T03:35:01+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 77.49,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mistake_whiff",
+    "values": [
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "gap",
+      "unit": "uu",
+      "value": 7.3,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "closing_speed",
+      "unit": "uu/s",
+      "value": 1742.5,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_speed",
+      "unit": "uu/s",
+      "value": 1846.1,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "possession_lost",
+      "unit": "",
+      "value": true,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "heading_deg",
+      "unit": "deg",
+      "value": 22.7,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_dv",
+      "unit": "uu/s",
+      "value": 12.4,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     }
+    ]
+   },
+   "key": "ae1877816b28",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -18469,6 +19638,116 @@
     ]
    },
    "key": "ca87fe17c807",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "cbf8f7d98bce",
+   "identity": {
+    "anchor": 180.43,
+    "end": 182.43,
+    "id": "cbf8f7d98bce",
+    "metrics_version": 52,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "d831d9ad00f8709f668483b36bde3e375458300af3a7677dd49ed97be7c510c3",
+     "id": null,
+     "name": "61F172DE47639F2969124B83F8ED264F.replay"
+    },
+    "seen": [
+     {
+      "ref": "d5eb3cbbbb0ad2fcca629de4c0e82051d98361e4",
+      "when": "2026-10-24T21:20:40-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "2026-10-25T03:35:01+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 177.43,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mistake_whiff",
+    "values": [
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "gap",
+      "unit": "uu",
+      "value": 38.6,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "closing_speed",
+      "unit": "uu/s",
+      "value": 724.0,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_speed",
+      "unit": "uu/s",
+      "value": 1475.0,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "possession_lost",
+      "unit": "",
+      "value": false,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "heading_deg",
+      "unit": "deg",
+      "value": 18.0,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_dv",
+      "unit": "uu/s",
+      "value": 10.3,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     }
+    ]
+   },
+   "key": "cbf8f7d98bce",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -21565,6 +22844,116 @@
   },
   {
    "class": "kept",
+   "effective_key": "f3a4cce354eb",
+   "identity": {
+    "anchor": 80.3,
+    "end": 82.3,
+    "id": "f3a4cce354eb",
+    "metrics_version": 52,
+    "moments_version": 1,
+    "players": [
+     "Josh"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "45281b9289a86d88b4ad9a36bbf76fa5db86bcda70b75ebb0fa94943fb949288",
+     "id": null,
+     "name": "779936DE495F7649994166A2835B1B5D.replay"
+    },
+    "seen": [
+     {
+      "ref": "d5eb3cbbbb0ad2fcca629de4c0e82051d98361e4",
+      "when": "2026-10-24T21:20:40-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "2026-10-25T03:35:01+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 77.3,
+    "status": "computed",
+    "subject": null,
+    "team": 0,
+    "type": "mistake_whiff",
+    "values": [
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "gap",
+      "unit": "uu",
+      "value": 37.4,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "closing_speed",
+      "unit": "uu/s",
+      "value": 2124.0,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_speed",
+      "unit": "uu/s",
+      "value": 1870.5,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "possession_lost",
+      "unit": "",
+      "value": true,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "heading_deg",
+      "unit": "deg",
+      "value": 30.7,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_dv",
+      "unit": "uu/s",
+      "value": 15.8,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     }
+    ]
+   },
+   "key": "f3a4cce354eb",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
    "effective_key": "f3dc7a8bde99",
    "identity": {
     "anchor": 96.58,
@@ -22153,6 +23542,116 @@
     ]
    },
    "key": "f90e4adef443",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "moments"
+  },
+  {
+   "class": "kept",
+   "effective_key": "f91019f550aa",
+   "identity": {
+    "anchor": 209.53,
+    "end": 211.53,
+    "id": "f91019f550aa",
+    "metrics_version": 52,
+    "moments_version": 1,
+    "players": [
+     "Mike"
+    ],
+    "replay": {
+     "band": null,
+     "date": "2026-09-26",
+     "digest": "0665ed79d24c42e7b8f7229ffa3557d24b00efcaecd170e8d91ccb114d269124",
+     "id": null,
+     "name": "44608A434A10D855FD1B14BDE0F77900.replay"
+    },
+    "seen": [
+     {
+      "ref": "d5eb3cbbbb0ad2fcca629de4c0e82051d98361e4",
+      "when": "2026-10-24T21:20:40-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "",
+      "where": "site"
+     },
+     {
+      "ref": "mistake_whiff.json",
+      "when": "2026-10-25T03:35:01+00:00",
+      "where": "store"
+     }
+    ],
+    "source": "ours",
+    "start": 206.53,
+    "status": "computed",
+    "subject": null,
+    "team": 1,
+    "type": "mistake_whiff",
+    "values": [
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "gap",
+      "unit": "uu",
+      "value": 57.9,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "closing_speed",
+      "unit": "uu/s",
+      "value": 1350.3,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_speed",
+      "unit": "uu/s",
+      "value": 1090.8,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "possession_lost",
+      "unit": "",
+      "value": false,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "heading_deg",
+      "unit": "deg",
+      "value": 41.4,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     },
+     {
+      "function": "rl_coach.mistakes_whiff._event",
+      "name": "ball_dv",
+      "unit": "uu/s",
+      "value": 14.3,
+      "versions": {
+       "METRICS_VERSION": 52,
+       "MISTAKES_VERSION": 4
+      }
+     }
+    ]
+   },
+   "key": "f91019f550aa",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "moments"
@@ -23022,6 +24521,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "parked.json",
       "when": "",
       "where": "site"
@@ -23263,6 +24767,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -23510,6 +25019,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "parked.json",
       "when": "",
       "where": "site"
@@ -23751,6 +25265,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -23998,6 +25517,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "parked.json",
       "when": "",
       "where": "site"
@@ -24239,6 +25763,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -24486,6 +26015,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "parked.json",
       "when": "",
       "where": "site"
@@ -24727,6 +26261,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -24974,6 +26513,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "parked.json",
       "when": "",
       "where": "site"
@@ -25215,6 +26759,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -25462,6 +27011,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "parked.json",
       "when": "",
       "where": "site"
@@ -25703,6 +27257,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -25950,6 +27509,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "parked.json",
       "when": "",
       "where": "site"
@@ -26191,6 +27755,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -26438,6 +28007,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "parked.json",
       "when": "",
       "where": "site"
@@ -26644,6 +28218,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -26856,6 +28435,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "plays-chain-review.json",
       "when": "",
       "where": "site"
@@ -27065,6 +28649,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "plays-chain-review.json",
       "when": "",
       "where": "site"
@@ -27271,6 +28860,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -27488,6 +29082,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "plays-chain-review.json",
       "when": "",
       "where": "site"
@@ -27694,6 +29293,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -27906,6 +29510,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "plays-chain-review.json",
       "when": "",
       "where": "site"
@@ -28112,6 +29721,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -28329,6 +29943,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "plays-chain-review.json",
       "when": "",
       "where": "site"
@@ -28543,6 +30162,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "plays-chain-review.json",
       "when": "",
       "where": "site"
@@ -28749,6 +30373,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -28961,6 +30590,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "plays-chain-review.json",
       "when": "",
       "where": "site"
@@ -29167,6 +30801,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -29381,6 +31020,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -29683,6 +31327,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -30090,6 +31739,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -30735,6 +32389,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -32545,6 +34204,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "rotation-movement-review-1.json",
       "when": "",
       "where": "site"
@@ -32571,6 +34235,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -32603,6 +34272,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "rotation-movement-review-1.json",
       "when": "",
       "where": "site"
@@ -32629,6 +34303,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -32661,6 +34340,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "rotation-movement-review-1.json",
       "when": "",
       "where": "site"
@@ -32687,6 +34371,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -32719,6 +34408,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "rotation-movement-review-1.json",
       "when": "",
       "where": "site"
@@ -32745,6 +34439,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -32777,6 +34476,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "rotation-movement-review-1.json",
       "when": "",
       "where": "site"
@@ -32806,6 +34510,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "rotation-movement-review-1.json",
       "when": "",
       "where": "site"
@@ -32832,6 +34541,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -32879,6 +34593,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "rotation-review-1.json",
       "when": "",
       "where": "site"
@@ -32920,6 +34639,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -32967,6 +34691,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "rotation-review-1.json",
       "when": "",
       "where": "site"
@@ -33011,6 +34740,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "rotation-review-1.json",
       "when": "",
       "where": "site"
@@ -33052,6 +34786,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -33299,6 +35038,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "situations-2026-10-07.json",
       "when": "",
       "where": "site"
@@ -33540,6 +35284,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -33787,6 +35536,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "situations-2026-10-07.json",
       "when": "",
       "where": "site"
@@ -34028,6 +35782,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -34275,6 +36034,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "situations-2026-10-07.json",
       "when": "",
       "where": "site"
@@ -34516,6 +36280,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
@@ -34763,6 +36532,11 @@
       "where": "history"
      },
      {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
+      "where": "history"
+     },
+     {
       "ref": "situations-2026-10-07.json",
       "when": "",
       "where": "site"
@@ -35004,6 +36778,11 @@
      {
       "ref": "ed318645bae8ae0af4dff048fd2c18fadbc8d464",
       "when": "2026-10-24T21:53:16-04:00",
+      "where": "history"
+     },
+     {
+      "ref": "d5dd6b7cd24cd86efbccc5baa773dc0cdbdd98f2",
+      "when": "2026-10-26T12:53:53-04:00",
       "where": "history"
      },
      {
