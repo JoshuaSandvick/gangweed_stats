@@ -1,7 +1,7 @@
 {
  "viewer": "effective-plays-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-26T20:35:33.928Z",
+ "updated": "2026-10-26T20:36:26.860Z",
  "verdicts": {
   "moment:3cc26da7792e": {
    "accurate": "yes",
@@ -13,7 +13,7 @@
   },
   "moment:c8d93e03d7eb": {
    "accurate": "yes",
-   "note": "Unsure, good play but"
+   "note": "Yes, good play with a reasonable scoring chance. "
   }
  }
 }
