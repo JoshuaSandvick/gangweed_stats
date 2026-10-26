@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-26T17:27:01.338Z",
+ "updated": "2026-10-26T17:27:09.317Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -834,7 +834,7 @@
    "note": "This might have been a fake from mike rather than a whiff. He got the opponent 2 to go for a block, which opened the goal for Jake to score. "
   },
   "moment:586194295543": {
-   "accurate": "yes"
+   "accurate": ""
   }
  }
 }
