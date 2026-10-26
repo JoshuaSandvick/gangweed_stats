@@ -1,7 +1,7 @@
 {
  "viewer": "effective-plays-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-26T21:36:25.964Z",
+ "updated": "2026-10-26T21:36:28.791Z",
  "verdicts": {
   "moment:3cc26da7792e": {
    "accurate": "yes",
@@ -36,7 +36,8 @@
    "note": "No, this is a badly-lost 50 by target 1"
   },
   "moment:37ed7ec18cb3": {
-   "accurate": "yes"
+   "accurate": "yes",
+   "note": "Yes"
   }
  }
 }
