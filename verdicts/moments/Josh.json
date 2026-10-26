@@ -1,7 +1,7 @@
 {
  "viewer": "moments",
  "reviewer": "Josh",
- "updated": "2026-10-26T17:17:47.118Z",
+ "updated": "2026-10-26T17:18:03.601Z",
  "verdicts": {
   "moment:6cec44a8ee05": {
    "accurate": "yes"
@@ -804,7 +804,7 @@
   },
   "moment:085dbd42ffc5": {
    "accurate": "unclear",
-   "note": "Unsure if Josh meant to hit it at that moment, but he ended up "
+   "note": "Unsure if Josh meant to hit it at that moment, but he ended up using that miss as a fake to get a great follow up hit"
   }
  }
 }
