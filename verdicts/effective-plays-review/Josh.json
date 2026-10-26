@@ -1,7 +1,7 @@
 {
  "viewer": "effective-plays-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-26T20:35:09.195Z",
+ "updated": "2026-10-26T20:35:33.928Z",
  "verdicts": {
   "moment:3cc26da7792e": {
    "accurate": "yes",
@@ -12,7 +12,8 @@
    "note": "No, very dangerous for defense"
   },
   "moment:c8d93e03d7eb": {
-   "accurate": "yes"
+   "accurate": "yes",
+   "note": "Unsure, good play but"
   }
  }
 }
