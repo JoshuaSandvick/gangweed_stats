@@ -1,7 +1,7 @@
 {
  "viewer": "effective-plays-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-26T21:21:15.316Z",
+ "updated": "2026-10-26T21:24:18.726Z",
  "verdicts": {
   "moment:3cc26da7792e": {
    "accurate": "yes",
@@ -30,6 +30,10 @@
   "moment:77d7a5636330": {
    "accurate": "no",
    "note": "I don't think an opponent touches the ball here"
+  },
+  "moment:26db496d5188": {
+   "accurate": "yes",
+   "note": "No, this is a badly-lost 50 by"
   }
  }
 }
