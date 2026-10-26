@@ -1,7 +1,7 @@
 {
  "viewer": "effective-plays-review-1",
  "reviewer": "Josh",
- "updated": "2026-10-26T20:41:12.203Z",
+ "updated": "2026-10-26T21:19:04.555Z",
  "verdicts": {
   "moment:3cc26da7792e": {
    "accurate": "yes",
@@ -22,6 +22,9 @@
   "moment:f02a8f2c5087": {
    "accurate": "yes",
    "note": "No, the situation here is that the third man takes a 50 and loses, which leaves the team in a dangerous situation"
+  },
+  "moment:2e70bbd8a855": {
+   "accurate": "yes"
   }
  }
 }
