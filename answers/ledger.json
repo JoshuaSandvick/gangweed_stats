@@ -3138,6 +3138,222 @@
   },
   {
    "class": "kept",
+   "effective_key": "00664e930e0d",
+   "identity": {
+    "anchor": 23.3,
+    "key": "00664e930e0d",
+    "moment": null,
+    "note": "A play that goes well. A play of 2 touches by the target team: touch 1 (the nearest car): ball in their third, side lane, moving across the field at fast speed; touch 2 (a teammate, the middle car by distance): ball in their third, middle lane, moving toward their goal at fast speed. Lift +40.1 points of V (the description, over the plays from the same starts). valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 17",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "00664e930e0d",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "02a15dd0303c",
+   "identity": {
+    "anchor": 318.48,
+    "key": "02a15dd0303c",
+    "moment": null,
+    "note": "A play that goes well. A play of 2 touches by the target team: touch 1 (the nearest car): ball in their third, middle lane, moving toward their goal at fast speed; touch 2 (the same player again, the nearest car): ball in their third, middle lane, moving toward their goal at fast speed. Lift +31.9 points of V (the description, over the plays from the same starts). This play: +91.9 points of V against the same starts. valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 16",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "02a15dd0303c",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "06bd53594667",
+   "identity": {
+    "anchor": 138.0,
+    "key": "06bd53594667",
+    "moment": null,
+    "note": "A play that goes badly (an example to avoid). A play of 2 touches by the target team: touch 1 (the nearest car): ball in our own third, middle lane, moving back toward our goal at fast speed; touch 2 (an opponent): ball in our own third, middle lane, moving back toward our goal at fast speed. Lift -23.6 points of V (the description, over the plays from the same starts). valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 18",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "06bd53594667",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "103fffd6faee",
+   "identity": {
+    "anchor": 25.02,
+    "key": "103fffd6faee",
+    "moment": null,
+    "note": "A play that goes well. A play of 2 touches by the target team: touch 1 (the nearest car): ball in the middle third, side lane, moving toward their goal at fast speed; touch 2 (the same player again, the nearest car): ball in their third, middle lane, moving toward their goal at fast speed. Lift +32.0 points of V (the description, over the plays from the same starts). This play: +3.8 points of V against the same starts. valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 11",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "103fffd6faee",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "11d30b59f76d",
+   "identity": {
+    "anchor": 124.91,
+    "key": "11d30b59f76d",
+    "moment": null,
+    "note": "A play that goes well. A play of 2 touches by the target team: touch 1 (the nearest car): ball in our own third, side lane, moving toward their goal at fast speed; touch 2 (a teammate, the farthest car): ball in the middle third, middle lane, moving toward their goal at fast speed. Lift +18.9 points of V (the description, over the plays from the same starts). This play: +23.5 points of V against the same starts. valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 12",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "11d30b59f76d",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "1d634fa354dc",
+   "identity": {
+    "anchor": 208.64,
+    "key": "1d634fa354dc",
+    "moment": null,
+    "note": "A play that goes well. A play of 2 touches by the target team: touch 1 (the nearest car): ball in the middle third, side lane, moving toward their goal at fast speed; touch 2 (the same player again, the nearest car): ball in their third, middle lane, moving toward their goal at fast speed. Lift +32.0 points of V (the description, over the plays from the same starts). valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 14",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "1d634fa354dc",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "26db496d5188",
+   "identity": {
+    "anchor": 120.57,
+    "key": "26db496d5188",
+    "moment": null,
+    "note": "A play that goes badly (an example to avoid). A play of 2 touches by the target team: touch 1 (the nearest car): ball in our own third, middle lane, moving back toward our goal at fast speed; touch 2 (an opponent): ball in our own third, middle lane, moving back toward our goal at fast speed. Lift -23.6 points of V (the description, over the plays from the same starts). valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 8",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "26db496d5188",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "2e70bbd8a855",
+   "identity": {
+    "anchor": 21.5,
+    "key": "2e70bbd8a855",
+    "moment": null,
+    "note": "A play that goes well. A play of 2 touches by the target team: touch 1 (the nearest car): ball in our own third, side lane, moving toward their goal at fast speed; touch 2 (the same player again, the nearest car): ball in the middle third, middle lane, moving toward their goal at fast speed. Lift +14.6 points of V (the description, over the plays from the same starts). valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 6",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "2e70bbd8a855",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "37ed7ec18cb3",
+   "identity": {
+    "anchor": 123.28,
+    "key": "37ed7ec18cb3",
+    "moment": null,
+    "note": "A play that goes well. A play of 2 touches by the target team: touch 1 (the nearest car): ball in our own third, side lane, moving toward their goal at fast speed; touch 2 (the same player again, the nearest car): ball in the middle third, middle lane, moving toward their goal at fast speed. Lift +14.6 points of V (the description, over the plays from the same starts). This play: +4.6 points of V against the same starts. valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 9",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "37ed7ec18cb3",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
    "effective_key": "3cc26da7792e",
    "identity": {
     "anchor": 23.65,
@@ -3156,6 +3372,198 @@
     "viewer": "effective-plays-review-1"
    },
    "key": "3cc26da7792e",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "47ce4148ac66",
+   "identity": {
+    "anchor": 268.77,
+    "key": "47ce4148ac66",
+    "moment": null,
+    "note": "A play that goes well. A play of 2 touches by the target team: touch 1 (the nearest car): ball in our own third, side lane, moving toward their goal at fast speed; touch 2 (a teammate, the farthest car): ball in the middle third, middle lane, moving toward their goal at fast speed. Lift +18.9 points of V (the description, over the plays from the same starts). valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 10",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "47ce4148ac66",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "4b8fb49047ac",
+   "identity": {
+    "anchor": 70.45,
+    "key": "4b8fb49047ac",
+    "moment": null,
+    "note": "A play that goes well. A play of 2 touches by the target team: touch 1 (the nearest car): ball in our own third, side lane, moving toward their goal at fast speed; touch 2 (a teammate, the farthest car): ball in the middle third, middle lane, moving toward their goal at fast speed. Lift +18.9 points of V (the description, over the plays from the same starts). valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 15",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "4b8fb49047ac",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "60b6701f1e90",
+   "identity": {
+    "anchor": 408.13,
+    "key": "60b6701f1e90",
+    "moment": null,
+    "note": "A play that goes well. A play of 2 touches by the target team: touch 1 (the nearest car): ball in the middle third, middle lane, moving toward their goal at fast speed; touch 2 (the same player again, the nearest car): ball in their third, middle lane, moving toward their goal at fast speed. Lift +27.4 points of V (the description, over the plays from the same starts). This play: +96.1 points of V against the same starts. valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 13",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "60b6701f1e90",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "77d7a5636330",
+   "identity": {
+    "anchor": 194.5,
+    "key": "77d7a5636330",
+    "moment": null,
+    "note": "A play that goes well. A play of 2 touches by the target team: touch 1 (the nearest car): ball in their third, middle lane, moving toward their goal at fast speed; touch 2 (an opponent): ball in their third, middle lane, moving toward their goal at fast speed. Lift +21.5 points of V (the description, over the plays from the same starts). valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 7",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "77d7a5636330",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "9f76e4d16caa",
+   "identity": {
+    "anchor": 56.8,
+    "key": "9f76e4d16caa",
+    "moment": null,
+    "note": "A play that goes well. A play of 2 touches by the target team: touch 1 (the nearest car): ball in their third, middle lane, moving toward their goal at fast speed; touch 2 (an opponent): ball in their third, middle lane, moving toward their goal at fast speed. Lift +21.5 points of V (the description, over the plays from the same starts). valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 4",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "9f76e4d16caa",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "a01b1dcb1548",
+   "identity": {
+    "anchor": 130.25,
+    "key": "a01b1dcb1548",
+    "moment": null,
+    "note": "A play that goes badly (an example to avoid). A play of 2 touches by the target team: touch 1 (the nearest car): ball in our own third, middle lane, moving toward their goal at slow speed; touch 2 (an opponent): ball in our own third, middle lane, moving back toward our goal at fast speed. Lift -31.7 points of V (the description, over the plays from the same starts). valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 1",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "a01b1dcb1548",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "c8d93e03d7eb",
+   "identity": {
+    "anchor": 69.37,
+    "key": "c8d93e03d7eb",
+    "moment": null,
+    "note": "A play that goes well. A play of 2 touches by the target team: touch 1 (the nearest car): ball in their third, side lane, moving toward their goal at fast speed; touch 2 (a teammate, the farthest car): ball in their third, middle lane, moving toward their goal at fast speed. Lift +37.6 points of V (the description, over the plays from the same starts). valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 3",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "c8d93e03d7eb",
+   "live_in": [],
+   "reviewer": "Josh",
+   "viewer": "effective-plays-review-1"
+  },
+  {
+   "class": "kept",
+   "effective_key": "f02a8f2c5087",
+   "identity": {
+    "anchor": 22.8,
+    "key": "f02a8f2c5087",
+    "moment": null,
+    "note": "A play that goes badly (an example to avoid). A play of 2 touches by the target team: touch 1 (the nearest car): ball in the middle third, side lane, moving back toward our goal at fast speed; touch 2 (an opponent): ball in our own third, side lane, moving back toward our goal at fast speed. Lift -15.1 points of V (the description, over the plays from the same starts). valid? = is the claim right: does the clip show the described play (each touch's who, zone, direction and speed)? yes / no / unsure Judgement (first word of your note): worth copying? yes / no / unsure. Then say what you see.",
+    "pair": null,
+    "seen": [
+     {
+      "ref": "effective-plays-review-1.json",
+      "when": "",
+      "where": "site"
+     }
+    ],
+    "title": "Effective play 5",
+    "viewer": "effective-plays-review-1"
+   },
+   "key": "f02a8f2c5087",
    "live_in": [],
    "reviewer": "Josh",
    "viewer": "effective-plays-review-1"
